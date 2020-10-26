@@ -1,4 +1,4 @@
 ---
-title: "ALDI"
+title: "Aldi"
 url: /louisville/aldi-3/
 ---
