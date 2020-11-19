@@ -1,6 +1,6 @@
 ---
 title: Hebron
 url: /hebron/
-latitude: 39.0658928
-longitude: -84.7010576
+latitude: 39.065813000000006
+longitude: -84.7027575
 ---
