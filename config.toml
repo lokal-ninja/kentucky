@@ -4,6 +4,7 @@ title = "Kentucky"
 theme = "ln-base"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
+enableGitInfo = true
 
 [outputs]
   home = ["HTML", "JSON"]
