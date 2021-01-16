@@ -8,5 +8,5 @@ city: Louisville
 street: "Shelbyville Road"
 housenumber: 4600
 phone: "502-895-2310"
-opening_hours: "Mon, Wed, Thurs, Fri: 10 am - 9 pm, Wed: 10 am - 6 pm, Sunday: 11 am - 7 pm"
+opening_hours: "Mo,We,Th,Fr 10:00-21:00, We 10:00-18:00, Su 11:00-19:00"
 website: "http://www.kirklands.com/"
