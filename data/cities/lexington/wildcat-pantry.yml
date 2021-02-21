@@ -1,6 +1,5 @@
 id: 4439685650
 type: node
-shop: supermarket
 latitude: 38.031272900000005
 longitude: -84.5018977
 postcode: "40508"
@@ -8,5 +7,5 @@ city: Lexington
 street: "Hilltop Avenue"
 housenumber: 440
 phone: ""
-opening_hours: "Mo-Fr 07:00-00:00, Sa-Su 11:00-00:00"
+opening_hours: "Mo-Fr 07:00-24:00, Sa-Su 11:00-24:00"
 website: "https://uky.campusdish.com/LocationsAndMenus/WildcatPantry90"

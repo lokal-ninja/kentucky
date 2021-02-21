@@ -1,6 +1,5 @@
 id: 339043664
 type: way
-shop: alcohol
 latitude: 38.189458800000004
 longitude: -85.7651366
 postcode: "40214"
@@ -8,5 +7,5 @@ city: Louisville
 street: "South 3rd Street"
 housenumber: 4450
 phone: ""
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 09:00-00:00; Su 09:00-23:00"
+opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-23:00"
 website: ""
