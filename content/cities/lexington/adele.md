@@ -1,5 +1,5 @@
 ---
 title: "Adelé"
 url: /lexington/adele/
-shop: boutique
+shop: clothes
 ---
