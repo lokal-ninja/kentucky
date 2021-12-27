@@ -1,6 +1,6 @@
 ---
 title: Leitchfield
 url: /leitchfield/
-latitude: 37.4801693
-longitude: -86.29366040000001
+latitude: 37.485
+longitude: -86.266
 ---

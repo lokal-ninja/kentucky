@@ -1,6 +1,6 @@
 ---
 title: Crescent Springs
 url: /crescent-springs/
-latitude: 39.0514492
-longitude: -84.5816106
+latitude: 39.048
+longitude: -84.576
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /pikeville/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

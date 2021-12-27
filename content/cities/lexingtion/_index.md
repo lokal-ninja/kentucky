@@ -1,6 +1,6 @@
 ---
 title: Lexingtion
 url: /lexingtion/
-latitude: 
-longitude: 
+latitude: 38.017
+longitude: -84.409
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /st-matthews/thorntons/
-shop: convenience
+shop: Lebensmittel
 ---

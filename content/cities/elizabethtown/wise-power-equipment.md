@@ -1,5 +1,5 @@
 ---
 title: "Wise Power Equipment"
 url: /elizabethtown/wise-power-equipment/
-shop: shop
+shop: Allgemein
 ---

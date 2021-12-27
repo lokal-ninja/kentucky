@@ -1,5 +1,5 @@
 ---
 title: "Cato"
 url: /versailles/cato/
-shop: clothes
+shop: Kleidung
 ---

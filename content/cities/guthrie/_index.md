@@ -1,6 +1,6 @@
 ---
 title: Guthrie
 url: /guthrie/
-latitude: 36.6485623
-longitude: -87.1661261
+latitude: 36.643
+longitude: -87.16
 ---

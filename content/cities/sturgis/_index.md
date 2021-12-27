@@ -1,6 +1,6 @@
 ---
 title: Sturgis
 url: /sturgis/
-latitude: 37.546713600000004
-longitude: -87.983914
+latitude: 37.675
+longitude: -88.097
 ---

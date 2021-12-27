@@ -1,6 +1,6 @@
 ---
 title: Erlanger
 url: /erlanger/
-latitude: 39.0167275
-longitude: -84.6007773
+latitude: 39.028
+longitude: -84.617
 ---

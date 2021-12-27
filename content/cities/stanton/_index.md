@@ -1,6 +1,6 @@
 ---
 title: Stanton
 url: /stanton/
-latitude: 37.8456373
-longitude: -83.8582525
+latitude: 37.845
+longitude: -83.862
 ---

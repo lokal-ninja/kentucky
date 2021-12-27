@@ -1,6 +1,6 @@
 ---
 title: campbellsville
 url: /campbellsville/
-latitude: 
-longitude: 
+latitude: 37.344
+longitude: -85.361
 ---

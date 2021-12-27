@@ -1,6 +1,6 @@
 ---
 title: Morehead
 url: /morehead/
-latitude: 38.1839705
-longitude: -83.4326841
+latitude: 38.201
+longitude: -83.475
 ---

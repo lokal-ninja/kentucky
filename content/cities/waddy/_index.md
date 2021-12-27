@@ -1,6 +1,6 @@
 ---
 title: Waddy
 url: /waddy/
-latitude: 38.1370153
-longitude: -85.0743978
+latitude: 38.152
+longitude: -85.072
 ---

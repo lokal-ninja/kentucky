@@ -1,5 +1,5 @@
 ---
 title: "Glasgow Gun and Pawn"
 url: /glasgow/glasgow-gun-and-pawn/
-shop: pawnbroker
+shop: Leiher
 ---

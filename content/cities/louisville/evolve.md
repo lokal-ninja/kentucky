@@ -1,5 +1,5 @@
 ---
 title: "Evolve"
 url: /louisville/evolve/
-shop: clothes
+shop: Kleidung
 ---

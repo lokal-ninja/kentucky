@@ -1,6 +1,6 @@
 ---
 title: Richlawn
 url: /richlawn/
-latitude: 38.2547932
-longitude: -85.6394056
+latitude: 38.252
+longitude: -85.64
 ---

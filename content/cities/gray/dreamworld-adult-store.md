@@ -1,5 +1,5 @@
 ---
 title: "Dreamworld Adult Store"
 url: /gray/dreamworld-adult-store/
-shop: erotic
+shop: Erotik
 ---

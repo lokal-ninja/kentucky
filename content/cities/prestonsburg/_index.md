@@ -1,6 +1,6 @@
 ---
 title: Prestonsburg
 url: /prestonsburg/
-latitude: 37.6656527
-longitude: -82.7715486
+latitude: 37.675
+longitude: -82.778
 ---

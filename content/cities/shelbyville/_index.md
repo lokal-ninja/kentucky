@@ -1,6 +1,6 @@
 ---
 title: Shelbyville
 url: /shelbyville/
-latitude: 38.2120144
-longitude: -85.22356660000001
+latitude: 38.214
+longitude: -85.261
 ---

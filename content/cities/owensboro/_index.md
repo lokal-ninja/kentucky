@@ -1,6 +1,6 @@
 ---
 title: Owensboro
 url: /owensboro/
-latitude: 37.7742152
-longitude: -87.11333040000001
+latitude: 37.755
+longitude: -87.059
 ---

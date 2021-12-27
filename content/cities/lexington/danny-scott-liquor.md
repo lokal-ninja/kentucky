@@ -1,5 +1,5 @@
 ---
 title: "Danny Scott Liquor"
 url: /lexington/danny-scott-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

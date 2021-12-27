@@ -1,5 +1,5 @@
 ---
 title: "Bader Music"
 url: /louisville/bader-music/
-shop: electronics
+shop: Elektronik
 ---

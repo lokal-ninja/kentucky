@@ -1,6 +1,6 @@
 ---
 title: Oak Grove
 url: /oak-grove/
-latitude: 37.344214900000004
-longitude: -86.7547121
+latitude: 36.668
+longitude: -87.441
 ---

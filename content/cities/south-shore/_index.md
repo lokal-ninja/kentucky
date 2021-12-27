@@ -1,6 +1,6 @@
 ---
 title: South Shore
 url: /south-shore/
-latitude: 38.722225300000005
-longitude: -82.9623639
+latitude: 38.72
+longitude: -82.964
 ---

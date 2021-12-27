@@ -1,6 +1,6 @@
 ---
 title: Graymoor/Devondale
 url: /graymoor-devondale/
-latitude: 
-longitude: 
+latitude: 38.271
+longitude: -85.614
 ---

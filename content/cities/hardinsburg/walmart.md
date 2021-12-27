@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /hardinsburg/walmart/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /louisville/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

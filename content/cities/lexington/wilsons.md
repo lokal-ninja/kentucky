@@ -1,5 +1,5 @@
 ---
 title: "Wilson's"
 url: /lexington/wilsons/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /erlanger/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

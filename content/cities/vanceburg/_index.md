@@ -1,6 +1,6 @@
 ---
 title: Vanceburg
 url: /vanceburg/
-latitude: 38.599243
-longitude: -83.31879520000001
+latitude: 38.6
+longitude: -83.315
 ---

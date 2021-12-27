@@ -1,6 +1,6 @@
 ---
 title: Hodgenville
 url: /hodgenville/
-latitude: 37.5737487
-longitude: -85.740353
+latitude: 37.564
+longitude: -85.738
 ---

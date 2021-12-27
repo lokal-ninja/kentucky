@@ -1,6 +1,6 @@
 ---
 title: Tompkinsville
 url: /tompkinsville/
-latitude: 36.702279700000005
-longitude: -85.6916396
+latitude: 36.724
+longitude: -85.686
 ---

@@ -1,6 +1,6 @@
 ---
 title: Glasgow
 url: /glasgow/
-latitude: 36.995906000000005
-longitude: -85.91248420000001
+latitude: 37
+longitude: -85.923
 ---

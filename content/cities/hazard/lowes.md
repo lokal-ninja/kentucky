@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /hazard/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

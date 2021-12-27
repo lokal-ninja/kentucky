@@ -1,6 +1,6 @@
 ---
 title: Sheperdsville
 url: /sheperdsville/
-latitude: 
-longitude: 
+latitude: 38.002
+longitude: -85.704
 ---

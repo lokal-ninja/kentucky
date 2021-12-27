@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /henderson/thorntons/
-shop: convenience
+shop: Lebensmittel
 ---

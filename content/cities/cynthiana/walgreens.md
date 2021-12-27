@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /cynthiana/walgreens/
-shop: chemist
+shop: Drogerie
 ---

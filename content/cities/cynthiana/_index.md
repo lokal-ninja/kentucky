@@ -1,6 +1,6 @@
 ---
 title: Cynthiana
 url: /cynthiana/
-latitude: 38.3903526
-longitude: -84.29410130000001
+latitude: 38.378
+longitude: -84.308
 ---

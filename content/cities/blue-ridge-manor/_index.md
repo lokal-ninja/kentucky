@@ -1,6 +1,6 @@
 ---
 title: Blue Ridge Manor
 url: /blue-ridge-manor/
-latitude: 38.2431264
-longitude: -85.5630158
+latitude: 38.244
+longitude: -85.561
 ---
