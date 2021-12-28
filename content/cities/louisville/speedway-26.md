@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /graymoor-devondale/speedway/
+url: /louisville/speedway-26/
 shop: Lebensmittel
 ---

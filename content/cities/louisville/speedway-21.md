@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /st-matthews/speedway/
+url: /louisville/speedway-21/
 shop: Lebensmittel
 ---
