@@ -1,5 +1,5 @@
 ---
 title: "Lexington Seafood"
 url: /lexington/lexington-seafood/
-shop: Fisch
+shop: seafood
 ---

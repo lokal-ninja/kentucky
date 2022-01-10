@@ -1,5 +1,5 @@
 ---
 title: "Jefferson Mall"
 url: /louisville/jefferson-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

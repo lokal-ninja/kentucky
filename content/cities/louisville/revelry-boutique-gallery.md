@@ -1,5 +1,5 @@
 ---
 title: "Revelry Boutique Gallery"
 url: /louisville/revelry-boutique-gallery/
-shop: Andenken
+shop: gift
 ---

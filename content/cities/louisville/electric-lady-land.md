@@ -1,5 +1,5 @@
 ---
 title: "Electric Lady Land"
 url: /louisville/electric-lady-land/
-shop: Musik
+shop: music
 ---

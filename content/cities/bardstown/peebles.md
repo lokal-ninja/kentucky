@@ -1,5 +1,5 @@
 ---
 title: "Peebles"
 url: /bardstown/peebles/
-shop: Kleidung
+shop: clothes
 ---

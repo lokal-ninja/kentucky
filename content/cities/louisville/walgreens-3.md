@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /louisville/walgreens-3/
-shop: Drogerie
+shop: chemist
 ---

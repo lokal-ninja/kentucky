@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /lexington/speedway-7/
-shop: Lebensmittel
+shop: convenience
 ---

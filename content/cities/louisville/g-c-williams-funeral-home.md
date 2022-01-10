@@ -1,5 +1,5 @@
 ---
 title: "G.C. Williams Funeral Home"
 url: /louisville/g-c-williams-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

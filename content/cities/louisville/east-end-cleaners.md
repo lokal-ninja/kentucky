@@ -1,5 +1,5 @@
 ---
 title: "East End Cleaners"
 url: /louisville/east-end-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

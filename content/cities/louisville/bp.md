@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /louisville/bp/
-shop: Lebensmittel
+shop: convenience
 ---

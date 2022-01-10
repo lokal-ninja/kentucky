@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /paducah/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

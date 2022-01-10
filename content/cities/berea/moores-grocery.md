@@ -1,5 +1,5 @@
 ---
 title: "Moore's Grocery"
 url: /berea/moores-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

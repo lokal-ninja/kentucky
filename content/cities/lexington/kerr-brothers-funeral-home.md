@@ -1,5 +1,5 @@
 ---
 title: "Kerr Brothers Funeral Home"
 url: /lexington/kerr-brothers-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

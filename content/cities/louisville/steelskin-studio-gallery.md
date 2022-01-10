@@ -1,5 +1,5 @@
 ---
 title: "Steelskin studio+gallery"
 url: /louisville/steelskin-studio-gallery/
-shop: Kunst
+shop: art
 ---

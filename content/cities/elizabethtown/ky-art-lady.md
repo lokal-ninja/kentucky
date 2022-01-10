@@ -1,5 +1,5 @@
 ---
 title: "KY Art Lady"
 url: /elizabethtown/ky-art-lady/
-shop: Kunst
+shop: art
 ---

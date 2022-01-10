@@ -1,5 +1,5 @@
 ---
 title: "Guitar Emporium"
 url: /louisville/guitar-emporium/
-shop: Instrumente
+shop: musical instrument
 ---

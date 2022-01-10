@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /fort-wright/walmart-supercenter/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /mount-sterling/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

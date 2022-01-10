@@ -1,5 +1,5 @@
 ---
 title: "Park Avenue Pharmacy"
 url: /glasgow/park-avenue-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

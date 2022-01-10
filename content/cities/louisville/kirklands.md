@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /louisville/kirklands/
-shop: Raumausstattung
+shop: interior decoration
 ---

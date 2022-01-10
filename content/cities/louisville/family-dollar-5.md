@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /louisville/family-dollar-5/
-shop: Kramladen
+shop: variety store
 ---

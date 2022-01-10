@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /frankfort/speedway-4/
-shop: Lebensmittel
+shop: convenience
 ---

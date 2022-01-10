@@ -1,5 +1,5 @@
 ---
 title: "Deluxe Cleaners"
 url: /falmouth/deluxe-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

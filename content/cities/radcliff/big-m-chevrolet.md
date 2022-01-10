@@ -1,5 +1,5 @@
 ---
 title: "Big M Chevrolet"
 url: /radcliff/big-m-chevrolet/
-shop: Autohaus
+shop: car
 ---

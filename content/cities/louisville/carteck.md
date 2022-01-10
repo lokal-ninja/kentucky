@@ -1,5 +1,5 @@
 ---
 title: "Carteck"
 url: /louisville/carteck/
-shop: Autowerkstatt
+shop: car repair
 ---

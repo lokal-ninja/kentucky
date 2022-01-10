@@ -1,5 +1,5 @@
 ---
 title: "Butler Market"
 url: /butler/butler-market/
-shop: Lebensmittel
+shop: convenience
 ---

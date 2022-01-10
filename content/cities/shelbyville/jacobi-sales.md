@@ -1,5 +1,5 @@
 ---
 title: "Jacobi Sales"
 url: /shelbyville/jacobi-sales/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Street Scene"
 url: /lexington/street-scene/
-shop: Kleidung
+shop: clothes
 ---

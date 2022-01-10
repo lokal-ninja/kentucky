@@ -1,5 +1,5 @@
 ---
 title: "Pops Resale"
 url: /lexington/pops-resale/
-shop: Kramladen
+shop: variety store
 ---

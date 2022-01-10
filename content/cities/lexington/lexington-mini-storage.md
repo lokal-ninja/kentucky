@@ -1,5 +1,5 @@
 ---
 title: "Lexington Mini Storage"
 url: /lexington/lexington-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /louisville/speedway-28/
-shop: Lebensmittel
+shop: convenience
 ---

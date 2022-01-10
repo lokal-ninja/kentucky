@@ -1,5 +1,5 @@
 ---
 title: "Greater's"
 url: /louisville/greaters/
-shop: Eisprodukte
+shop: ice cream
 ---

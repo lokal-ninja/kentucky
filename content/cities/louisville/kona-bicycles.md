@@ -1,5 +1,5 @@
 ---
 title: "Kona Bicycles"
 url: /louisville/kona-bicycles/
-shop: Fahrrad
+shop: bicycle
 ---

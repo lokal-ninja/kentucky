@@ -1,5 +1,5 @@
 ---
 title: "Michler Florist"
 url: /lexington/michler-florist/
-shop: Blumen
+shop: florist
 ---

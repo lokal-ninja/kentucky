@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /louisville/walmart-supercenter-8/
-shop: Supermarkt
+shop: supermarket
 ---

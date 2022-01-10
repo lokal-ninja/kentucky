@@ -1,5 +1,5 @@
 ---
 title: "Winemakers Supply"
 url: /meadow-vale/winemakers-supply/
-shop: Wein
+shop: wine
 ---

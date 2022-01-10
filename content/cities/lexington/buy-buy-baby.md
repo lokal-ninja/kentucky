@@ -1,5 +1,5 @@
 ---
 title: "Buy Buy Baby"
 url: /lexington/buy-buy-baby/
-shop: Babysachen
+shop: baby goods
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Picture Perfect Custom Framing"
 url: /lexington/picture-perfect-custom-framing/
-shop: Allgemein
+shop: shop
 ---

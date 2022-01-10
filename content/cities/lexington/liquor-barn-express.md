@@ -1,5 +1,5 @@
 ---
 title: "Liquor Barn Express"
 url: /lexington/liquor-barn-express/
-shop: Spirituosen
+shop: alcohol
 ---

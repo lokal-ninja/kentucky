@@ -1,5 +1,5 @@
 ---
 title: "Buff City Soap"
 url: /georgetown/buff-city-soap/
-shop: Kosmetik
+shop: beauty
 ---

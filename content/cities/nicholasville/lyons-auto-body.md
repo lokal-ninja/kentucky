@@ -1,5 +1,5 @@
 ---
 title: "Lyons Auto Body"
 url: /nicholasville/lyons-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Don Marshall"
 url: /somerset/don-marshall/
-shop: Autohaus
+shop: car
 ---

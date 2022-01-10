@@ -1,5 +1,5 @@
 ---
 title: "Simply Mac"
 url: /louisville/simply-mac/
-shop: Computer
+shop: computer
 ---

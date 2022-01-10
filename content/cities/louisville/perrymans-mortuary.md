@@ -1,5 +1,5 @@
 ---
 title: "Perryman's Mortuary"
 url: /louisville/perrymans-mortuary/
-shop: Bestattungen
+shop: funeral directors
 ---

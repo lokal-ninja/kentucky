@@ -1,5 +1,5 @@
 ---
 title: "Big O Tires"
 url: /louisville/big-o-tires/
-shop: Reifen
+shop: tyres
 ---

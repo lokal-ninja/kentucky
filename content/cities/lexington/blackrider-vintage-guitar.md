@@ -1,5 +1,5 @@
 ---
 title: "Blackrider Vintage Guitar"
 url: /lexington/blackrider-vintage-guitar/
-shop: Instrumente
+shop: musical instrument
 ---

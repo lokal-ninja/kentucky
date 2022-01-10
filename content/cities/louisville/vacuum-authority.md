@@ -1,5 +1,5 @@
 ---
 title: "Vacuum Authority"
 url: /louisville/vacuum-authority/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

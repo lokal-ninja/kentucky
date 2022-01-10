@@ -1,5 +1,5 @@
 ---
 title: "Advance America"
 url: /lexington/advance-america/
-shop: Leiher
+shop: pawnbroker
 ---

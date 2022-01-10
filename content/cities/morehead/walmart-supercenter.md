@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /morehead/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

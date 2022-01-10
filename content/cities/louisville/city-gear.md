@@ -1,5 +1,5 @@
 ---
 title: "City Gear"
 url: /louisville/city-gear/
-shop: Kleidung
+shop: clothes
 ---

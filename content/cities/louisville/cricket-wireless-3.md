@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
 url: /louisville/cricket-wireless-3/
-shop: Handy
+shop: mobile phone
 ---

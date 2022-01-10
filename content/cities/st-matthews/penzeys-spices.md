@@ -1,5 +1,5 @@
 ---
 title: "Penzeys Spices"
 url: /st-matthews/penzeys-spices/
-shop: Gewürze
+shop: spices
 ---

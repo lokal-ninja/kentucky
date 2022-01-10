@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /lyndon/walgreens/
-shop: Drogerie
+shop: chemist
 ---

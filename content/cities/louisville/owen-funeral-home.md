@@ -1,5 +1,5 @@
 ---
 title: "Owen Funeral Home"
 url: /louisville/owen-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

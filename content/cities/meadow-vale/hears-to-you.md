@@ -1,5 +1,5 @@
 ---
 title: "Hears to You"
 url: /meadow-vale/hears-to-you/
-shop: Hörgeräte
+shop: hearing aids
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hardaway Automotive"
 url: /jeffersonville/hardaway-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

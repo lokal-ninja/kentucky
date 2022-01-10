@@ -1,5 +1,5 @@
 ---
 title: "Athens Food Mart"
 url: /lexington/athens-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

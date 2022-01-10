@@ -1,5 +1,5 @@
 ---
 title: "Joey's Muffler Shop"
 url: /stanton/joeys-muffler-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

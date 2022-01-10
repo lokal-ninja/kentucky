@@ -1,5 +1,5 @@
 ---
 title: "GameXChange"
 url: /elizabethtown/gamexchange/
-shop: Videospiele
+shop: video games
 ---

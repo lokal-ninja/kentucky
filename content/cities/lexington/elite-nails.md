@@ -1,5 +1,5 @@
 ---
 title: "Elite Nails"
 url: /lexington/elite-nails/
-shop: Kosmetik
+shop: beauty
 ---

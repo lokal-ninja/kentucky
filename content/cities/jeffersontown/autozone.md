@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /jeffersontown/autozone/
-shop: Autoteile
+shop: car parts
 ---
