@@ -1,11 +1,11 @@
-id: 4094978336
-type: node
-latitude: 38.19268
-longitude: -85.80468
-postcode: "40216"
+id: 1029208203
+type: way
+latitude: 38.2039
+longitude: -85.76263
+postcode: "40208"
 city: Louisville
-street: "7th Street Road"
-housenumber: 3925
-phone: "502-448-1369"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: ""
+street: "S 2nd Street"
+housenumber: 3211
+phone: ""
+opening_hours: ""
+website: "https://www.gamestop.com/store/us/ky/louisville/5468/central-station-gamestop"
