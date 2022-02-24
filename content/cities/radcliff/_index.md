@@ -1,6 +1,6 @@
 ---
 title: Radcliff
 url: /radcliff/
-latitude: 37.847
-longitude: -85.944
+latitude: 37.843
+longitude: -85.938
 ---
