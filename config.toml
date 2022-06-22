@@ -1,4 +1,4 @@
-baseURL = "https://us.shoogle.net/kentucky"
+baseURL = "https://us.shoogle.net/kentucky/"
 languageCode = "en-US"
 title = "Kentucky"
 theme = "ln-base"
