@@ -1,6 +1,6 @@
 ---
 title: Cecilia
 url: /cecilia/
-latitude: 37.67
-longitude: -86.014
+latitude: 37.673
+longitude: -85.912
 ---
