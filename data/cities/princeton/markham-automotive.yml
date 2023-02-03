@@ -7,5 +7,5 @@ city: Princeton
 street: "Northfield Drive"
 housenumber: 255
 phone: "(270) 365-0070"
-opening_hours: "Monday 6:00 AM - 11:00 AM 12:00 PM - 3:00 PM Tuesday 6:00 AM - 11:00 AM 12:00 PM - 3:00 PM Wednesday 6:00 AM - 11:00 AM 12:00 PM - 3:00 PM Thursday 6:00 AM - 11:00 AM 12:00 PM - 3:00 PM Friday 6:00 AM - 11:00 AM 12:00 PM - 3:00 PM Saturday CLOSED Sunday C"
+opening_hours: "Mo-Fr 06:00-11:00,12:00-15:00; Sa,Su off"
 website: "https://www.facebook.com/profile.php?id=100063509563006"

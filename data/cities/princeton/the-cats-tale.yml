@@ -7,5 +7,5 @@ city: Princeton
 street: "West Main Street"
 housenumber: 207
 phone: "(270) 896-5080"
-opening_hours: "Monday 3:00 PM - 5:00 PM Tuesday 3:00 PM - 5:00 PM Wednesday CLOSED Thursday 1:00 PM - 5:00 PM Friday 1:00 PM - 5:00 PM Saturday 11:00 AM - 5:00 PM Sunday CLOSED"
+opening_hours: "Mo,Tu 15:00-17:00; We,Su off; Th,Fr 13:00-17:00; Sa 11:00-17:00"
 website: "https://catstalebooks.com/wp/"
