@@ -1,5 +1,5 @@
 ---
 title: "Family Video"
-url: /paducah/family-video/
+url: /bardstown/family-video/
 shop: video
 ---
