@@ -7,5 +7,5 @@ city: Princeton
 street: "Dawson Road"
 housenumber: 504
 phone: "(270) 896-5014"
-opening_hours: "Monday CLOSED Tuesday 8:00 AM - 4:00 PM Wednesday 8:00 AM - 4:00 PM Thursday 8:00 AM - 4:00 PM Friday 8:00 AM - 4:00 PM Saturday 8:00 AM - 4:00 PM Sunday CLOSED"
+opening_hours: "Mo,Su off; Tu-Sa 08:00-16:00"
 website: "https://www.facebook.com/profile.php?id=100063777121696"
