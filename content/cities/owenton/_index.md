@@ -1,6 +1,6 @@
 ---
 title: Owenton
 url: /owenton/
-latitude: 38.535
-longitude: -84.836
+latitude: 38.533
+longitude: -84.834
 ---
