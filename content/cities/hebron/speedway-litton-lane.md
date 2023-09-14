@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /hebron/speedway/
+url: /hebron/speedway-litton-lane/
 shop: convenience
 ---

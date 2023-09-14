@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /somerset/speedway/
+url: /somerset/speedway-parkers-mill-way/
 shop: convenience
 ---

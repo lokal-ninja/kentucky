@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /morehead/speedway/
+url: /morehead/speedway-east-main-street/
 shop: convenience
 ---

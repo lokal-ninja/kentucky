@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /london/kroger/
+url: /london/kroger-north-main-street/
 shop: supermarket
 ---

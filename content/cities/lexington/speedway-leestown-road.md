@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /lexington/speedway/
+url: /lexington/speedway-leestown-road/
 shop: convenience
 ---

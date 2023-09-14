@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
-url: /louisville/thorntons/
+url: /louisville/thorntons-south-dixie-highway/
 shop: convenience
 ---

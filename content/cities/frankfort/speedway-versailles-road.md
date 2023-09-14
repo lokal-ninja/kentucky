@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /frankfort/speedway/
+url: /frankfort/speedway-versailles-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
-url: /louisville/lowes/
+url: /louisville/lowes-preston-crossing-boulevard/
 shop: doityourself
 ---

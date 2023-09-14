@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /lexington/marathon/
+url: /lexington/marathon-north-martin-luther-king-boulevard/
 shop: convenience
 ---

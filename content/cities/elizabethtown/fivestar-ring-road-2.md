@@ -1,5 +1,5 @@
 ---
 title: "FiveStar"
-url: /elizabethtown/fivestar/
+url: /elizabethtown/fivestar-ring-road-2/
 shop: convenience
 ---

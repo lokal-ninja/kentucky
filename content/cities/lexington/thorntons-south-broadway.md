@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
-url: /lexington/thorntons/
+url: /lexington/thorntons-south-broadway/
 shop: convenience
 ---

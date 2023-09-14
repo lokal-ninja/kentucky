@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /louisville/meijer/
+url: /louisville/meijer-south-hurstbourne-parkway/
 shop: supermarket
 ---

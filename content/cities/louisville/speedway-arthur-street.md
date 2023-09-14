@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /louisville/speedway/
+url: /louisville/speedway-arthur-street/
 shop: convenience
 ---

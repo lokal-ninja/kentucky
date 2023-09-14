@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /shelbyville/speedway/
+url: /shelbyville/speedway-midland-trail/
 shop: convenience
 ---

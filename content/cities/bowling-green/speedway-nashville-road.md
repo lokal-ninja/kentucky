@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /bowling-green/speedway/
+url: /bowling-green/speedway-nashville-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /louisville/circle-k/
+url: /louisville/circle-k-south-3rd-street/
 shop: convenience
 ---

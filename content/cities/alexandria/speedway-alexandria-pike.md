@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /alexandria/speedway/
+url: /alexandria/speedway-alexandria-pike/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
-url: /louisville/michaels/
+url: /louisville/michaels-south-hurstbourne-parkway/
 shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
-url: /lexington/advance-auto-parts/
+url: /lexington/advance-auto-parts-new-circle-road/
 shop: car parts
 ---

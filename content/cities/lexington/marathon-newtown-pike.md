@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /lexington/marathon/
+url: /lexington/marathon-newtown-pike/
 shop: convenience
 ---

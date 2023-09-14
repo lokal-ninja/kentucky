@@ -1,5 +1,5 @@
 ---
 title: "Feeders Supply"
-url: /louisville/feeders-supply/
+url: /louisville/feeders-supply-shelbyville-road/
 shop: pet
 ---

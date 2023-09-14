@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /dry-ridge/speedway/
+url: /dry-ridge/speedway-broadway-street/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
-url: /louisville/kohls/
+url: /louisville/kohls-oxmoor-lane/
 shop: department store
 ---

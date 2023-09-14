@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /louisville/dollar-tree/
+url: /louisville/dollar-tree-new-cut-road/
 shop: variety store
 ---

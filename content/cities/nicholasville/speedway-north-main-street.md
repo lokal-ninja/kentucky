@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /nicholasville/speedway/
+url: /nicholasville/speedway-north-main-street/
 shop: convenience
 ---

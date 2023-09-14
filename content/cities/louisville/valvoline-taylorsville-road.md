@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
-url: /louisville/valvoline/
+url: /louisville/valvoline-taylorsville-road/
 shop: car repair
 ---

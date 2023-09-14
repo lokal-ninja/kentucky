@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /florence/speedway/
+url: /florence/speedway-centennial-circle/
 shop: convenience
 ---

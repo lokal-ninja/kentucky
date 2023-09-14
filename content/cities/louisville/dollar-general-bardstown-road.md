@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /louisville/dollar-general/
+url: /louisville/dollar-general-bardstown-road/
 shop: variety store
 ---
