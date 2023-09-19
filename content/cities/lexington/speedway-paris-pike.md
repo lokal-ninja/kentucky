@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /florence/speedway-us-highway-42-2/
+url: /lexington/speedway-paris-pike/
 shop: convenience
 ---
