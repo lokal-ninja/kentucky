@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
-url: /lexington/t-mobile-woodhill-drive/
+url: /lexington/t-mobile-plaudit-place/
 shop: mobile phone
 ---

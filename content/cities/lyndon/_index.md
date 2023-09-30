@@ -1,6 +1,6 @@
 ---
 title: Lyndon
 url: /lyndon/
-latitude: 38.25
-longitude: -85.605
+latitude: 38.247
+longitude: -85.578
 ---

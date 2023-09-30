@@ -1,6 +1,6 @@
 ---
 title: Rineyville
 url: /rineyville/
-latitude: 37.758
-longitude: -85.983
+latitude: 37.752
+longitude: -85.974
 ---
