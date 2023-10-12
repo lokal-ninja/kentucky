@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /florence/speedway-burlington-pike-2/
+url: /hebron/speedway-north-bend-road/
 shop: convenience
 ---
