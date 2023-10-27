@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /louisville/target-towne-center-drive/
+url: /louisville/target-westport-road/
 shop: department store
 ---
