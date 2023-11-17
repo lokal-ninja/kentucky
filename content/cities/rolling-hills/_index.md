@@ -1,6 +1,6 @@
 ---
 title: Rolling Hills
 url: /rolling-hills/
-latitude: 38.285
-longitude: -85.58
+latitude: 38.286
+longitude: -85.578
 ---
