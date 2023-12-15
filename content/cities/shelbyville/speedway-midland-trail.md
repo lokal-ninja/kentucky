@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /covington/speedway-winston-avenue/
+url: /shelbyville/speedway-midland-trail/
 shop: convenience
 ---
