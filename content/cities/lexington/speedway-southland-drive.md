@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /florence/speedway-mount-zion-road/
+url: /lexington/speedway-southland-drive/
 shop: convenience
 ---
