@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /lexington/speedway-paris-pike/
+url: /lexington/speedway-south-limestone/
 shop: convenience
 ---
