@@ -1,6 +1,6 @@
 ---
 title: Salyersville
 url: /salyersville/
-latitude: 37.747
-longitude: -83.063
+latitude: 37.736
+longitude: -83.034
 ---
