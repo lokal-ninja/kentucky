@@ -1,6 +1,6 @@
 ---
 title: Elizabethtown
 url: /elizabethtown/
-latitude: 37.446
-longitude: -88.306
+latitude: 37.735
+longitude: -85.889
 ---

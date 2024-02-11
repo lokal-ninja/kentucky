@@ -1,6 +1,6 @@
 ---
 title: La Grange
 url: /la-grange/
-latitude: 38.398
-longitude: -85.372
+latitude: 38.393
+longitude: -85.367
 ---
