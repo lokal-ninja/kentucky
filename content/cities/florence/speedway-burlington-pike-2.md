@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /florence/speedway-mount-zion-road/
+url: /florence/speedway-burlington-pike-2/
 shop: convenience
 ---
