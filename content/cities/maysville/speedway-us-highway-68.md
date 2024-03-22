@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /florence/speedway-mount-zion-road/
+url: /maysville/speedway-us-highway-68/
 shop: convenience
 ---
