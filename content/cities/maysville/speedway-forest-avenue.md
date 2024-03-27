@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /georgetown/speedway-southgate-drive/
+url: /maysville/speedway-forest-avenue/
 shop: convenience
 ---
