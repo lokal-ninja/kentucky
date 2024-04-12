@@ -1,6 +1,6 @@
 ---
 title: Harrodsburg
 url: /harrodsburg/
-latitude: 37.742
-longitude: -84.845
+latitude: 37.746
+longitude: -84.844
 ---
