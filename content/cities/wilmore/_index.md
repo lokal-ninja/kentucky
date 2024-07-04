@@ -1,6 +1,6 @@
 ---
 title: Wilmore
 url: /wilmore/
-latitude: 37.862
-longitude: -84.657
+latitude: 37.86
+longitude: -84.662
 ---

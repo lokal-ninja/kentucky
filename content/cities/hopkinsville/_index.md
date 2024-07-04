@@ -1,6 +1,6 @@
 ---
 title: Hopkinsville
 url: /hopkinsville/
-latitude: 36.877
-longitude: -87.506
+latitude: 36.82
+longitude: -87.469
 ---
