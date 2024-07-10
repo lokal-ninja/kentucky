@@ -1,6 +1,6 @@
 ---
 title: Paintsville
 url: /paintsville/
-latitude: 37.824
-longitude: -82.825
+latitude: 37.819
+longitude: -82.815
 ---
