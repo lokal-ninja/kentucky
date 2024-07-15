@@ -1,6 +1,6 @@
 ---
 title: Barbourville
 url: /barbourville/
-latitude: 36.858
-longitude: -83.868
+latitude: 36.86
+longitude: -83.869
 ---
