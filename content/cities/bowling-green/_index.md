@@ -1,6 +1,6 @@
 ---
 title: Bowling Green
 url: /bowling-green/
-latitude: 36.935
-longitude: -86.42
+latitude: 36.953
+longitude: -86.428
 ---
