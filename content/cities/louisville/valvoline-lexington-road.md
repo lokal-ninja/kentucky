@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
-url: /louisville/valvoline-la-grange-road/
+url: /louisville/valvoline-lexington-road/
 shop: car repair
 ---
