@@ -1,5 +1,5 @@
 ---
 title: "Duck Donuts"
-url: /st-matthews/duck-donuts/
+url: /jefferson-county/duck-donuts/
 shop: bakery
 ---
