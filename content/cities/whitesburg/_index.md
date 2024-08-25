@@ -1,6 +1,6 @@
 ---
 title: Whitesburg
 url: /whitesburg/
-latitude: 37.117
-longitude: -82.794
+latitude: 37.116
+longitude: -82.796
 ---
