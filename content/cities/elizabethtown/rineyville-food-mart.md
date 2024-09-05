@@ -1,5 +1,5 @@
 ---
 title: "Rineyville Food Mart"
 url: /elizabethtown/rineyville-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

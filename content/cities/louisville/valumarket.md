@@ -1,5 +1,5 @@
 ---
 title: "ValuMarket"
 url: /louisville/valumarket/
-shop: supermarket
+shop: Supermarkt
 ---

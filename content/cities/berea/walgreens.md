@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /berea/walgreens/
-shop: chemist
+shop: Drogerie
 ---

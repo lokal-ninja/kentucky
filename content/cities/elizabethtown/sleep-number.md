@@ -1,5 +1,5 @@
 ---
 title: "Sleep Number"
 url: /elizabethtown/sleep-number/
-shop: bed
+shop: Betten
 ---

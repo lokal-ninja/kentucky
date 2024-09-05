@@ -1,5 +1,5 @@
 ---
 title: "BroomWagon"
 url: /lexington/broomwagon/
-shop: bicycle
+shop: Fahrrad
 ---

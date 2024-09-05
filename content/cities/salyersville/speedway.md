@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /salyersville/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

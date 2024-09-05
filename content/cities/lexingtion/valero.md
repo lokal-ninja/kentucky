@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /lexingtion/valero/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Havertys"
 url: /lexington/havertys/
-shop: furniture
+shop: Möbel
 ---

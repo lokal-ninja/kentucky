@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /cold-spring/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /edmonton/iga/
-shop: supermarket
+shop: Supermarkt
 ---

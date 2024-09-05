@@ -1,5 +1,5 @@
 ---
 title: "Fivestar"
 url: /columbia/fivestar/
-shop: convenience
+shop: Lebensmittel
 ---

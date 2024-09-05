@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /lexington/walgreens-towne-center-drive/
-shop: chemist
+shop: Drogerie
 ---

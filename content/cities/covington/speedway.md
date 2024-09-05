@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /covington/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

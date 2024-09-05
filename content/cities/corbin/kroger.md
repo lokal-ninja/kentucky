@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /corbin/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

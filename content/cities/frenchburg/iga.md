@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /frenchburg/iga/
-shop: supermarket
+shop: Supermarkt
 ---

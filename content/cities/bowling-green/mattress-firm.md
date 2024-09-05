@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /bowling-green/mattress-firm/
-shop: bed
+shop: Betten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "West KY Memorials"
 url: /princeton/west-ky-memorials/
-shop: general
+shop: Dorfladen
 ---

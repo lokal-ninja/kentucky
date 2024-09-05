@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /versailles/petco/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /prospect/iga/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nepmart"
 url: /lexington/nepmart/
-shop: convenience
+shop: Lebensmittel
 ---

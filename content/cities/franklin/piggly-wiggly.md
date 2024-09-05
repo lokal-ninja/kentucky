@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /franklin/piggly-wiggly/
-shop: supermarket
+shop: Supermarkt
 ---

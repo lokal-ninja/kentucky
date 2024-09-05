@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /burkesville/iga/
-shop: supermarket
+shop: Supermarkt
 ---

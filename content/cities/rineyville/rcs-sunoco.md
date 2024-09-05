@@ -1,5 +1,5 @@
 ---
 title: "RCS SUNOCO"
 url: /rineyville/rcs-sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

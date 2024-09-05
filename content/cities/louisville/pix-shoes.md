@@ -1,5 +1,5 @@
 ---
 title: "Pix Shoes"
 url: /louisville/pix-shoes/
-shop: shoes
+shop: Schuhe
 ---

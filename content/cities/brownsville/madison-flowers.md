@@ -1,5 +1,5 @@
 ---
 title: "Madison Flowers"
 url: /brownsville/madison-flowers/
-shop: florist
+shop: Blumen
 ---

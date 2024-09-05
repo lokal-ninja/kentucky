@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /paducah/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

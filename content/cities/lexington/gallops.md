@@ -1,5 +1,5 @@
 ---
 title: "Gallops"
 url: /lexington/gallops/
-shop: convenience
+shop: Lebensmittel
 ---

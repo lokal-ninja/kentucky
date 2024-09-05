@@ -1,5 +1,5 @@
 ---
 title: "Speedy’z"
 url: /salyersville/speedyz/
-shop: convenience
+shop: Lebensmittel
 ---

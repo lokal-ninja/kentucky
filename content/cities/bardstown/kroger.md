@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /bardstown/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

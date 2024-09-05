@@ -1,5 +1,5 @@
 ---
 title: "Patriots Nails"
 url: /radcliff/patriots-nails/
-shop: beauty
+shop: Kosmetik
 ---

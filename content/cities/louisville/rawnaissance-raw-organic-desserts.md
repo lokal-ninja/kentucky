@@ -1,5 +1,5 @@
 ---
 title: "Rawnaissance Raw Organic Desserts"
 url: /louisville/rawnaissance-raw-organic-desserts/
-shop: pastry
+shop: Konditorei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /jeffersontown/savers/
-shop: charity
+shop: Gebrauchtwaren
 ---

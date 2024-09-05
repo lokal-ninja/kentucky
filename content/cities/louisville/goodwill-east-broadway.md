@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /louisville/goodwill-east-broadway/
-shop: charity
+shop: Gebrauchtwaren
 ---

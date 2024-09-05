@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /elizabethtown/shell/
-shop: convenience
+shop: Lebensmittel
 ---

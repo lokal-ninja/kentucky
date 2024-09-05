@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /louisville/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

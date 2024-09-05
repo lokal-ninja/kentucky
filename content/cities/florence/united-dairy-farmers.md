@@ -1,5 +1,5 @@
 ---
 title: "United Dairy Farmers"
 url: /florence/united-dairy-farmers/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /glasgow/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

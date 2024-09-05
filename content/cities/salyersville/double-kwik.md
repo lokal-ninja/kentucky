@@ -1,5 +1,5 @@
 ---
 title: "Double Kwik"
 url: /salyersville/double-kwik/
-shop: convenience
+shop: Lebensmittel
 ---

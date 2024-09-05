@@ -1,5 +1,5 @@
 ---
 title: "Klutch"
 url: /owensboro/klutch/
-shop: hairdresser
+shop: Friseur
 ---

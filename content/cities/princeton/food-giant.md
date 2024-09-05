@@ -1,5 +1,5 @@
 ---
 title: "Food Giant"
 url: /princeton/food-giant/
-shop: supermarket
+shop: Supermarkt
 ---

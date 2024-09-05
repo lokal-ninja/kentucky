@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /paintsville/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

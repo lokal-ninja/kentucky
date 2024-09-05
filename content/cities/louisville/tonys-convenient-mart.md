@@ -1,5 +1,5 @@
 ---
 title: "Tony's Convenient Mart"
 url: /louisville/tonys-convenient-mart/
-shop: convenience
+shop: Lebensmittel
 ---

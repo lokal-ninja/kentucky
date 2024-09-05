@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /fairdale/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

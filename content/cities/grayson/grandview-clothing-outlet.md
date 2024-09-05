@@ -1,5 +1,5 @@
 ---
 title: "Grandview Clothing Outlet"
 url: /grayson/grandview-clothing-outlet/
-shop: clothes
+shop: Kleidung
 ---

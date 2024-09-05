@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /louisville/speedway-cane-run-road/
-shop: convenience
+shop: Lebensmittel
 ---

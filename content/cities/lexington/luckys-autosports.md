@@ -1,5 +1,5 @@
 ---
 title: "Lucky's Autosports"
 url: /lexington/luckys-autosports/
-shop: car
+shop: Autohaus
 ---

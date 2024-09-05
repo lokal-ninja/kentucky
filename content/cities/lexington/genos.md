@@ -1,5 +1,5 @@
 ---
 title: "Geno's"
 url: /lexington/genos/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /paducah/michaels/
-shop: craft
+shop: Basteln
 ---

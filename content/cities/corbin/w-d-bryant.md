@@ -1,5 +1,5 @@
 ---
 title: "W.D. Bryant"
 url: /corbin/w-d-bryant/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rural King"
 url: /maysville/rural-king/
-shop: general
+shop: Dorfladen
 ---

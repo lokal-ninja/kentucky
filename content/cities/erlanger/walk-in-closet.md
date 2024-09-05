@@ -1,5 +1,5 @@
 ---
 title: "Walk In Closet"
 url: /erlanger/walk-in-closet/
-shop: clothes
+shop: Kleidung
 ---

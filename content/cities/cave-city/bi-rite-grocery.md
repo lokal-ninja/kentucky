@@ -1,5 +1,5 @@
 ---
 title: "Bi-Rite Grocery"
 url: /cave-city/bi-rite-grocery/
-shop: supermarket
+shop: Supermarkt
 ---

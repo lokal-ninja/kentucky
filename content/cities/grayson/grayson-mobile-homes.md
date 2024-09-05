@@ -1,5 +1,5 @@
 ---
 title: "Grayson Mobile Homes"
 url: /grayson/grayson-mobile-homes/
-shop: shop
+shop: Allgemein
 ---

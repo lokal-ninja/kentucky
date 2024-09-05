@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /winchester/speedway-west-lexington-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

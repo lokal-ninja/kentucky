@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
 url: /louisville/the-home-depot-dixie-highway/
-shop: doityourself
+shop: Baumarkt
 ---

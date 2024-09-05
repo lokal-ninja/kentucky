@@ -1,5 +1,5 @@
 ---
 title: "Total Wine"
 url: /louisville/total-wine/
-shop: alcohol
+shop: Spirituosen
 ---

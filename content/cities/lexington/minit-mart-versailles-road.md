@@ -1,5 +1,5 @@
 ---
 title: "Minit Mart"
 url: /lexington/minit-mart-versailles-road/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Black Diamond's Barber Shop"
 url: /louisville/black-diamonds-barber-shop/
-shop: hairdresser
+shop: Friseur
 ---

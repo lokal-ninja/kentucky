@@ -1,5 +1,5 @@
 ---
 title: "Dick's Sporting Goods"
 url: /lexington/dicks-sporting-goods-nicholasville-road/
-shop: sports
+shop: Sport
 ---

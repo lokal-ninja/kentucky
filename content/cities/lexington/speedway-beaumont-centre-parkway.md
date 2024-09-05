@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /lexington/speedway-beaumont-centre-parkway/
-shop: convenience
+shop: Lebensmittel
 ---

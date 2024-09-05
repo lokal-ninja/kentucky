@@ -1,5 +1,5 @@
 ---
 title: "Mall St. Matthews"
 url: /st-matthews/mall-st-matthews/
-shop: mall
+shop: Einkaufszentrum
 ---

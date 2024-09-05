@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /munfordville/iga/
-shop: supermarket
+shop: Supermarkt
 ---

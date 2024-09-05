@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /louisville/walmart-supercenter-cedar-springs-boulevard/
-shop: supermarket
+shop: Supermarkt
 ---

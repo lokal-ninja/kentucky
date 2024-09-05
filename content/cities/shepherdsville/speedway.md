@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /shepherdsville/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

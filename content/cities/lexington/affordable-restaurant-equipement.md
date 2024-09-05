@@ -1,5 +1,5 @@
 ---
 title: "Affordable Restaurant Equipement"
 url: /lexington/affordable-restaurant-equipement/
-shop: appliance
+shop: Haushaltsgeräte
 ---

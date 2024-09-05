@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /nancy/iga/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedy Café"
 url: /elizabethtown/speedy-cafe/
-shop: convenience
+shop: Lebensmittel
 ---

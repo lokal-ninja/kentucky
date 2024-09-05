@@ -1,5 +1,5 @@
 ---
 title: "Sureway"
 url: /henderson/sureway/
-shop: supermarket
+shop: Supermarkt
 ---

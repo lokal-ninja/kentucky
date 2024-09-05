@@ -1,5 +1,5 @@
 ---
 title: "Turbo Self Storage"
 url: /radcliff/turbo-self-storage/
-shop: storage rental
+shop: Mieten
 ---

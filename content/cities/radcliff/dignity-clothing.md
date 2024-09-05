@@ -1,5 +1,5 @@
 ---
 title: "Dignity Clothing"
 url: /radcliff/dignity-clothing/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /murray/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

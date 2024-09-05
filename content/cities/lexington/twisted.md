@@ -1,5 +1,5 @@
 ---
 title: "Twisted"
 url: /lexington/twisted/
-shop: beauty
+shop: Kosmetik
 ---
