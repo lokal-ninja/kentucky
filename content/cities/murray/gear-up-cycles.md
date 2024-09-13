@@ -1,5 +1,5 @@
 ---
 title: "Gear Up Cycles"
 url: /murray/gear-up-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

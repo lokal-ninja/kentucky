@@ -1,5 +1,5 @@
 ---
 title: "Kiwi Spa"
 url: /lexington/kiwi-spa/
-shop: Massage
+shop: massage
 ---

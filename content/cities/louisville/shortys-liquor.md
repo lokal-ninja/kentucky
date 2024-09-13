@@ -1,5 +1,5 @@
 ---
 title: "Shorty's Liquor"
 url: /louisville/shortys-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

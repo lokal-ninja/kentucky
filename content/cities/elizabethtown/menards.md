@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /elizabethtown/menards/
-shop: Baumarkt
+shop: doityourself
 ---

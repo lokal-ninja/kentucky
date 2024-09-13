@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /louisville/rainbow/
-shop: Kleidung
+shop: clothes
 ---

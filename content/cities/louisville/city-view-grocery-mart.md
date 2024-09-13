@@ -1,5 +1,5 @@
 ---
 title: "City View Grocery Mart"
 url: /louisville/city-view-grocery-mart/
-shop: Lebensmittel
+shop: convenience
 ---

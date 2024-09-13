@@ -1,5 +1,5 @@
 ---
 title: "Dusty's"
 url: /florence/dustys/
-shop: Kleidung
+shop: clothes
 ---

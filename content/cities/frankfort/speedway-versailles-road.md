@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /frankfort/speedway-versailles-road/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /louisville/thorntons-shelbyville-road/
-shop: Lebensmittel
+shop: convenience
 ---

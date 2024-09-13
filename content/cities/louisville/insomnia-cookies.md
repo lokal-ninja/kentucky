@@ -1,5 +1,5 @@
 ---
 title: "Insomnia Cookies"
 url: /louisville/insomnia-cookies/
-shop: Konditorei
+shop: pastry
 ---

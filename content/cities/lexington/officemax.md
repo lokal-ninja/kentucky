@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /lexington/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

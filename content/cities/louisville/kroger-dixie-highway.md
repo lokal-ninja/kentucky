@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /louisville/kroger-dixie-highway/
-shop: Supermarkt
+shop: supermarket
 ---

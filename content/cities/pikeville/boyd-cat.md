@@ -1,5 +1,5 @@
 ---
 title: "Boyd CAT"
 url: /pikeville/boyd-cat/
-shop: Baustoffe
+shop: trade
 ---

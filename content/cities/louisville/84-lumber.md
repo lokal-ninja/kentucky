@@ -1,5 +1,5 @@
 ---
 title: "84 Lumber"
 url: /louisville/84-lumber/
-shop: Baustoffe
+shop: trade
 ---

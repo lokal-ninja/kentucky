@@ -1,5 +1,5 @@
 ---
 title: "Crowell Pools and Spas"
 url: /paducah/crowell-pools-and-spas/
-shop: Pool
+shop: swimming pool
 ---

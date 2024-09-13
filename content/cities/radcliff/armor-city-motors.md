@@ -1,5 +1,5 @@
 ---
 title: "Armor City Motors"
 url: /radcliff/armor-city-motors/
-shop: Autohaus
+shop: car
 ---

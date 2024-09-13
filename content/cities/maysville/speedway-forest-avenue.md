@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /maysville/speedway-forest-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

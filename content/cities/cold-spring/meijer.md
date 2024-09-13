@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /cold-spring/meijer/
-shop: Supermarkt
+shop: supermarket
 ---

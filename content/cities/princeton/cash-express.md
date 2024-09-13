@@ -1,5 +1,5 @@
 ---
 title: "Cash Express"
 url: /princeton/cash-express/
-shop: Leiher
+shop: pawnbroker
 ---

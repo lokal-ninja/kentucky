@@ -1,5 +1,5 @@
 ---
 title: "Bypass Liquors"
 url: /nicholasville/bypass-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /st-matthews/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

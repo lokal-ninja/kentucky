@@ -1,5 +1,5 @@
 ---
 title: "Le's Nails"
 url: /berea/les-nails/
-shop: Kosmetik
+shop: beauty
 ---

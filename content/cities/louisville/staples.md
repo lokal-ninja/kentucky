@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /louisville/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

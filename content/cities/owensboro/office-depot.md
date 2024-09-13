@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /owensboro/office-depot/
-shop: Schreibwaren
+shop: office supplies
 ---

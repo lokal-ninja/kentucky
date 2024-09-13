@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /louisville/kroger-breckenridge-lane/
-shop: Supermarkt
+shop: supermarket
 ---

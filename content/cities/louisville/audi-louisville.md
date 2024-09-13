@@ -1,5 +1,5 @@
 ---
 title: "Audi Louisville"
 url: /louisville/audi-louisville/
-shop: Autohaus
+shop: car
 ---

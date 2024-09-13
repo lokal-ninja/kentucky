@@ -1,5 +1,5 @@
 ---
 title: "Greenwell-Houghlin Funeral Home"
 url: /taylorsville/greenwell-houghlin-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

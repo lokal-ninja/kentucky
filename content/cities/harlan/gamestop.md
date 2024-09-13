@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /harlan/gamestop/
-shop: Videospiele
+shop: video games
 ---

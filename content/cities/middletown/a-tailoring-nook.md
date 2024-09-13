@@ -1,5 +1,5 @@
 ---
 title: "A Tailoring Nook"
 url: /middletown/a-tailoring-nook/
-shop: Schneiderei
+shop: tailor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carriss's Grocery"
 url: /shelbyville/carrisss-grocery/
-shop: Allgemein
+shop: shop
 ---

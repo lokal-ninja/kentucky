@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /florence/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

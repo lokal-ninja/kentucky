@@ -1,5 +1,5 @@
 ---
 title: "Tobacco Zone"
 url: /lexington/tobacco-zone/
-shop: Tabak
+shop: tobacco
 ---

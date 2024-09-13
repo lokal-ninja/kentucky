@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /shively/walgreens/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Conn's Body Shop"
 url: /louisville/conns-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

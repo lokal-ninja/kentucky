@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /hopkinsville/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /louisville/lowes-dixie-highway/
-shop: Baumarkt
+shop: doityourself
 ---

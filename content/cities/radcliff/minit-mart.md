@@ -1,5 +1,5 @@
 ---
 title: "Minit Mart"
 url: /radcliff/minit-mart/
-shop: Lebensmittel
+shop: convenience
 ---

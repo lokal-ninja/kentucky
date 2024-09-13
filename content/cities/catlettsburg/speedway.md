@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /catlettsburg/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

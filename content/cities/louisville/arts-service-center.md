@@ -1,5 +1,5 @@
 ---
 title: "Art's Service Center"
 url: /louisville/arts-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

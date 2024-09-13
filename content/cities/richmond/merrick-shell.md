@@ -1,5 +1,5 @@
 ---
 title: "Merrick Shell"
 url: /richmond/merrick-shell/
-shop: Lebensmittel
+shop: convenience
 ---

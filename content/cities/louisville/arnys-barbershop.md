@@ -1,5 +1,5 @@
 ---
 title: "Arny's Barbershop"
 url: /louisville/arnys-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

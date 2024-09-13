@@ -1,5 +1,5 @@
 ---
 title: "Kangaroo Express"
 url: /st-matthews/kangaroo-express/
-shop: Lebensmittel
+shop: convenience
 ---

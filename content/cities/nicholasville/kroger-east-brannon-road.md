@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /nicholasville/kroger-east-brannon-road/
-shop: Supermarkt
+shop: supermarket
 ---

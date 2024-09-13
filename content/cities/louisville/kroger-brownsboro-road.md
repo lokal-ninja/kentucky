@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /louisville/kroger-brownsboro-road/
-shop: Supermarkt
+shop: supermarket
 ---

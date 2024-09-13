@@ -1,5 +1,5 @@
 ---
 title: "BikeWorld"
 url: /paducah/bikeworld/
-shop: Fahrrad
+shop: bicycle
 ---

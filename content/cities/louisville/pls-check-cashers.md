@@ -1,5 +1,5 @@
 ---
 title: "PLS Check Cashers"
 url: /louisville/pls-check-cashers/
-shop: Leiher
+shop: pawnbroker
 ---

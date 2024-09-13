@@ -1,5 +1,5 @@
 ---
 title: "Bluegrass RV"
 url: /lexington/bluegrass-rv/
-shop: Wohnwagen
+shop: caravan
 ---

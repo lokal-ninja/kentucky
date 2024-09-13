@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /jackson/carquest/
-shop: Autoteile
+shop: car parts
 ---

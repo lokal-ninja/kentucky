@@ -1,5 +1,5 @@
 ---
 title: "Rusty Scabbard"
 url: /lexington/rusty-scabbard/
-shop: Kramladen
+shop: variety store
 ---

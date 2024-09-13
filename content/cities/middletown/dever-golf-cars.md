@@ -1,5 +1,5 @@
 ---
 title: "Dever Golf Cars"
 url: /middletown/dever-golf-cars/
-shop: Allgemein
+shop: shop
 ---

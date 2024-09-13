@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /louisville/aldi-preston-highway/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moore's Auto Mart"
 url: /cold-spring/moores-auto-mart/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Houghlin Funeral Home"
 url: /bardstown/houghlin-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Minit Mart"
 url: /cave-city/minit-mart/
-shop: Lebensmittel
+shop: convenience
 ---

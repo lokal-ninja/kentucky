@@ -1,5 +1,5 @@
 ---
 title: "Jeeka Does It"
 url: /louisville/jeeka-does-it/
-shop: Friseur
+shop: hairdresser
 ---

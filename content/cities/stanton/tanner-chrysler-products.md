@@ -1,5 +1,5 @@
 ---
 title: "Tanner Chrysler Products"
 url: /stanton/tanner-chrysler-products/
-shop: Autohaus
+shop: car
 ---

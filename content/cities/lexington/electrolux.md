@@ -1,5 +1,5 @@
 ---
 title: "Electrolux"
 url: /lexington/electrolux/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lexington Smooth Beauty"
 url: /lexington/lexington-smooth-beauty/
-shop: Kosmetik
+shop: beauty
 ---

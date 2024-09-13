@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /lexington/walgreens-east-high-street/
-shop: Drogerie
+shop: chemist
 ---

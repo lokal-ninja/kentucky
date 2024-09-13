@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /nicholasville/kroger-bellerive-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

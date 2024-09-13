@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /paducah/menards/
-shop: Baumarkt
+shop: doityourself
 ---

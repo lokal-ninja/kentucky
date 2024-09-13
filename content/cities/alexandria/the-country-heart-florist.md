@@ -1,5 +1,5 @@
 ---
 title: "The Country Heart Florist"
 url: /alexandria/the-country-heart-florist/
-shop: Blumen
+shop: florist
 ---

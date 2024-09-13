@@ -1,5 +1,5 @@
 ---
 title: "Oscar's Hardware"
 url: /louisville/oscars-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

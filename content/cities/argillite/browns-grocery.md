@@ -1,5 +1,5 @@
 ---
 title: "Brown's Grocery"
 url: /argillite/browns-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

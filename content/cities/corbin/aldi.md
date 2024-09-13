@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /corbin/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

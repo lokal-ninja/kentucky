@@ -1,5 +1,5 @@
 ---
 title: "Legacy Nissan"
 url: /london/legacy-nissan/
-shop: Autohaus
+shop: car
 ---

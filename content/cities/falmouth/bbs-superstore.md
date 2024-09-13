@@ -1,5 +1,5 @@
 ---
 title: "BB’s Superstore"
 url: /falmouth/bbs-superstore/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /hopkinsville/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

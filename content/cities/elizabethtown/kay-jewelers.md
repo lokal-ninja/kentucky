@@ -1,5 +1,5 @@
 ---
 title: "Kay Jewelers"
 url: /elizabethtown/kay-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

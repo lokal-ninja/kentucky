@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /berea/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

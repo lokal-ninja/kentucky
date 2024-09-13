@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /louisville/thorntons/
-shop: Lebensmittel
+shop: convenience
 ---

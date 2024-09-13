@@ -1,5 +1,5 @@
 ---
 title: "Brown's Hardware"
 url: /stanton/browns-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Good Neighbor Pharmacy"
 url: /somerset/good-neighbor-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

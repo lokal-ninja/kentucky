@@ -1,5 +1,5 @@
 ---
 title: "Clique Boutique"
 url: /louisville/clique-boutique/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gold City Towing"
 url: /radcliff/gold-city-towing/
-shop: Autowerkstatt
+shop: car repair
 ---

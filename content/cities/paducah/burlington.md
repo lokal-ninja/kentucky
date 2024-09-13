@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /paducah/burlington/
-shop: Warenhaus
+shop: department store
 ---

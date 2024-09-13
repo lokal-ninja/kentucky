@@ -1,5 +1,5 @@
 ---
 title: "Galloway's"
 url: /leitchfield/galloways/
-shop: Autowerkstatt
+shop: car repair
 ---

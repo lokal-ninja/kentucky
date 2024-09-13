@@ -1,5 +1,5 @@
 ---
 title: "SunStones"
 url: /louisville/sunstones/
-shop: Andenken
+shop: gift
 ---

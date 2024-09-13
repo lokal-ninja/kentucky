@@ -1,5 +1,5 @@
 ---
 title: "Dollar Smart"
 url: /louisville/dollar-smart/
-shop: Kramladen
+shop: variety store
 ---

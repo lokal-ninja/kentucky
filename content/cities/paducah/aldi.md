@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /paducah/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

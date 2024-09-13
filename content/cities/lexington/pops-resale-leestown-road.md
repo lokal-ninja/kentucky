@@ -1,5 +1,5 @@
 ---
 title: "Pops Resale"
 url: /lexington/pops-resale-leestown-road/
-shop: Musik
+shop: music
 ---

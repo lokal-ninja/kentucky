@@ -1,5 +1,5 @@
 ---
 title: "Focus Salon"
 url: /louisville/focus-salon/
-shop: Friseur
+shop: hairdresser
 ---

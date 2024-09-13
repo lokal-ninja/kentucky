@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /morehead/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

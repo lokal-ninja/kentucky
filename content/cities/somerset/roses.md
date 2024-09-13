@@ -1,5 +1,5 @@
 ---
 title: "Roses"
 url: /somerset/roses/
-shop: Kramladen
+shop: variety store
 ---

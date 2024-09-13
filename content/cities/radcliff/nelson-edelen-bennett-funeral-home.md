@@ -1,5 +1,5 @@
 ---
 title: "Nelson-Edelen-Bennett Funeral Home"
 url: /radcliff/nelson-edelen-bennett-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

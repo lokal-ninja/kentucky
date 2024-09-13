@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /lexington/speedway-georgetown-road/
-shop: Lebensmittel
+shop: convenience
 ---

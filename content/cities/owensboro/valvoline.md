@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /owensboro/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

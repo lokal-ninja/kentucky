@@ -1,5 +1,5 @@
 ---
 title: "Taylorsville Auto Center"
 url: /taylorsville/taylorsville-auto-center/
-shop: Autowerkstatt
+shop: car repair
 ---

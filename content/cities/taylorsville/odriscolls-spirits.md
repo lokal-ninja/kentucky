@@ -1,5 +1,5 @@
 ---
 title: "O'Driscoll's Spirits"
 url: /taylorsville/odriscolls-spirits/
-shop: Spirituosen
+shop: alcohol
 ---

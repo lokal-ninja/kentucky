@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /paducah/ross/
-shop: Warenhaus
+shop: department store
 ---

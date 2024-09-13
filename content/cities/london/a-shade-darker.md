@@ -1,5 +1,5 @@
 ---
 title: "A Shade Darker"
 url: /london/a-shade-darker/
-shop: Autowerkstatt
+shop: car repair
 ---

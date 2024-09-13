@@ -1,5 +1,5 @@
 ---
 title: "Beechmont Bombshells"
 url: /louisville/beechmont-bombshells/
-shop: Friseur
+shop: hairdresser
 ---

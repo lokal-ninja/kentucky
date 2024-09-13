@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /louisville/speedway-poplar-level-road/
-shop: Lebensmittel
+shop: convenience
 ---

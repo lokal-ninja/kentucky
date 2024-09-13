@@ -1,5 +1,5 @@
 ---
 title: "Brown Funeral Home"
 url: /elizabethtown/brown-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

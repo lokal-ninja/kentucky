@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /paducah/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

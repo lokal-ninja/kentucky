@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /middletown/kirklands/
-shop: Raumausstattung
+shop: interior decoration
 ---

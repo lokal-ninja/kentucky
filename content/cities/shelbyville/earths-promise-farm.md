@@ -1,5 +1,5 @@
 ---
 title: "Earths Promise Farm"
 url: /shelbyville/earths-promise-farm/
-shop: Hofladen
+shop: farm
 ---

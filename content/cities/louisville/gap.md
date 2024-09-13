@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /louisville/gap/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /cold-spring/kroger-martha-layne-collins-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

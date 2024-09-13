@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /russell-springs/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

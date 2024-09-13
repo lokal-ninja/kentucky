@@ -1,5 +1,5 @@
 ---
 title: "Angel Nails"
 url: /radcliff/angel-nails/
-shop: Kosmetik
+shop: beauty
 ---

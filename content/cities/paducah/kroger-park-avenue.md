@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /paducah/kroger-park-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

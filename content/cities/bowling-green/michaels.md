@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /bowling-green/michaels/
-shop: Basteln
+shop: craft
 ---

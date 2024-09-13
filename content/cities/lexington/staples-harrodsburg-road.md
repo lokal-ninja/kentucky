@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /lexington/staples-harrodsburg-road/
-shop: Schreibwaren
+shop: office supplies
 ---

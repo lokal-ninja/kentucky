@@ -1,5 +1,5 @@
 ---
 title: "A Family Tradition"
 url: /radcliff/a-family-tradition/
-shop: Nähzubehör
+shop: sewing
 ---

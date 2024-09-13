@@ -1,5 +1,5 @@
 ---
 title: "Morgan's Funeral Home"
 url: /princeton/morgans-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

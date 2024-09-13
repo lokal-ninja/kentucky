@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /louisville/walgreens-shepherdsville-road/
-shop: Drogerie
+shop: chemist
 ---

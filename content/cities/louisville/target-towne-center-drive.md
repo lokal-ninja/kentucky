@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /louisville/target-towne-center-drive/
-shop: Warenhaus
+shop: department store
 ---

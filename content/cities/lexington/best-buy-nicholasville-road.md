@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /lexington/best-buy-nicholasville-road/
-shop: Elektronik
+shop: electronics
 ---

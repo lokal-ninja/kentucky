@@ -1,5 +1,5 @@
 ---
 title: "Hartland, Inc"
 url: /princeton/hartland-inc/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

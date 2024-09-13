@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /stanton/valero/
-shop: Lebensmittel
+shop: convenience
 ---

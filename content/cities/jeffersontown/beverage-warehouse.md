@@ -1,5 +1,5 @@
 ---
 title: "Beverage Warehouse"
 url: /jeffersontown/beverage-warehouse/
-shop: Spirituosen
+shop: alcohol
 ---

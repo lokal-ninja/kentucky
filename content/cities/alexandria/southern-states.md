@@ -1,5 +1,5 @@
 ---
 title: "Southern States"
 url: /alexandria/southern-states/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

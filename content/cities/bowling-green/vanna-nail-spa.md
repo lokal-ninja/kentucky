@@ -1,5 +1,5 @@
 ---
 title: "Vanna Nail Spa"
 url: /bowling-green/vanna-nail-spa/
-shop: Kosmetik
+shop: beauty
 ---

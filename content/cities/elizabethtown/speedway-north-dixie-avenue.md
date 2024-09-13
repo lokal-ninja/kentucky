@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /elizabethtown/speedway-north-dixie-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

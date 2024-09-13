@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /radcliff/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wise PC"
 url: /glasgow/wise-pc/
-shop: Computer
+shop: computer
 ---

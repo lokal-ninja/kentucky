@@ -1,5 +1,5 @@
 ---
 title: "Markham Automotive"
 url: /princeton/markham-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /louisville/petsmart-outer-loop-road/
-shop: Tiere
+shop: pet
 ---

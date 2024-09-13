@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /glasgow/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

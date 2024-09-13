@@ -1,5 +1,5 @@
 ---
 title: "U-Stor-IT"
 url: /stanton/u-stor-it/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /lexington/kroger-west-lowry-lane/
-shop: Supermarkt
+shop: supermarket
 ---

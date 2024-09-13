@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /louisville/dollar-general-bardstown-road/
-shop: Kramladen
+shop: variety store
 ---

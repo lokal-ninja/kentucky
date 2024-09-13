@@ -1,5 +1,5 @@
 ---
 title: "Liquor Barn"
 url: /louisville/liquor-barn/
-shop: Spirituosen
+shop: alcohol
 ---

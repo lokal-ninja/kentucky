@@ -1,5 +1,5 @@
 ---
 title: "LeatherHead"
 url: /louisville/leatherhead/
-shop: Leder
+shop: leather
 ---

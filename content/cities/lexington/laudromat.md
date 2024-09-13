@@ -1,5 +1,5 @@
 ---
 title: "Laudromat"
 url: /lexington/laudromat/
-shop: Wäscherei
+shop: laundry
 ---

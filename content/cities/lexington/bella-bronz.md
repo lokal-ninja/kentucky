@@ -1,5 +1,5 @@
 ---
 title: "Bella Bronz"
 url: /lexington/bella-bronz/
-shop: Kosmetik
+shop: beauty
 ---

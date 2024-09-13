@@ -1,5 +1,5 @@
 ---
 title: "Boone's Butcher Shop"
 url: /bardstown/boones-butcher-shop/
-shop: Metzgerei
+shop: butcher
 ---

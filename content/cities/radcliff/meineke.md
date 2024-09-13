@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /radcliff/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

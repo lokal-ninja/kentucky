@@ -1,5 +1,5 @@
 ---
 title: "Auto Excel"
 url: /lexington/auto-excel/
-shop: Autowerkstatt
+shop: car repair
 ---

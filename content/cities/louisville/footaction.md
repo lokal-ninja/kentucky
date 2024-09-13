@@ -1,5 +1,5 @@
 ---
 title: "Footaction"
 url: /louisville/footaction/
-shop: Schuhe
+shop: shoes
 ---

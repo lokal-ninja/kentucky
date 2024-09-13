@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /louisville/big-lots-new-cut-road/
-shop: Warenhaus
+shop: department store
 ---

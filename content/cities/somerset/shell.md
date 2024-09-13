@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /somerset/shell/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedy Mart"
 url: /louisville/speedy-mart/
-shop: Lebensmittel
+shop: convenience
 ---

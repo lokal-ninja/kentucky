@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /winchester/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

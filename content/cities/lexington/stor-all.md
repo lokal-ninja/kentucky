@@ -1,5 +1,5 @@
 ---
 title: "STOR-ALL"
 url: /lexington/stor-all/
-shop: Mieten
+shop: storage rental
 ---

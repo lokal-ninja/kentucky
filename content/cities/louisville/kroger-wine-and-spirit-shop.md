@@ -1,5 +1,5 @@
 ---
 title: "Kroger Wine and Spirit Shop"
 url: /louisville/kroger-wine-and-spirit-shop/
-shop: Spirituosen
+shop: alcohol
 ---
