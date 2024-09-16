@@ -4,8 +4,8 @@ latitude: 38.1921
 longitude: -85.8051
 postcode: "40216"
 city: Louisville
-street: "7th Street Road"
-housenumber: 3943
-phone: "+1 502-449-1853"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/3943-7th-street-rd-louisville-40216?number=410"
+street: 7th Street Road
+housenumber: "3943"
+phone: +1 502-449-1853
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/3943-7th-street-rd-louisville-40216?number=410

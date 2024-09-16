@@ -1,11 +1,11 @@
 id: 1115596390
-type: way
+type: node
 latitude: 37.16416
 longitude: -87.99519
 postcode: "42445"
 city: Princeton
-street: "Pleasant Valley Road"
-housenumber: 5630
+street: Pleasant Valley Road
+housenumber: "5630"
 phone: "+12705457558"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-16:00"
-website: "https://pleasantvalleybulkfoods.com"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-16:00
+website: https://pleasantvalleybulkfoods.com

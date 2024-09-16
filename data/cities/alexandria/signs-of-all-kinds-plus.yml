@@ -4,8 +4,8 @@ latitude: 38.93453
 longitude: -84.39362
 postcode: "41001"
 city: Alexandria
-street: "Moreland Road"
-housenumber: 1035
-phone: "+1-859-694-7446"
-opening_hours: "Tu-Fr 10:00-13:00,14:00-16:30; Sa || by appointment"
-website: "http://www.signsofallkindsplus.com"
+street: Moreland Road
+housenumber: "1035"
+phone: +1-859-694-7446
+opening_hours: Tu-Fr 10:00-13:00,14:00-16:30; Sa || "by appointment"
+website: http://www.signsofallkindsplus.com

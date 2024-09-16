@@ -1,11 +1,11 @@
 id: 1113726221
-type: way
+type: node
 latitude: 37.11045
 longitude: -87.9046
 postcode: "42445"
 city: Princeton
-street: "US HWY 62 W"
-housenumber: 570
-phone: "(270) 398-5494"
+street: US HWY 62 W
+housenumber: "570"
+phone: (270) 398-5494
 opening_hours: ""
 website: ""

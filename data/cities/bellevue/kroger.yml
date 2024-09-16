@@ -1,11 +1,11 @@
 id: 80314059
-type: way
+type: node
 latitude: 39.09881
 longitude: -84.48206
 postcode: "41073"
 city: Bellevue
-street: "Donnermeyer Drive"
-housenumber: 53
-phone: "+1 859-491-4210"
-opening_hours: "Mo-Fr 08:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.kroger.com/stores/grocery/ky/bellevue/bellevue-kroger/014/00359"
+street: Donnermeyer Drive
+housenumber: "53"
+phone: +1 859-491-4210
+opening_hours: Mo-Fr 08:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.kroger.com/stores/grocery/ky/bellevue/bellevue-kroger/014/00359

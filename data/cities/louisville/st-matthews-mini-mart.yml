@@ -1,11 +1,11 @@
 id: 436275102
-type: way
+type: node
 latitude: 38.25208
 longitude: -85.65765
 postcode: "40207"
 city: Louisville
-street: "Wallace Avenue"
-housenumber: 316
+street: Wallace Avenue
+housenumber: "316"
 phone: ""
 opening_hours: ""
 website: ""

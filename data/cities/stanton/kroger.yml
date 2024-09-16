@@ -1,11 +1,11 @@
 id: 311272678
-type: way
+type: node
 latitude: 37.8445
 longitude: -83.8621
 postcode: "40380"
 city: Stanton
-street: "West College Avenue"
-housenumber: 718
-phone: "+1 606-663-2873"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ky/stanton/w-college-ave/024/00411"
+street: West College Avenue
+housenumber: "718"
+phone: +1 606-663-2873
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.kroger.com/stores/grocery/ky/stanton/w-college-ave/024/00411

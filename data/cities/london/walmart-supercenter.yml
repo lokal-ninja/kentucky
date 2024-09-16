@@ -1,11 +1,11 @@
 id: 257328538
-type: way
+type: node
 latitude: 37.11421
 longitude: -84.09053
 postcode: "40741"
 city: London
-street: "Highway 192 West"
-housenumber: 1851
-phone: "+1 606-878-6119"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1113/london-ky/whats-new"
+street: Highway 192 West
+housenumber: "1851"
+phone: +1 606-878-6119
+opening_hours: 24/7
+website: https://www.walmart.com/store/1113/london-ky/whats-new

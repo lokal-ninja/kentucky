@@ -1,11 +1,11 @@
 id: 1020353921
-type: way
+type: node
 latitude: 37.20864
 longitude: -86.28433
 postcode: "42210"
 city: Brownsville
-street: "KY-259 N"
-housenumber: 1400
+street: KY-259 N
+housenumber: "1400"
 phone: "+12702866002"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-14:00"
-website: "https://www.jacobshomefurnishings.com/"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-14:00
+website: https://www.jacobshomefurnishings.com/

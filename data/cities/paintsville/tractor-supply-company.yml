@@ -1,11 +1,11 @@
 id: 1116329316
-type: way
+type: node
 latitude: 37.82395
 longitude: -82.83086
 postcode: "41240"
 city: Paintsville
-street: "Third Street"
-housenumber: 980
-phone: "+1 606-297-5570"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Third Street
+housenumber: "980"
+phone: +1 606-297-5570
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1058002629
-type: way
+type: node
 latitude: 38.32394
 longitude: -85.4716
-postcode: "40014-9305"
+postcode: 40014-9305
 city: Crestwood
-street: "West Highway 22"
-housenumber: 6536
-phone: "+1 502-241-8491"
-opening_hours: "Mo-Sa 08:00-18:00"
+street: West Highway 22
+housenumber: "6536"
+phone: +1 502-241-8491
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

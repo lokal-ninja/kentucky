@@ -1,11 +1,11 @@
 id: 544007934
-type: way
+type: node
 latitude: 38.33166
 longitude: -82.94535
 postcode: "41143"
 city: Grayson
-street: "South Carol Malone Boulevard"
-housenumber: 100
+street: South Carol Malone Boulevard
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

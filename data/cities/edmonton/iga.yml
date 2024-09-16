@@ -1,11 +1,11 @@
 id: 1016681063
-type: way
+type: node
 latitude: 36.98703
 longitude: -85.6395
 postcode: "42129"
 city: Edmonton
-street: "West Stockton Street"
-housenumber: 1417
-phone: "+1 270-384-3106"
+street: West Stockton Street
+housenumber: "1417"
+phone: +1 270-384-3106
 opening_hours: ""
 website: ""

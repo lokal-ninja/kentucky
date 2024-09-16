@@ -1,11 +1,11 @@
 id: 438206372
-type: way
+type: node
 latitude: 39.01808
 longitude: -84.60101
 postcode: "41018"
 city: Erlanger
-street: "Commonwealth Avenue"
-housenumber: 30
-phone: "859-727-1250"
+street: Commonwealth Avenue
+housenumber: "30"
+phone: 859-727-1250
 opening_hours: ""
-website: "https://www.linnemannfuneralhomes.com/"
+website: https://www.linnemannfuneralhomes.com/

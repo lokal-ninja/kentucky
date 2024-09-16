@@ -1,11 +1,11 @@
 id: 330565062
-type: way
+type: node
 latitude: 38.22336
 longitude: -85.68677
 postcode: "40205"
 city: Louisville
-street: "Bardstown Road"
-housenumber: 2440
-phone: "+1 502-459-9805"
-opening_hours: "Mo-Fr 09:00-19:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.kroger.com/stores/grocery/ky/louisville/highlands-kroger/024/00339"
+street: Bardstown Road
+housenumber: "2440"
+phone: +1 502-459-9805
+opening_hours: Mo-Fr 09:00-19:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.kroger.com/stores/grocery/ky/louisville/highlands-kroger/024/00339

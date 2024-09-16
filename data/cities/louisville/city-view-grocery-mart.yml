@@ -1,11 +1,11 @@
 id: 334006777
-type: way
+type: node
 latitude: 38.25183
 longitude: -85.76903
 postcode: "40203"
 city: Louisville
-street: "West Chestnut Street"
-housenumber: 1015
+street: West Chestnut Street
+housenumber: "1015"
 phone: ""
 opening_hours: ""
 website: ""

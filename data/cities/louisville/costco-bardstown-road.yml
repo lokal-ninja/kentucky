@@ -1,11 +1,11 @@
 id: 606792538
-type: way
+type: node
 latitude: 38.20312
 longitude: -85.67008
 postcode: "40218"
 city: Louisville
-street: "Bardstown Road"
-housenumber: 3408
-phone: "+1 502-912-9869"
-opening_hours: "Mo-Fr 10:00-20:30, Sa-Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/louisville-ky-1238.html"
+street: Bardstown Road
+housenumber: "3408"
+phone: +1 502-912-9869
+opening_hours: Mo-Fr 10:00-20:30, Sa-Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/louisville-ky-1238.html

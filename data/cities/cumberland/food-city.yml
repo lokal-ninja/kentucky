@@ -1,11 +1,11 @@
 id: 998374017
-type: way
+type: node
 latitude: 36.97463
 longitude: -82.98305
 postcode: "40823"
 city: Cumberland
-street: "East Main Street"
-housenumber: 1314
+street: East Main Street
+housenumber: "1314"
 phone: ""
 opening_hours: ""
 website: ""

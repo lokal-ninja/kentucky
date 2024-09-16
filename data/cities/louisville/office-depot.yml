@@ -4,8 +4,8 @@ latitude: 38.29697
 longitude: -85.55909
 postcode: "40241"
 city: Louisville
-street: "Springhurst Boulevard"
-housenumber: 3501
-phone: "+1 502-412-4951"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/ky/louisville/officemax-6445"
+street: Springhurst Boulevard
+housenumber: "3501"
+phone: +1 502-412-4951
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/ky/louisville/officemax-6445

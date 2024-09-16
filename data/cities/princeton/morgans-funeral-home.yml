@@ -1,11 +1,11 @@
 id: 1114723733
-type: way
+type: node
 latitude: 37.10891
 longitude: -87.88513
 postcode: "42445"
 city: Princeton
-street: "West Washington Street"
-housenumber: 301
-phone: "(270) 365-5595"
+street: West Washington Street
+housenumber: "301"
+phone: (270) 365-5595
 opening_hours: ""
-website: "https://www.morgansfuneralhome.com"
+website: https://www.morgansfuneralhome.com

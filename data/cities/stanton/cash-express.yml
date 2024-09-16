@@ -1,11 +1,11 @@
 id: 1081152780
-type: way
+type: node
 latitude: 37.8457
 longitude: -83.86264
 postcode: "40380"
 city: Stanton
-street: "West College Avenue"
-housenumber: 231
+street: West College Avenue
+housenumber: "231"
 phone: "+16066630209"
-opening_hours: "Mo-Fr 09:30-17:30, Sa 09:30-14:00"
+opening_hours: Mo-Fr 09:30-17:30, Sa 09:30-14:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 38.24735
 longitude: -85.63031
 postcode: "40207"
 city: Louisville
-street: "Shelbyville Road"
-housenumber: 4600
-phone: "+1-502-899-7768"
-opening_hours: "Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 12:00-18:00"
+street: Shelbyville Road
+housenumber: "4600"
+phone: +1-502-899-7768
+opening_hours: Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 12:00-18:00
 website: ""

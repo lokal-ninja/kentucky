@@ -1,11 +1,11 @@
 id: 159139662
-type: way
+type: node
 latitude: 38.62217
 longitude: -83.78767
 postcode: "41056"
 city: Maysville
-street: "Wal-Mart Way"
-housenumber: 240
-phone: "+1 606-759-5040"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1569/maysville-ky/whats-new"
+street: Wal-Mart Way
+housenumber: "240"
+phone: +1 606-759-5040
+opening_hours: 24/7
+website: https://www.walmart.com/store/1569/maysville-ky/whats-new

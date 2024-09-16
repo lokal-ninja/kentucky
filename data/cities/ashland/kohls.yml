@@ -1,11 +1,11 @@
 id: 772259757
-type: way
+type: node
 latitude: 38.48364
 longitude: -82.65708
 postcode: "41101"
 city: Ashland
-street: "River Hill Drive"
-housenumber: 495
-phone: "+1 606-326-9780"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/ky/ashland-1510.shtml"
+street: River Hill Drive
+housenumber: "495"
+phone: +1 606-326-9780
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/ky/ashland-1510.shtml

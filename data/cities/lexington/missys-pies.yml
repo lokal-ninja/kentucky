@@ -1,11 +1,11 @@
 id: 257152058
-type: way
+type: node
 latitude: 38.03643
 longitude: -84.49302
 postcode: "40507"
 city: Lexington
-street: "East High Street"
-housenumber: 502
-phone: "+1 859 253-0449"
+street: East High Street
+housenumber: "502"
+phone: +1 859 253-0449
 opening_hours: ""
-website: "https://www.missyspieshop.com/"
+website: https://www.missyspieshop.com/

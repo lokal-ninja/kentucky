@@ -1,11 +1,11 @@
 id: 722097287
-type: way
+type: node
 latitude: 37.06668
 longitude: -84.62306
 postcode: "42501"
 city: Somerset
-street: "South Highway 27"
-housenumber: 2001
-phone: "+1 606-679-5656"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ky-somerset/0558"
+street: South Highway 27
+housenumber: "2001"
+phone: +1 606-679-5656
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ky-somerset/0558

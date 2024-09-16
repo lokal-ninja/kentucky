@@ -1,11 +1,11 @@
 id: 1114765937
-type: way
+type: node
 latitude: 37.10714
 longitude: -87.88033
 postcode: "42445"
 city: Princeton
-street: "East Washington Street"
-housenumber: 200
-phone: "(270) 365-9003"
+street: East Washington Street
+housenumber: "200"
+phone: (270) 365-9003
 opening_hours: ""
 website: ""

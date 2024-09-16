@@ -1,11 +1,11 @@
 id: 343716082
-type: way
+type: node
 latitude: 38.18921
 longitude: -85.51896
 postcode: "40299"
 city: Louisville
-street: "Taylorsville Road"
-housenumber: 12611
-phone: "+1 502-261-7042"
-opening_hours: "Mo-Fr 09:00-19:00;Sa 09:00-18:00;Su 11:00-17:00"
-website: "https://www.kroger.com/stores/grocery/ky/louisville/tyler-center/024/00743"
+street: Taylorsville Road
+housenumber: "12611"
+phone: +1 502-261-7042
+opening_hours: Mo-Fr 09:00-19:00;Sa 09:00-18:00;Su 11:00-17:00
+website: https://www.kroger.com/stores/grocery/ky/louisville/tyler-center/024/00743

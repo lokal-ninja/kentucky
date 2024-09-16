@@ -1,11 +1,11 @@
 id: 813647397
-type: way
+type: node
 latitude: 37.05864
 longitude: -84.62699
 postcode: "42501"
 city: Somerset
-street: "Stonegate Center"
-housenumber: 50
-phone: "+1 606-678-0202"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ky/somerset/kroger-marketplace/024/00745"
+street: Stonegate Center
+housenumber: "50"
+phone: +1 606-678-0202
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ky/somerset/kroger-marketplace/024/00745

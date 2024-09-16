@@ -1,11 +1,11 @@
 id: 418171328
-type: way
+type: node
 latitude: 37.58857
 longitude: -85.25074
 postcode: "40033"
 city: Lebanon
-street: "Springfield Road"
-housenumber: 121
+street: Springfield Road
+housenumber: "121"
 phone: ""
 opening_hours: ""
 website: ""

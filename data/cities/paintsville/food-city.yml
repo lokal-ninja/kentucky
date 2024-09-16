@@ -1,11 +1,11 @@
 id: 592762616
-type: way
+type: node
 latitude: 37.82146
 longitude: -82.82035
 postcode: "41240"
 city: Paintsville
-street: "N. May Trail"
-housenumber: 330
+street: N. May Trail
+housenumber: "330"
 phone: ""
-opening_hours: "Mo-Sa 06:00-24:00"
+opening_hours: Mo-Sa 06:00-24:00
 website: ""

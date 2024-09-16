@@ -1,11 +1,11 @@
 id: 1095463077
-type: way
+type: node
 latitude: 36.93851
 longitude: -86.4177
 postcode: "42103"
 city: Bowling Green
-street: "Nell O'Bryan Court"
-housenumber: 3395
-phone: "+1-270-936-8300"
+street: Nell O'Bryan Court
+housenumber: "3395"
+phone: +1-270-936-8300
 opening_hours: ""
 website: ""

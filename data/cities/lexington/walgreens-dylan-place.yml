@@ -1,11 +1,11 @@
 id: 401878211
-type: way
+type: node
 latitude: 37.98181
 longitude: -84.551
 postcode: "40514"
 city: Lexington
-street: "Dylan Place"
-housenumber: 3813
+street: Dylan Place
+housenumber: "3813"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3813+dylan+pl-lexington-ky-40514/id=17946"
+website: https://www.walgreens.com/locator/walgreens-3813+dylan+pl-lexington-ky-40514/id=17946

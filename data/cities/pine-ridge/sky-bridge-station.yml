@@ -1,11 +1,11 @@
 id: 335665150
-type: way
+type: node
 latitude: 37.7634
 longitude: -83.6127
 postcode: "41360"
 city: Pine Ridge
-street: "Sky Bridge Road"
-housenumber: 20
-phone: "+1 (606) 668-9927"
+street: Sky Bridge Road
+housenumber: "20"
+phone: +1 (606) 668-9927
 opening_hours: ""
-website: "http://www.kragky.com/?page_id=62"
+website: http://www.kragky.com/?page_id=62

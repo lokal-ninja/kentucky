@@ -1,11 +1,11 @@
 id: 337087534
-type: way
+type: node
 latitude: 38.20609
 longitude: -85.76589
 postcode: "40208"
 city: Louisville
-street: "South 4th Street"
-housenumber: 3004
-phone: "502-637-7781"
+street: South 4th Street
+housenumber: "3004"
+phone: 502-637-7781
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 80307609
-type: way
+type: node
 latitude: 39.08684
 longitude: -84.52084
 postcode: "41011"
 city: Covington
-street: "West 4th Street"
-housenumber: 610
+street: West 4th Street
+housenumber: "610"
 phone: ""
 opening_hours: ""
 website: ""

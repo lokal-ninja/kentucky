@@ -4,8 +4,8 @@ latitude: 38.95788
 longitude: -84.62495
 postcode: "41042"
 city: Florence
-street: "Berberich Drive"
-housenumber: 9950
-phone: "+1 859-372-3460"
-opening_hours: "Mo-Fr 08:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.kroger.com/stores/grocery/ky/florence/mt-zion/014/00364"
+street: Berberich Drive
+housenumber: "9950"
+phone: +1 859-372-3460
+opening_hours: Mo-Fr 08:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.kroger.com/stores/grocery/ky/florence/mt-zion/014/00364

@@ -1,11 +1,11 @@
 id: 1012930131
-type: way
+type: node
 latitude: 38.47628
 longitude: -82.6467
 postcode: "41101"
 city: Ashland
-street: "Lexington Avenue"
-housenumber: 1221
+street: Lexington Avenue
+housenumber: "1221"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/ashland-ky-pharmacies/1221-lexington-avenue-ashland-ky-41101/storeid=6347"
+website: https://www.cvs.com/store-locator/ashland-ky-pharmacies/1221-lexington-avenue-ashland-ky-41101/storeid=6347

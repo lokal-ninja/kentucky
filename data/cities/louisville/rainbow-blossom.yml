@@ -1,11 +1,11 @@
 id: 436275105
-type: way
+type: node
 latitude: 38.25209
 longitude: -85.6592
 postcode: "40207"
 city: Louisville
-street: "Lexington Road"
-housenumber: 3738
-phone: "+1 502 896 0189"
+street: Lexington Road
+housenumber: "3738"
+phone: +1 502 896 0189
 opening_hours: ""
-website: "https://www.rainbowblossom.com/stmatthews"
+website: https://www.rainbowblossom.com/stmatthews

@@ -1,11 +1,11 @@
 id: 539930993
-type: way
+type: node
 latitude: 38.06065
 longitude: -84.52224
 postcode: "40504"
 city: Lexington
-street: "South Forbes Road"
-housenumber: 154
+street: South Forbes Road
+housenumber: "154"
 phone: ""
-opening_hours: "Mo-Fr 9:00-18:00; Sa 9:00-17:00"
+opening_hours: Mo-Fr 9:00-18:00; Sa 9:00-17:00
 website: ""

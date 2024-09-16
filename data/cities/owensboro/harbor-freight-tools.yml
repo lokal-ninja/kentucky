@@ -1,11 +1,11 @@
 id: 901420269
-type: way
+type: node
 latitude: 37.71951
 longitude: -87.12425
 postcode: "42301"
 city: Owensboro
-street: "Frederica Street"
-housenumber: 5079
-phone: "+1 270-228-0123"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/5079-frederica-street-owensboro-42301?number=2924"
+street: Frederica Street
+housenumber: "5079"
+phone: +1 270-228-0123
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/5079-frederica-street-owensboro-42301?number=2924

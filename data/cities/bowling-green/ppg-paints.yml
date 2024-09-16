@@ -1,11 +1,11 @@
 id: 430457563
-type: way
+type: node
 latitude: 36.95181
 longitude: -86.44214
 postcode: "42104"
 city: Bowling Green
-street: "Campbell Lane"
-housenumber: 1495
+street: Campbell Lane
+housenumber: "1495"
 phone: ""
 opening_hours: ""
 website: ""

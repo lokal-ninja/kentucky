@@ -1,11 +1,11 @@
 id: 657696222
-type: way
+type: node
 latitude: 36.7204
 longitude: -88.6302
 postcode: "42066"
 city: Mayfield
-street: "Paris Road"
-housenumber: 1225
-phone: "+1 270-247-0358"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/430/mayfield-ky/whats-new"
+street: Paris Road
+housenumber: "1225"
+phone: +1 270-247-0358
+opening_hours: 24/7
+website: https://www.walmart.com/store/430/mayfield-ky/whats-new

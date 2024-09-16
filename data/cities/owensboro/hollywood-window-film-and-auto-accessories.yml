@@ -1,11 +1,11 @@
 id: 891732852
-type: way
+type: node
 latitude: 37.74996
 longitude: -87.11271
 postcode: "42301"
 city: Owensboro
-street: "Frederica Street"
-housenumber: 2616
-phone: "+1 (270) 926-3503"
+street: Frederica Street
+housenumber: "2616"
+phone: +1 (270) 926-3503
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1196326298
-type: way
+type: node
 latitude: 38.34625
 longitude: -82.94527
 postcode: "41143"
 city: Grayson
-street: "KY-1947"
-housenumber: 310
+street: KY-1947
+housenumber: "310"
 phone: "+16068986018"
-opening_hours: "Mo-Sa 8:00-22:00; Su 10:00-20:00"
-website: "https://www.dollartree.com/locations/ky/grayson/381/"
+opening_hours: Mo-Sa 8:00-22:00; Su 10:00-20:00
+website: https://www.dollartree.com/locations/ky/grayson/381/

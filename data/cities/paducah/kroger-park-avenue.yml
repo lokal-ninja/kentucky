@@ -1,11 +1,11 @@
 id: 558196885
-type: way
+type: node
 latitude: 37.0861
 longitude: -88.64689
 postcode: "42001"
 city: Paducah
-street: "Park Avenue"
-housenumber: 3141
-phone: "+1 270-444-0596"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ky/paducah/park-ave/025/00414"
+street: Park Avenue
+housenumber: "3141"
+phone: +1 270-444-0596
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.kroger.com/stores/grocery/ky/paducah/park-ave/025/00414

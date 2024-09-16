@@ -1,11 +1,11 @@
 id: 609372959
-type: way
+type: node
 latitude: 38.97311
 longitude: -84.66139
 postcode: "41042"
 city: Florence
-street: "US Highway 42"
-housenumber: 8453
+street: US Highway 42
+housenumber: "8453"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/florence-ky-pharmacies/8559-us-42-hwy-florence-ky-41042/storeid=7648"
+website: https://www.cvs.com/store-locator/florence-ky-pharmacies/8559-us-42-hwy-florence-ky-41042/storeid=7648

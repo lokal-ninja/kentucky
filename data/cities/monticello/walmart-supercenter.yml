@@ -1,11 +1,11 @@
 id: 698529392
-type: way
+type: node
 latitude: 36.85781
 longitude: -84.84797
 postcode: "42633"
 city: Monticello
-street: "Walmart Plaza Drive"
-housenumber: 175
-phone: "+1 606-348-3331"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1234/monticello-ky/whats-new"
+street: Walmart Plaza Drive
+housenumber: "175"
+phone: +1 606-348-3331
+opening_hours: 24/7
+website: https://www.walmart.com/store/1234/monticello-ky/whats-new

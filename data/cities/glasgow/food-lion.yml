@@ -1,11 +1,11 @@
 id: 676308238
-type: way
+type: node
 latitude: 36.99832
 longitude: -85.93203
 postcode: "42141"
 city: Glasgow
-street: "South L Rogers Wells Boulevard"
-housenumber: 214
+street: South L Rogers Wells Boulevard
+housenumber: "214"
 phone: ""
 opening_hours: ""
 website: ""

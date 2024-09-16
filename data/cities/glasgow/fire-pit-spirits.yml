@@ -1,11 +1,11 @@
 id: 843496385
-type: way
+type: node
 latitude: 37.01642
 longitude: -85.92816
 postcode: "42141"
 city: Glasgow
-street: "Happy Valley Road"
-housenumber: 1100
-phone: "+1-270-678-2337"
+street: Happy Valley Road
+housenumber: "1100"
+phone: +1-270-678-2337
 opening_hours: ""
 website: ""

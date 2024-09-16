@@ -1,11 +1,11 @@
 id: 1086066820
-type: way
+type: node
 latitude: 37.09174
 longitude: -84.60814
 postcode: "42501"
 city: Somerset
-street: "West Mount Vernon Street"
-housenumber: 309
+street: West Mount Vernon Street
+housenumber: "309"
 phone: ""
 opening_hours: ""
-website: "https://www.shinersbarbershop.com/"
+website: https://www.shinersbarbershop.com/

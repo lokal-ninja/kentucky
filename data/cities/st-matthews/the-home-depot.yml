@@ -1,11 +1,11 @@
 id: 337711925
-type: way
+type: node
 latitude: 38.23378
 longitude: -85.64324
 postcode: "40207"
 city: St Matthews
-street: "Breckenridge Lane"
-housenumber: 964
-phone: "+1 502-899-3706"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/St-Matthews/KY/Louisville/40207/2313"
+street: Breckenridge Lane
+housenumber: "964"
+phone: +1 502-899-3706
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/St-Matthews/KY/Louisville/40207/2313

@@ -1,11 +1,11 @@
 id: 655793653
-type: way
+type: node
 latitude: 38.37715
 longitude: -84.30593
 postcode: "41031"
 city: Cynthiana
-street: "US Highway 27 South"
-housenumber: 805
-phone: "+1 859-234-3232"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/591/cynthiana-ky/whats-new"
+street: US Highway 27 South
+housenumber: "805"
+phone: +1 859-234-3232
+opening_hours: 24/7
+website: https://www.walmart.com/store/591/cynthiana-ky/whats-new

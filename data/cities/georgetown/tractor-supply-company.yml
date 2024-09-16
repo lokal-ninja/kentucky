@@ -1,11 +1,11 @@
 id: 412531429
-type: way
+type: node
 latitude: 38.22499
 longitude: -84.53437
 postcode: "40324"
 city: Georgetown
-street: "Connector Road"
-housenumber: 305
-phone: "+1 502-868-1040"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Connector Road
+housenumber: "305"
+phone: +1 502-868-1040
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

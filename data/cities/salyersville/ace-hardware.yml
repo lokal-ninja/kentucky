@@ -1,11 +1,11 @@
 id: 1132588862
-type: way
+type: node
 latitude: 37.74853
 longitude: -83.06406
 postcode: "41465"
 city: Salyersville
-street: "Parkway Drive"
-housenumber: 258
-phone: "+1-606-349-6959"
+street: Parkway Drive
+housenumber: "258"
+phone: +1-606-349-6959
 opening_hours: ""
-website: "https://www.acehardware.com/store-details/18795"
+website: https://www.acehardware.com/store-details/18795

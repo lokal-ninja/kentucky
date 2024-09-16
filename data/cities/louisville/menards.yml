@@ -1,11 +1,11 @@
 id: 828574979
-type: way
+type: node
 latitude: 38.10087
 longitude: -85.669
 postcode: "40229"
 city: Louisville
-street: "Preston Crossing Boulevard"
-housenumber: 9625
+street: Preston Crossing Boulevard
+housenumber: "9625"
 phone: "+15029696548"
 opening_hours: ""
 website: ""

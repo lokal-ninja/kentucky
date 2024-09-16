@@ -1,11 +1,11 @@
 id: 894121406
-type: way
+type: node
 latitude: 37.71257
 longitude: -85.83664
 postcode: "42701"
 city: Elizabethtown
-street: "Dolphin Drive"
-housenumber: 3040
-phone: "+1 270-737-4715"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ky/elizabethtown/dolphin-hills/024/00717"
+street: Dolphin Drive
+housenumber: "3040"
+phone: +1 270-737-4715
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ky/elizabethtown/dolphin-hills/024/00717

@@ -1,11 +1,11 @@
 id: 344896976
-type: way
+type: node
 latitude: 38.25678
 longitude: -85.76438
 postcode: "40202"
 city: Louisville
-street: "West Main Street"
-housenumber: 822
+street: West Main Street
+housenumber: "822"
 phone: ""
 opening_hours: ""
 website: ""

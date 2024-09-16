@@ -1,11 +1,11 @@
 id: 1017115939
-type: way
+type: node
 latitude: 36.78312
 longitude: -85.37101
 postcode: "42717"
 city: Burkesville
-street: "Keen Street"
-housenumber: 260
-phone: "+1 270-782-1828"
+street: Keen Street
+housenumber: "260"
+phone: +1 270-782-1828
 opening_hours: ""
 website: ""

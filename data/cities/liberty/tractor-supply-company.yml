@@ -1,11 +1,11 @@
 id: 1156495138
-type: way
+type: node
 latitude: 37.32283
 longitude: -84.92774
 postcode: "42539"
 city: Liberty
-street: "Wolford Avenue"
-housenumber: 671
-phone: "+1 606-787-0696"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Wolford Avenue
+housenumber: "671"
+phone: +1 606-787-0696
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1011471543
-type: way
+type: node
 latitude: 36.97967
 longitude: -86.43767
 postcode: "42104"
 city: Bowling Green
-street: "Broadway Avenue"
-housenumber: 1220
+street: Broadway Avenue
+housenumber: "1220"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/KY/Bowling-Green/1220-Broadway-Avenue"
+website: https://www.speedway.com/locations/KY/Bowling-Green/1220-Broadway-Avenue

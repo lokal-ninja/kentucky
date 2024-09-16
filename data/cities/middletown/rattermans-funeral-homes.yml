@@ -1,11 +1,11 @@
 id: 337527408
-type: way
+type: node
 latitude: 38.24252
 longitude: -85.51742
 postcode: "40243"
 city: Middletown
-street: "Shelbyville Road"
-housenumber: 12900
+street: Shelbyville Road
+housenumber: "12900"
 phone: "+15022443305"
 opening_hours: ""
-website: "https://www.rattermanbrothers.com/"
+website: https://www.rattermanbrothers.com/

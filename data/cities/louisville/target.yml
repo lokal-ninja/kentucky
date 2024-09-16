@@ -1,11 +1,11 @@
 id: 329552029
-type: way
+type: node
 latitude: 38.24617
 longitude: -85.51438
-postcode: "40243-2425"
+postcode: 40243-2425
 city: Louisville
-street: "Shelbyville Road"
-housenumber: 12975
-phone: "+1 502-992-1237"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/middletown/2728"
+street: Shelbyville Road
+housenumber: "12975"
+phone: +1 502-992-1237
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/middletown/2728

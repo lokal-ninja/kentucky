@@ -1,11 +1,11 @@
 id: 339279903
-type: way
+type: node
 latitude: 38.16813
 longitude: -85.82539
 postcode: "40216"
 city: Louisville
-street: "Dixie Highway"
-housenumber: 4915
-phone: "+1 502-448-8247"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/ky/louisville/kroger-marketplace/024/00785"
+street: Dixie Highway
+housenumber: "4915"
+phone: +1 502-448-8247
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/ky/louisville/kroger-marketplace/024/00785

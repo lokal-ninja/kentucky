@@ -1,11 +1,11 @@
 id: 1064194126
-type: way
+type: node
 latitude: 37.42923
 longitude: -84.00712
 postcode: ""
 city: McKee
-street: "North Main Street"
-housenumber: 551
+street: North Main Street
+housenumber: "551"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-551+main+st+n-mckee-ky-40447/id=17796"
+website: https://www.walgreens.com/locator/walgreens-551+main+st+n-mckee-ky-40447/id=17796

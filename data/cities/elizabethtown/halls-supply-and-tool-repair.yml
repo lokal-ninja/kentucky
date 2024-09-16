@@ -1,11 +1,11 @@
 id: 771094034
-type: way
+type: node
 latitude: 37.69127
 longitude: -85.85955
 postcode: "42701"
 city: Elizabethtown
-street: "South Main Street"
-housenumber: 215
+street: South Main Street
+housenumber: "215"
 phone: ""
 opening_hours: ""
 website: ""

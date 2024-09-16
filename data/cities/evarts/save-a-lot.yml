@@ -1,11 +1,11 @@
 id: 963162987
-type: way
+type: node
 latitude: 36.86535
 longitude: -83.19322
 postcode: "40828"
 city: Evarts
-street: "East Main Street"
-housenumber: 158
+street: East Main Street
+housenumber: "158"
 phone: ""
 opening_hours: ""
-website: "https://savealot.com/grocery-stores/evarts-40828-24477/"
+website: https://savealot.com/grocery-stores/evarts-40828-24477/

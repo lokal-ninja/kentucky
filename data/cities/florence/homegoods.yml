@@ -1,11 +1,11 @@
 id: 42266590
-type: way
+type: node
 latitude: 39.0003
 longitude: -84.65527
 postcode: "41042"
 city: Florence
-street: "Mall Road"
-housenumber: 7607
-phone: "+1 859-282-9533"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: Mall Road
+housenumber: "7607"
+phone: +1 859-282-9533
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

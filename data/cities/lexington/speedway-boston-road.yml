@@ -1,11 +1,11 @@
 id: 242120516
-type: way
+type: node
 latitude: 37.97956
 longitude: -84.55101
 postcode: "40514"
 city: Lexington
-street: "Boston Road"
-housenumber: 3660
+street: Boston Road
+housenumber: "3660"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/KY/Lexington/3660-Boston-Road"
+website: https://www.speedway.com/locations/KY/Lexington/3660-Boston-Road

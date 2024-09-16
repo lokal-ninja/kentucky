@@ -4,8 +4,8 @@ latitude: 38.3007
 longitude: -85.55594
 postcode: "40241"
 city: Louisville
-street: "Towne Center Drive"
-housenumber: 4200
-phone: "+1 502-326-3100"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/ky/louisville-288.shtml"
+street: Towne Center Drive
+housenumber: "4200"
+phone: +1 502-326-3100
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/ky/louisville-288.shtml

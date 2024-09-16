@@ -1,11 +1,11 @@
 id: 796387309
-type: way
+type: node
 latitude: 38.68104
 longitude: -84.34174
 postcode: "41040"
 city: Falmouth
-street: "West Shelby Street"
-housenumber: 1206
-phone: "+1-859-654-1272"
+street: West Shelby Street
+housenumber: "1206"
+phone: +1-859-654-1272
 opening_hours: ""
 website: ""

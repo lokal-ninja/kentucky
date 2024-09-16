@@ -1,11 +1,11 @@
 id: 1065377743
-type: way
+type: node
 latitude: 37.17284
 longitude: -83.58473
 postcode: "40972"
 city: Oneida
-street: "Big Creek Road"
-housenumber: 704
-phone: "502-694-3421"
-opening_hours: "Mo-Su 08:00-23:00"
-website: "https://www.dollargeneral.com/store-directory/ky/oneida/20189"
+street: Big Creek Road
+housenumber: "704"
+phone: 502-694-3421
+opening_hours: Mo-Su 08:00-23:00
+website: https://www.dollargeneral.com/store-directory/ky/oneida/20189

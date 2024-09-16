@@ -1,11 +1,11 @@
 id: 42420177
-type: way
+type: node
 latitude: 39.01893
 longitude: -84.47972
 postcode: "41076"
 city: Wilder
-street: "Steffen Lane"
-housenumber: 1135
+street: Steffen Lane
+housenumber: "1135"
 phone: ""
 opening_hours: ""
 website: ""

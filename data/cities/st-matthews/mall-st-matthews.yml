@@ -1,11 +1,11 @@
 id: 337717847
-type: way
+type: node
 latitude: 38.24882
 longitude: -85.6228
 postcode: "40207"
 city: St Matthews
-street: "Shelbyville Road"
-housenumber: 5000
+street: Shelbyville Road
+housenumber: "5000"
 phone: ""
 opening_hours: ""
 website: ""

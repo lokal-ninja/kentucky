@@ -4,8 +4,8 @@ latitude: 38.23578
 longitude: -85.73912
 postcode: "40204"
 city: Louisville
-street: "Logan Street"
-housenumber: 1001
-phone: "502-919-1022"
-opening_hours: "Tu-Sa 10:00-15:00"
-website: "https://www.bourboncitybarkery.com"
+street: Logan Street
+housenumber: "1001"
+phone: 502-919-1022
+opening_hours: Tu-Sa 10:00-15:00
+website: https://www.bourboncitybarkery.com

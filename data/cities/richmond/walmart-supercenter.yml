@@ -1,11 +1,11 @@
 id: 656865474
-type: way
+type: node
 latitude: 37.72819
 longitude: -84.28332
 postcode: "40475"
 city: Richmond
-street: "Eastern Bypass"
-housenumber: 820
-phone: "+1 859-624-4330"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/719/richmond-ky/whats-new"
+street: Eastern Bypass
+housenumber: "820"
+phone: +1 859-624-4330
+opening_hours: 24/7
+website: https://www.walmart.com/store/719/richmond-ky/whats-new

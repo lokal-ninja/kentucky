@@ -1,11 +1,11 @@
 id: 794233614
-type: way
+type: node
 latitude: 38.67841
 longitude: -84.32989
 postcode: "41040"
 city: Falmouth
-street: "2nd Street"
-housenumber: 106
+street: 2nd Street
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

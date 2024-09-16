@@ -1,11 +1,11 @@
 id: 658850545
-type: way
+type: node
 latitude: 38.33729
 longitude: -85.47141
 postcode: "40014"
 city: Crestwood
-street: "Veterans Memorial Parkway"
-housenumber: 6501
-phone: "+1 502-241-6271"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/7290/crestwood-ky/whats-new"
+street: Veterans Memorial Parkway
+housenumber: "6501"
+phone: +1 502-241-6271
+opening_hours: 24/7
+website: https://www.walmart.com/store/7290/crestwood-ky/whats-new

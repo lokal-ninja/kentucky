@@ -1,11 +1,11 @@
 id: 720906740
-type: way
+type: node
 latitude: 37.09163
 longitude: -84.60463
 postcode: "42501"
 city: Somerset
-street: "South Main Street"
-housenumber: 101
+street: South Main Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

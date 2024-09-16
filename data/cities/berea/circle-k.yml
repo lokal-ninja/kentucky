@@ -1,11 +1,11 @@
 id: 1271191335
-type: way
+type: node
 latitude: 37.58646
 longitude: -84.28353
 postcode: "40403"
 city: Berea
-street: "Richmond Road North"
-housenumber: 300
+street: Richmond Road North
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

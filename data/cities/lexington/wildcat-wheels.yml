@@ -2,10 +2,10 @@ id: 1439623572
 type: node
 latitude: 38.04092
 longitude: -84.50225
-postcode: "40526-0123"
+postcode: 40526-0123
 city: Lexington
-street: "S. Martin Luther King Boulevard"
-housenumber: 326
-phone: "+1-859-257-2494"
-opening_hours: "Mo,We 16:00-20:00,Th 15:00-19:00"
-website: "https://www.uky.edu/transportation/bike/wildcatwheels"
+street: S. Martin Luther King Boulevard
+housenumber: "326"
+phone: +1-859-257-2494
+opening_hours: Mo,We 16:00-20:00,Th 15:00-19:00
+website: https://www.uky.edu/transportation/bike/wildcatwheels

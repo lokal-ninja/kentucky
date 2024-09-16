@@ -1,11 +1,11 @@
 id: 657735532
-type: way
+type: node
 latitude: 36.83026
 longitude: -87.47009
 postcode: "42240"
 city: Hopkinsville
-street: "Clinic Drive"
-housenumber: 300
-phone: "+1 270-886-1900"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/653/hopkinsville-ky/whats-new"
+street: Clinic Drive
+housenumber: "300"
+phone: +1 270-886-1900
+opening_hours: 24/7
+website: https://www.walmart.com/store/653/hopkinsville-ky/whats-new

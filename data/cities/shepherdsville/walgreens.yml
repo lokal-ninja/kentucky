@@ -1,11 +1,11 @@
 id: 974965130
-type: way
+type: node
 latitude: 37.99161
 longitude: -85.71517
 postcode: "40165"
 city: Shepherdsville
-street: "North Buckman Street"
-housenumber: 152
+street: North Buckman Street
+housenumber: "152"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-152+n+buckman+st-shepherdsville-ky-40165/id=10207"
+website: https://www.walgreens.com/locator/walgreens-152+n+buckman+st-shepherdsville-ky-40165/id=10207

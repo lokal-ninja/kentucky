@@ -1,11 +1,11 @@
 id: 1132411688
-type: way
+type: node
 latitude: 37.46262
 longitude: -82.50981
 postcode: "41501"
 city: Pikeville
-street: "South Lanks Branch Road"
-housenumber: 359
-phone: "+1-606-437-6265"
-opening_hours: "Mo-Fr 06:00-19:30"
-website: "https://boydcat.com"
+street: South Lanks Branch Road
+housenumber: "359"
+phone: +1-606-437-6265
+opening_hours: Mo-Fr 06:00-19:30
+website: https://boydcat.com

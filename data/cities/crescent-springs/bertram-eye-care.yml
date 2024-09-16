@@ -1,11 +1,11 @@
 id: 119280301
-type: way
+type: node
 latitude: 39.05328
 longitude: -84.5797
 postcode: "41017"
 city: Crescent Springs
-street: "Buttermilk Pike"
-housenumber: 705
+street: Buttermilk Pike
+housenumber: "705"
 phone: ""
 opening_hours: ""
-website: "http://www.bertrameyecare.com/"
+website: http://www.bertrameyecare.com/

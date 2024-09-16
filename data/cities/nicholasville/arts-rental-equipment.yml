@@ -1,11 +1,11 @@
 id: 1196676349
-type: way
+type: node
 latitude: 37.90395
 longitude: -84.57831
 postcode: "40356"
 city: Nicholasville
-street: "Nicholasville Road"
-housenumber: 701
-phone: "+1-859-305-5033"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-15:00"
+street: Nicholasville Road
+housenumber: "701"
+phone: +1-859-305-5033
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-15:00
 website: ""

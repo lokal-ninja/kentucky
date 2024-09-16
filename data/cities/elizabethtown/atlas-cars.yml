@@ -1,11 +1,11 @@
 id: 771094028
-type: way
+type: node
 latitude: 37.70165
 longitude: -85.86893
 postcode: "42701"
 city: Elizabethtown
-street: "Dixie Highway West"
-housenumber: 526
+street: Dixie Highway West
+housenumber: "526"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 402067318
-type: way
+type: node
 latitude: 38.04679
 longitude: -84.524
 postcode: "40504"
 city: Lexington
-street: "Red Mile Road"
-housenumber: 721
+street: Red Mile Road
+housenumber: "721"
 phone: ""
 opening_hours: ""
-website: "lexingtonbicyclecenter.com"
+website: lexingtonbicyclecenter.com

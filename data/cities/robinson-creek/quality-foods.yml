@@ -1,11 +1,11 @@
 id: 557056993
-type: way
+type: node
 latitude: 37.38685
 longitude: -82.53888
 postcode: "41560"
 city: Robinson Creek
-street: "Collins Highway"
-housenumber: 5284
+street: Collins Highway
+housenumber: "5284"
 phone: ""
-opening_hours: "Mo-Su 08:00-23:00"
+opening_hours: Mo-Su 08:00-23:00
 website: ""

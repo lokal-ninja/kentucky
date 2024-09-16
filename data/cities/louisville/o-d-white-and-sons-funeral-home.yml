@@ -1,11 +1,11 @@
 id: 337087140
-type: way
+type: node
 latitude: 38.20919
 longitude: -85.76254
 postcode: "40208"
 city: Louisville
-street: "South 3rd Street"
-housenumber: 2727
-phone: "502-637-4474"
+street: South 3rd Street
+housenumber: "2727"
+phone: 502-637-4474
 opening_hours: ""
-website: "https://www.dignitymemorial.com/od-white-and-sons-funeral-home/en-us/index.page"
+website: https://www.dignitymemorial.com/od-white-and-sons-funeral-home/en-us/index.page

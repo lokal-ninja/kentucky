@@ -1,11 +1,11 @@
 id: 629134555
-type: way
+type: node
 latitude: 36.73811
 longitude: -84.15977
-postcode: "40769-1257"
+postcode: 40769-1257
 city: Williamsburg
-street: "South 5th Street"
-housenumber: 372
-phone: "+1 606-549-2385"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-17:00"
+street: South 5th Street
+housenumber: "372"
+phone: +1 606-549-2385
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-17:00
 website: ""

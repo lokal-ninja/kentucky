@@ -1,11 +1,11 @@
 id: 258229093
-type: way
+type: node
 latitude: 38.01031
 longitude: -84.45057
 postcode: "40509"
 city: Lexington
-street: "Old Todds Road"
-housenumber: 200
-phone: "+1 859-266-7780"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ky-lexington/0507"
+street: Old Todds Road
+housenumber: "200"
+phone: +1 859-266-7780
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ky-lexington/0507

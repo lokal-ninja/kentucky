@@ -1,11 +1,11 @@
 id: 314501960
-type: way
+type: node
 latitude: 38.017
 longitude: -84.52683
 postcode: ""
 city: Lexington
-street: "Southland Drive"
-housenumber: 396
+street: Southland Drive
+housenumber: "396"
 phone: ""
 opening_hours: ""
-website: "https://www.goodyear.com/"
+website: https://www.goodyear.com/

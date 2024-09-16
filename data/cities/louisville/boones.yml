@@ -1,11 +1,11 @@
 id: 334010018
-type: way
+type: node
 latitude: 38.25399
 longitude: -85.67237
 postcode: "40206"
 city: Louisville
-street: "Frankfort Avenue"
-housenumber: 3320
+street: Frankfort Avenue
+housenumber: "3320"
 phone: ""
 opening_hours: ""
 website: ""

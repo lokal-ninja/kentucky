@@ -1,11 +1,11 @@
 id: 1055895209
-type: way
+type: node
 latitude: 38.11013
 longitude: -85.18326
 postcode: "40065"
 city: Shelbyville
-street: "Southville Pike"
-housenumber: 7
+street: Southville Pike
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

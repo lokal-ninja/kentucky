@@ -1,11 +1,11 @@
 id: 1220642759
-type: way
+type: node
 latitude: 38.02608
 longitude: -84.40867
 postcode: ""
 city: Lexington
-street: "Polo Club Boulevard"
-housenumber: 2600
+street: Polo Club Boulevard
+housenumber: "2600"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/ky/lexington/oil-change-040209.html"
+website: https://store.vioc.com/ky/lexington/oil-change-040209.html

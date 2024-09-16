@@ -1,11 +1,11 @@
 id: 313727509
-type: way
+type: node
 latitude: 39.01438
 longitude: -84.6724
 postcode: "41042"
 city: Florence
-street: "Centennial Circle"
-housenumber: 5969
-phone: "+1-859-371-3428"
-opening_hours: "Mo-Th 09:00-21:00; Fr-Sa 09:00-18:00"
-website: "https://www.fiatusaofflorence.com/"
+street: Centennial Circle
+housenumber: "5969"
+phone: +1-859-371-3428
+opening_hours: Mo-Th 09:00-21:00; Fr-Sa 09:00-18:00
+website: https://www.fiatusaofflorence.com/

@@ -1,11 +1,11 @@
 id: 317385520
-type: way
+type: node
 latitude: 38.02608
 longitude: -84.53933
 postcode: "40504"
 city: Lexington
-street: "Harrodsburg Road"
-housenumber: 2081
+street: Harrodsburg Road
+housenumber: "2081"
 phone: ""
-opening_hours: "Mo-Fr 8:00-21:00; Sa 9:00-21:00; Su 10:00-18:00"
-website: "https://stores.staples.com/ky/lexington/2081-harrodsburg-road"
+opening_hours: Mo-Fr 8:00-21:00; Sa 9:00-21:00; Su 10:00-18:00
+website: https://stores.staples.com/ky/lexington/2081-harrodsburg-road

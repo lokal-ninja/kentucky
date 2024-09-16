@@ -1,11 +1,11 @@
 id: 345703656
-type: way
+type: node
 latitude: 39.01721
 longitude: -84.60066
 postcode: "41018"
 city: Erlanger
-street: "Commonwealth Avenue"
-housenumber: 10
-phone: "859-727-1138"
+street: Commonwealth Avenue
+housenumber: "10"
+phone: 859-727-1138
 opening_hours: ""
-website: "https://www.wertmusic.com/"
+website: https://www.wertmusic.com/

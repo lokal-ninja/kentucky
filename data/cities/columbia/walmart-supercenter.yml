@@ -1,11 +1,11 @@
 id: 657640831
-type: way
+type: node
 latitude: 37.075
 longitude: -85.33472
 postcode: "42728"
 city: Columbia
-street: "Burkesville Road"
-housenumber: 2988
-phone: "+1 270-384-4745"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/569/columbia-ky/whats-new"
+street: Burkesville Road
+housenumber: "2988"
+phone: +1 270-384-4745
+opening_hours: 24/7
+website: https://www.walmart.com/store/569/columbia-ky/whats-new

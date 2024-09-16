@@ -1,11 +1,11 @@
 id: 1259775517
-type: way
+type: node
 latitude: 37.884
 longitude: -87.05041
 postcode: "47635"
 city: Rockport
-street: "Main Street"
-housenumber: 509
+street: Main Street
+housenumber: "509"
 phone: ""
 opening_hours: ""
 website: ""

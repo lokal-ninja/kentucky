@@ -1,11 +1,11 @@
 id: 1114775940
-type: way
+type: node
 latitude: 37.10801
 longitude: -87.88061
 postcode: "42445"
 city: Princeton
-street: "East Main Street"
-housenumber: 208
-phone: "270-365-2482"
-opening_hours: "M-F 10 a.m. to 4:30 p.m. CST and Sat. 10 a.m. to 3 p.m. CST"
-website: "https://www.newsomscountryham.com"
+street: East Main Street
+housenumber: "208"
+phone: 270-365-2482
+opening_hours: M-F 10 a.m. to 4:30 p.m. CST and Sat. 10 a.m. to 3 p.m. CST
+website: https://www.newsomscountryham.com

@@ -1,11 +1,11 @@
 id: 843400669
-type: way
+type: node
 latitude: 36.97928
 longitude: -85.88999
 postcode: "42141"
 city: Glasgow
-street: "Burkesville Road"
-housenumber: 1678
-phone: "+1-270-418-2010"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/ky/glasgow/14135"
+street: Burkesville Road
+housenumber: "1678"
+phone: +1-270-418-2010
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/ky/glasgow/14135

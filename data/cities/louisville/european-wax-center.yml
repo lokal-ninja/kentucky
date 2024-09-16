@@ -1,11 +1,11 @@
 id: 1029208205
-type: way
+type: node
 latitude: 38.20386
 longitude: -85.76249
 postcode: "40208"
 city: Louisville
-street: "S 2nd Street"
-housenumber: 3115
+street: S 2nd Street
+housenumber: "3115"
 phone: ""
 opening_hours: ""
-website: "https://locations.waxcenter.com/ky/louisville/louisville-central-station-0566.html"
+website: https://locations.waxcenter.com/ky/louisville/louisville-central-station-0566.html

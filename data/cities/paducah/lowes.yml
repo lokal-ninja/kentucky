@@ -1,11 +1,11 @@
 id: 1188574517
-type: way
+type: node
 latitude: 37.05186
 longitude: -88.57074
 postcode: "42003"
 city: Paducah
-street: "Irvin Cobb Drive"
-housenumber: 3131
-phone: "+1 270-444-5520"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ky-paducah/2460"
+street: Irvin Cobb Drive
+housenumber: "3131"
+phone: +1 270-444-5520
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ky-paducah/2460

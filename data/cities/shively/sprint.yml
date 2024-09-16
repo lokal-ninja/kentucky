@@ -1,11 +1,11 @@
 id: 340043994
-type: way
+type: node
 latitude: 38.18032
 longitude: -85.81604
 postcode: "40216"
 city: Shively
-street: "Dixie Highway"
-housenumber: 4441
+street: Dixie Highway
+housenumber: "4441"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-17:00"
-website: "https://www.sprint.com/"
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-17:00
+website: https://www.sprint.com/

@@ -1,11 +1,11 @@
 id: 332447060
-type: way
+type: node
 latitude: 38.19851
 longitude: -85.70748
 postcode: "40213"
 city: Louisville
-street: "Poplar Level Road"
-housenumber: 4213
+street: Poplar Level Road
+housenumber: "4213"
 phone: ""
 opening_hours: ""
 website: ""

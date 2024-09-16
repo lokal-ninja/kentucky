@@ -1,11 +1,11 @@
 id: 336482778
-type: way
+type: node
 latitude: 38.26054
 longitude: -85.8066
 postcode: "40212"
 city: Louisville
-street: "West Market Street"
-housenumber: 3320
+street: West Market Street
+housenumber: "3320"
 phone: ""
 opening_hours: ""
 website: ""

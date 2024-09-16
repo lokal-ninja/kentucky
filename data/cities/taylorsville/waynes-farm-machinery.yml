@@ -1,11 +1,11 @@
 id: 1105850190
-type: way
+type: node
 latitude: 38.09669
 longitude: -85.36389
 postcode: "40071"
 city: Taylorsville
-street: "Taylorsville Road"
-housenumber: 4804
+street: Taylorsville Road
+housenumber: "4804"
 phone: "+15024772561"
 opening_hours: ""
-website: "https://www.waynesfarmmachinery.com/"
+website: https://www.waynesfarmmachinery.com/

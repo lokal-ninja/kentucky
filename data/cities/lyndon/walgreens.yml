@@ -1,11 +1,11 @@
 id: 337501565
-type: way
+type: node
 latitude: 38.24702
 longitude: -85.57788
 postcode: "40222"
 city: Lyndon
-street: "Shelbyville Road"
-housenumber: 9409
+street: Shelbyville Road
+housenumber: "9409"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-9409+shelbyville+rd-louisville-ky-40222/id=7064"
+website: https://www.walgreens.com/locator/walgreens-9409+shelbyville+rd-louisville-ky-40222/id=7064

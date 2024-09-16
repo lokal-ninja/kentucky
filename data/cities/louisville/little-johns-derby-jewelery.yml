@@ -1,11 +1,11 @@
 id: 337087265
-type: way
+type: node
 latitude: 38.20533
 longitude: -85.76481
 postcode: "40208"
 city: Louisville
-street: "South 4th Street"
-housenumber: 3029
-phone: "502-636-5800"
-opening_hours: "Mo-Sa 10:30-18:00; Su closed"
-website: "https://littlejohnsderbyjewelry.com/"
+street: South 4th Street
+housenumber: "3029"
+phone: 502-636-5800
+opening_hours: Mo-Sa 10:30-18:00; Su closed
+website: https://littlejohnsderbyjewelry.com/

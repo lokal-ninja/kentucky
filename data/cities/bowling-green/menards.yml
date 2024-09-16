@@ -1,11 +1,11 @@
 id: 1281228908
-type: way
+type: node
 latitude: 36.95696
 longitude: -86.44315
 postcode: "42104"
 city: Bowling Green
-street: "Menard Street"
-housenumber: 1948
-phone: "+1 270-418-3224"
+street: Menard Street
+housenumber: "1948"
+phone: +1 270-418-3224
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3378"
+website: https://www.menards.com/store-details/store.html?store=3378

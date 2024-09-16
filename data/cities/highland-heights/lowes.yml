@@ -1,11 +1,11 @@
 id: 41869787
-type: way
+type: node
 latitude: 39.0384
 longitude: -84.4475
 postcode: "41076"
 city: Highland Heights
-street: "Alexandria Pike"
-housenumber: 2369
-phone: "+1 859-442-9333"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=1071"
+street: Alexandria Pike
+housenumber: "2369"
+phone: +1 859-442-9333
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: http://stores.lowes.com/lowes/cgi/site?site=1071

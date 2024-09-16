@@ -1,11 +1,11 @@
 id: 330129682
-type: way
+type: node
 latitude: 38.23375
 longitude: -85.71191
 postcode: "40204"
 city: Louisville
-street: "Bardstown Road"
-housenumber: 1377
+street: Bardstown Road
+housenumber: "1377"
 phone: "+15023840668"
-opening_hours: "Mo-Sa 10:00-18:00; Su 12:00-16:00"
-website: "https://parksidebikes.com/"
+opening_hours: Mo-Sa 10:00-18:00; Su 12:00-16:00
+website: https://parksidebikes.com/

@@ -4,8 +4,8 @@ latitude: 38.23514
 longitude: -85.71774
 postcode: "40204"
 city: Louisville
-street: "Bardstown Road"
-housenumber: 1250
-phone: "(502) 459-2221"
-opening_hours: "Su-Sa 07:00-21:00; Thanksgiving Day 07:00-15:00; closed Christmas Day"
+street: Bardstown Road
+housenumber: "1250"
+phone: (502) 459-2221
+opening_hours: Su-Sa 07:00-21:00; Thanksgiving Day 07:00-15:00; closed Christmas Day
 website: ""

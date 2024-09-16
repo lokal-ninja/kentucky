@@ -1,11 +1,11 @@
 id: 1150315858
-type: way
+type: node
 latitude: 37.68352
 longitude: -83.95015
 postcode: "40472"
 city: Ravenna
-street: "Main Street"
-housenumber: 314
+street: Main Street
+housenumber: "314"
 phone: ""
 opening_hours: ""
 website: ""

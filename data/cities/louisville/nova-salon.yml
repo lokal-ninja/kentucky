@@ -4,8 +4,8 @@ latitude: 38.25341
 longitude: -85.70111
 postcode: "40206"
 city: Louisville
-street: "Frankfort Avenue"
-housenumber: 2346
+street: Frankfort Avenue
+housenumber: "2346"
 phone: "5028951956"
-opening_hours: "Tu 11:00-19:00; We-Th 10:00-19:00; Fr 10:00-18:00; Sa 09:00-17:00"
-website: "https://novasalon.com/"
+opening_hours: Tu 11:00-19:00; We-Th 10:00-19:00; Fr 10:00-18:00; Sa 09:00-17:00
+website: https://novasalon.com/

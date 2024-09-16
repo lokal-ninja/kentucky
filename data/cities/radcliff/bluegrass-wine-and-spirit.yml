@@ -1,11 +1,11 @@
 id: 1120186973
-type: way
+type: node
 latitude: 37.85501
 longitude: -85.95905
 postcode: "40160"
 city: Radcliff
-street: "Hill Street"
-housenumber: 1400
+street: Hill Street
+housenumber: "1400"
 phone: ""
 opening_hours: ""
 website: ""

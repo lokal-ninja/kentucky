@@ -1,11 +1,11 @@
 id: 388500732
-type: way
+type: node
 latitude: 38.18669
 longitude: -84.5692
 postcode: "40324"
 city: Georgetown
-street: "Marketplace Circle"
-housenumber: 106
-phone: "+1 502-863-4807"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.kroger.com/stores/grocery/ky/georgetown/marketplace-circle/024/00779"
+street: Marketplace Circle
+housenumber: "106"
+phone: +1 502-863-4807
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.kroger.com/stores/grocery/ky/georgetown/marketplace-circle/024/00779

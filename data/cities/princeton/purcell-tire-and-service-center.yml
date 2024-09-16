@@ -1,11 +1,11 @@
 id: 1114789668
-type: way
+type: node
 latitude: 37.11306
 longitude: -87.9007
 postcode: "42445"
 city: Princeton
-street: "US Hwy 62 W"
-housenumber: 309
-phone: "270-365-7291"
+street: US Hwy 62 W
+housenumber: "309"
+phone: 270-365-7291
 opening_hours: ""
-website: "https://www.purcelltire.com/stores/view/princeton-kentucky/"
+website: https://www.purcelltire.com/stores/view/princeton-kentucky/

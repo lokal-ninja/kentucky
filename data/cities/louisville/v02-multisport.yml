@@ -1,11 +1,11 @@
 id: 300091973
-type: way
+type: node
 latitude: 38.25415
 longitude: -85.65223
 postcode: "40207"
 city: Louisville
-street: "Saint Matthews Avenue"
-housenumber: 131
+street: Saint Matthews Avenue
+housenumber: "131"
 phone: "+15022907433"
 opening_hours: ""
-website: "http://www.vo2-multisport.com/"
+website: http://www.vo2-multisport.com/

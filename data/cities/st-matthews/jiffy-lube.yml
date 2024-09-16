@@ -1,11 +1,11 @@
 id: 337130213
-type: way
+type: node
 latitude: 38.2592
 longitude: -85.64183
 postcode: "40207"
 city: St Matthews
-street: "Westport Road"
-housenumber: 4180
-phone: "(502) 896-2905"
+street: Westport Road
+housenumber: "4180"
+phone: (502) 896-2905
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 610298877
-type: way
+type: node
 latitude: 38.18433
 longitude: -84.56546
 postcode: ""
 city: Georgetown
-street: "Marketplace Circle"
-housenumber: 112
+street: Marketplace Circle
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

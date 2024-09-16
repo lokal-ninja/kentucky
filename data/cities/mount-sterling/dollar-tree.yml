@@ -1,11 +1,11 @@
 id: 1231455868
-type: way
+type: node
 latitude: 38.06835
 longitude: -83.95415
 postcode: ""
 city: Mount Sterling
-street: "Indian Mound Drive"
-housenumber: 500
+street: Indian Mound Drive
+housenumber: "500"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/ky/mount-sterling/1127/"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/ky/mount-sterling/1127/

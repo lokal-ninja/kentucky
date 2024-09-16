@@ -1,11 +1,11 @@
 id: 296332969
-type: way
+type: node
 latitude: 38.04318
 longitude: -84.50271
 postcode: "40508"
 city: Lexington
-street: "Jersey Street"
-housenumber: 431
+street: Jersey Street
+housenumber: "431"
 phone: ""
 opening_hours: ""
 website: ""

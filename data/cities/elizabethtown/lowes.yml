@@ -1,11 +1,11 @@
 id: 235122060
-type: way
+type: node
 latitude: 37.73191
 longitude: -85.881
 postcode: "42701"
 city: Elizabethtown
-street: "Lowes Drive"
-housenumber: 100
-phone: "+1 270-737-5500"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/KY-Elizabethtown/0460"
+street: Lowes Drive
+housenumber: "100"
+phone: +1 270-737-5500
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/KY-Elizabethtown/0460

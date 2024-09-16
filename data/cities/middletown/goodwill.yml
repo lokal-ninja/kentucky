@@ -1,11 +1,11 @@
 id: 337527413
-type: way
+type: node
 latitude: 38.24129
 longitude: -85.50732
 postcode: "40223"
 city: Middletown
-street: "Huntington Ridge Drive"
-housenumber: 100
+street: Huntington Ridge Drive
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

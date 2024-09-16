@@ -1,11 +1,11 @@
 id: 959560505
-type: way
+type: node
 latitude: 37.24332
 longitude: -84.21985
 postcode: "40445"
 city: Livingston
-street: "South Wilderness Road"
-housenumber: 13855
+street: South Wilderness Road
+housenumber: "13855"
 phone: ""
 opening_hours: ""
 website: ""

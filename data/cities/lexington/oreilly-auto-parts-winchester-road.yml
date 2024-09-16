@@ -1,11 +1,11 @@
 id: 401886635
-type: way
+type: node
 latitude: 38.0427
 longitude: -84.46291
 postcode: ""
 city: Lexington
-street: "Winchester Road"
-housenumber: 1121
+street: Winchester Road
+housenumber: "1121"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 673681180
-type: way
+type: node
 latitude: 37.84505
 longitude: -83.85891
 postcode: "40380"
 city: Stanton
-street: "South Main Street"
-housenumber: 35
+street: South Main Street
+housenumber: "35"
 phone: "+16069476001"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.familydollar.com/locations/ky/stanton/20587/"
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.familydollar.com/locations/ky/stanton/20587/

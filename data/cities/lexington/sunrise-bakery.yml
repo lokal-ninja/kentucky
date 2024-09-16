@@ -1,11 +1,11 @@
 id: 296332493
-type: way
+type: node
 latitude: 38.04663
 longitude: -84.49718
 postcode: "40507"
 city: Lexington
-street: "West Main Street"
-housenumber: 111
+street: West Main Street
+housenumber: "111"
 phone: ""
 opening_hours: ""
-website: "http://valotta.com/"
+website: http://valotta.com/

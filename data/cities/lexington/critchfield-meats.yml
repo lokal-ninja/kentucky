@@ -1,11 +1,11 @@
 id: 258225978
-type: way
+type: node
 latitude: 38.01752
 longitude: -84.52673
 postcode: ""
 city: Lexington
-street: "Southland Drive"
-housenumber: 398
+street: Southland Drive
+housenumber: "398"
 phone: ""
 opening_hours: ""
-website: "https://www.critchfieldmeats.com"
+website: https://www.critchfieldmeats.com

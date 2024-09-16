@@ -1,11 +1,11 @@
 id: 404577144
-type: way
+type: node
 latitude: 38.01959
 longitude: -84.52206
 postcode: "40503"
 city: Lexington
-street: "Rosemont Garden"
-housenumber: 225
-phone: "+1 859 389 9750"
-opening_hours: "Tu, We, Fr 12:00-18:00; Th 12:00-19:00; Sa 10:00-18:00; Su 12:00-16:00"
-website: "http://ReBelleGirls.com/"
+street: Rosemont Garden
+housenumber: "225"
+phone: +1 859 389 9750
+opening_hours: Tu, We, Fr 12:00-18:00; Th 12:00-19:00; Sa 10:00-18:00; Su 12:00-16:00
+website: http://ReBelleGirls.com/

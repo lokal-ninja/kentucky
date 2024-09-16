@@ -1,11 +1,11 @@
 id: 961843903
-type: way
+type: node
 latitude: 37.86135
 longitude: -85.95211
 postcode: "40160"
 city: Radcliff
-street: "Knox Boulevard"
-housenumber: 669
-phone: "1-270-506-0522"
+street: Knox Boulevard
+housenumber: "669"
+phone: 1-270-506-0522
 opening_hours: ""
-website: "https://local.tiresplus.com"
+website: https://local.tiresplus.com

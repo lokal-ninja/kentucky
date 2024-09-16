@@ -1,11 +1,11 @@
 id: 676308243
-type: way
+type: node
 latitude: 36.99565
 longitude: -85.93167
 postcode: "42141"
 city: Glasgow
-street: "Grandview Avenue"
-housenumber: 601
+street: Grandview Avenue
+housenumber: "601"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/KY/Glasgow/601-Grandview-Avenue"
+website: https://www.speedway.com/locations/KY/Glasgow/601-Grandview-Avenue

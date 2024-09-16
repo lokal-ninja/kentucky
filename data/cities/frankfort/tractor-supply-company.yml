@@ -1,11 +1,11 @@
 id: 1276720555
-type: way
+type: node
 latitude: 38.18407
 longitude: -84.81907
 postcode: "40601"
 city: Frankfort
-street: "Arrowhead Court"
-housenumber: 111
-phone: "+1 502-695-7700"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Arrowhead Court
+housenumber: "111"
+phone: +1 502-695-7700
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

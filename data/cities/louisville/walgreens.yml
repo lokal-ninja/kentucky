@@ -1,11 +1,11 @@
 id: 321770947
-type: way
+type: node
 latitude: 38.31377
 longitude: -85.56747
 postcode: "40241"
 city: Louisville
-street: "Brownsboro Road"
-housenumber: 9801
+street: Brownsboro Road
+housenumber: "9801"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-9801+brownsboro+rd-louisville-ky-40241/id=7643"
+website: https://www.walgreens.com/locator/walgreens-9801+brownsboro+rd-louisville-ky-40241/id=7643

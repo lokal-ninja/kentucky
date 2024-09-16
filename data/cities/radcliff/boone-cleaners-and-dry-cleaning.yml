@@ -1,11 +1,11 @@
 id: 962045639
-type: way
+type: node
 latitude: 37.86137
 longitude: -85.9541
 postcode: "40160"
 city: Radcliff
-street: "Knox Boulevard"
-housenumber: 689
+street: Knox Boulevard
+housenumber: "689"
 phone: ""
 opening_hours: ""
 website: ""

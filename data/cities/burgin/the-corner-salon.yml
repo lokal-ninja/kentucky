@@ -1,11 +1,11 @@
 id: 1104515971
-type: way
+type: node
 latitude: 37.75212
 longitude: -84.76166
 postcode: "40310"
 city: Burgin
-street: "South Danville Street"
-housenumber: 108
+street: South Danville Street
+housenumber: "108"
 phone: "+18596911518"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 42267298
-type: way
+type: node
 latitude: 39.01102
 longitude: -84.6393
 postcode: "41042"
 city: Florence
-street: "Houston Road"
-housenumber: 4990
-phone: "+1-859-746-6300"
-opening_hours: "Mo-Su 06:00-24:00"
+street: Houston Road
+housenumber: "4990"
+phone: +1-859-746-6300
+opening_hours: Mo-Su 06:00-24:00
 website: ""

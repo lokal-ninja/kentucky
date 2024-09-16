@@ -1,11 +1,11 @@
 id: 404577142
-type: way
+type: node
 latitude: 38.01956
 longitude: -84.5219
 postcode: "40503"
 city: Lexington
-street: "Rosemont Garden"
-housenumber: 223
-phone: "+1 859 275 1271"
-opening_hours: "Mo-Fr 9:00-16:00"
+street: Rosemont Garden
+housenumber: "223"
+phone: +1 859 275 1271
+opening_hours: Mo-Fr 9:00-16:00
 website: ""

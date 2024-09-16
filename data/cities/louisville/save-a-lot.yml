@@ -1,11 +1,11 @@
 id: 1300763143
-type: way
+type: node
 latitude: 38.18131
 longitude: -85.78384
 postcode: "40215"
 city: Louisville
-street: "Taylor Boulevard"
-housenumber: 4148
+street: Taylor Boulevard
+housenumber: "4148"
 phone: ""
 opening_hours: ""
 website: ""

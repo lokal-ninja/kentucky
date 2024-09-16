@@ -4,8 +4,8 @@ latitude: 38.19268
 longitude: -85.80468
 postcode: "40216"
 city: Louisville
-street: "7th Street Road"
-housenumber: 3925
-phone: "502-448-1369"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.gamestop.com/store/us/ky/louisville/2523/southland-terrace-gamestop"
+street: 7th Street Road
+housenumber: "3925"
+phone: 502-448-1369
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.gamestop.com/store/us/ky/louisville/2523/southland-terrace-gamestop

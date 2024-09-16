@@ -1,11 +1,11 @@
 id: 249997160
-type: way
+type: node
 latitude: 36.86586
 longitude: -87.48852
 postcode: ""
 city: Hopkinsville
-street: "South Main Street"
-housenumber: 804
-phone: "270.889.0330"
-opening_hours: "Mo-Fr 10:00-17:00; Sa 09:00-14:00"
-website: "http://www.boydsbridal.com/"
+street: South Main Street
+housenumber: "804"
+phone: 270.889.0330
+opening_hours: Mo-Fr 10:00-17:00; Sa 09:00-14:00
+website: http://www.boydsbridal.com/

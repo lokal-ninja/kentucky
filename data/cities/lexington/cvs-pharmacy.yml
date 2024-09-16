@@ -1,11 +1,11 @@
 id: 75119104
-type: way
+type: node
 latitude: 38.00989
 longitude: -84.42381
 postcode: ""
 city: Lexington
-street: "Old Todds Road"
-housenumber: 3097
+street: Old Todds Road
+housenumber: "3097"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/lexington-ky-pharmacies/3097-todds-rd-lexington-ky-40509/storeid=6942"
+website: https://www.cvs.com/store-locator/lexington-ky-pharmacies/3097-todds-rd-lexington-ky-40509/storeid=6942

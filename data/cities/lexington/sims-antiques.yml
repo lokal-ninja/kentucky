@@ -1,11 +1,11 @@
 id: 401812892
-type: way
+type: node
 latitude: 38.05673
 longitude: -84.48141
 postcode: ""
 city: Lexington
-street: "East Loudon Avenue"
-housenumber: 116
+street: East Loudon Avenue
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

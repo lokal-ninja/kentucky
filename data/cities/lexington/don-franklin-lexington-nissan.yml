@@ -1,11 +1,11 @@
 id: 403997245
-type: way
+type: node
 latitude: 37.99657
 longitude: -84.44262
 postcode: "40509"
 city: Lexington
-street: "Richmond Road"
-housenumber: 3360
+street: Richmond Road
+housenumber: "3360"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 338213246
-type: way
+type: node
 latitude: 38.14226
 longitude: -85.6717
 postcode: "40219"
 city: Louisville
-street: "Outer Loop"
-housenumber: 4801
+street: Outer Loop
+housenumber: "4801"
 phone: ""
 opening_hours: ""
 website: ""

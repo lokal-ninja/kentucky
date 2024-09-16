@@ -1,11 +1,11 @@
 id: 674003286
-type: way
+type: node
 latitude: 38.04494
 longitude: -85.34149
 postcode: "40071"
 city: Taylorsville
-street: "Taylorsville Road"
-housenumber: 913
+street: Taylorsville Road
+housenumber: "913"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

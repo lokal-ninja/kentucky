@@ -1,11 +1,11 @@
 id: 325467235
-type: way
+type: node
 latitude: 38.29295
 longitude: -85.55946
 postcode: "40241"
 city: Louisville
-street: "Westport Road"
-housenumber: 10320
+street: Westport Road
+housenumber: "10320"
 phone: ""
 opening_hours: ""
 website: ""

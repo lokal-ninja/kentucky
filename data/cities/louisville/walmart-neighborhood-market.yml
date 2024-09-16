@@ -1,11 +1,11 @@
 id: 337190997
-type: way
+type: node
 latitude: 38.25393
 longitude: -85.64386
 postcode: "40207"
 city: Louisville
-street: "Thierman Lane"
-housenumber: 143
-phone: "+1 502-893-8088"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5297/louisville-ky/whats-new"
+street: Thierman Lane
+housenumber: "143"
+phone: +1 502-893-8088
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5297/louisville-ky/whats-new

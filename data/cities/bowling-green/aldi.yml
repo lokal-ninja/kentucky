@@ -1,11 +1,11 @@
 id: 430457560
-type: way
+type: node
 latitude: 36.95243
 longitude: -86.44341
 postcode: "42101"
 city: Bowling Green
-street: "Campbell Lane"
-housenumber: 1455
-phone: "+1 833-470-7043"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ky/bowling-green/1455-campbell-ln"
+street: Campbell Lane
+housenumber: "1455"
+phone: +1 833-470-7043
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ky/bowling-green/1455-campbell-ln

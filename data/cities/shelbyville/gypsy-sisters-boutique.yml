@@ -1,11 +1,11 @@
 id: 1055904571
-type: way
+type: node
 latitude: 38.2111
 longitude: -85.21655
 postcode: "40065"
 city: Shelbyville
-street: "Main Street"
-housenumber: 525
+street: Main Street
+housenumber: "525"
 phone: ""
 opening_hours: ""
 website: ""

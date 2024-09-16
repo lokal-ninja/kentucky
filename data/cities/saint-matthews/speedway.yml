@@ -1,11 +1,11 @@
 id: 337130210
-type: way
+type: node
 latitude: 38.2575
 longitude: -85.64602
 postcode: "40207"
 city: Saint Matthews
-street: "Westport Road"
-housenumber: 4150
+street: Westport Road
+housenumber: "4150"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/KY/St-Matthews/4150-Westport-Road"
+website: https://www.speedway.com/locations/KY/St-Matthews/4150-Westport-Road

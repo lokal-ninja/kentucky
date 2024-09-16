@@ -1,11 +1,11 @@
 id: 548065755
-type: way
+type: node
 latitude: 37.75475
 longitude: -87.07198
 postcode: "42303"
 city: Owensboro
-street: "Heartland Crossing Boulevard"
-housenumber: 3001
+street: Heartland Crossing Boulevard
+housenumber: "3001"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3290"
+website: https://www.menards.com/store-details/store.html?store=3290

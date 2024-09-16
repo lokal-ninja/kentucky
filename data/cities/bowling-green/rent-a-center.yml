@@ -1,11 +1,11 @@
 id: 430616800
-type: way
+type: node
 latitude: 36.94287
 longitude: -86.42493
 postcode: "42104"
 city: Bowling Green
-street: "Scottsville Road"
-housenumber: 2945
+street: Scottsville Road
+housenumber: "2945"
 phone: ""
 opening_hours: ""
 website: ""

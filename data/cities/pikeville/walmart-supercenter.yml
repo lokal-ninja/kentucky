@@ -1,11 +1,11 @@
 id: 449990764
-type: way
+type: node
 latitude: 37.50807
 longitude: -82.54052
 postcode: "41501"
 city: Pikeville
-street: "Cassidy Boulevard"
-housenumber: 254
-phone: "+1 606-432-6177"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1505/pikeville-ky/whats-new"
+street: Cassidy Boulevard
+housenumber: "254"
+phone: +1 606-432-6177
+opening_hours: 24/7
+website: https://www.walmart.com/store/1505/pikeville-ky/whats-new

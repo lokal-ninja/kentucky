@@ -1,11 +1,11 @@
 id: 848161963
-type: way
+type: node
 latitude: 37.99188
 longitude: -84.1793
 postcode: "40391"
 city: Winchester
-street: "West Lexington Avenue"
-housenumber: 24
+street: West Lexington Avenue
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/winchester-ky-pharmacies/24-west-lexington-ave-winchester-ky-40391/storeid=6345"
+website: https://www.cvs.com/store-locator/winchester-ky-pharmacies/24-west-lexington-ave-winchester-ky-40391/storeid=6345

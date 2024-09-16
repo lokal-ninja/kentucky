@@ -1,11 +1,11 @@
 id: 202640360
-type: way
+type: node
 latitude: 38.8561
 longitude: -84.61301
 postcode: "41094"
 city: Walton
-street: "Towne Center Drive"
-housenumber: 12300
-phone: "+1 859-485-8900"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/ky/walton-1295.shtml"
+street: Towne Center Drive
+housenumber: "12300"
+phone: +1 859-485-8900
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/ky/walton-1295.shtml

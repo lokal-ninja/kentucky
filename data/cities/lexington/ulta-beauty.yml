@@ -1,11 +1,11 @@
 id: 718065096
-type: way
+type: node
 latitude: 37.99371
 longitude: -84.5201
 postcode: "40503"
 city: Lexington
-street: "Nicholasville Road"
-housenumber: 3220
-phone: "+1 859-272-1022"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/lexington-ky-129"
+street: Nicholasville Road
+housenumber: "3220"
+phone: +1 859-272-1022
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/lexington-ky-129

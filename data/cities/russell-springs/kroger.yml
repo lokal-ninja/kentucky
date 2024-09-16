@@ -1,11 +1,11 @@
 id: 644706360
-type: way
+type: node
 latitude: 37.0638
 longitude: -85.07206
 postcode: "42642"
 city: Russell Springs
-street: "South Highway 127"
-housenumber: 181
-phone: "+1 270-216-7007"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.kroger.com/stores/grocery/ky/russell-springs/northridge/024/00900"
+street: South Highway 127
+housenumber: "181"
+phone: +1 270-216-7007
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.kroger.com/stores/grocery/ky/russell-springs/northridge/024/00900

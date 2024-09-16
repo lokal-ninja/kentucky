@@ -1,11 +1,11 @@
 id: 401629451
-type: way
+type: node
 latitude: 38.19477
 longitude: -84.56055
 postcode: "40324"
 city: Georgetown
-street: "South Broadway Street"
-housenumber: 808
-phone: "+1 502-863-3322"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "http://georgetownpoolsupply.com"
+street: South Broadway Street
+housenumber: "808"
+phone: +1 502-863-3322
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: http://georgetownpoolsupply.com

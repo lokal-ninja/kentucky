@@ -1,11 +1,11 @@
 id: 1081155957
-type: way
+type: node
 latitude: 37.85163
 longitude: -83.86081
 postcode: "40380"
 city: Stanton
-street: "Breckinridge Street"
-housenumber: 658
+street: Breckinridge Street
+housenumber: "658"
 phone: ""
 opening_hours: ""
 website: ""

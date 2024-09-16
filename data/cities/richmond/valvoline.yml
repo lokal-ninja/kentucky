@@ -4,8 +4,8 @@ latitude: 37.73239
 longitude: -84.28242
 postcode: "40475"
 city: Richmond
-street: "Eastern Bypass"
-housenumber: 849
-phone: "+1-859-624-1696"
-opening_hours: "Mo-Fr 7:30-19:30; Sa 7:30-18:00; Su 09:00-17:00"
-website: "https://www.vioc.com/"
+street: Eastern Bypass
+housenumber: "849"
+phone: +1-859-624-1696
+opening_hours: Mo-Fr 7:30-19:30; Sa 7:30-18:00; Su 09:00-17:00
+website: https://www.vioc.com/

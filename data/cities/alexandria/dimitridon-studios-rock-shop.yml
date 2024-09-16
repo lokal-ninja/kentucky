@@ -4,8 +4,8 @@ latitude: 38.95936
 longitude: -84.38825
 postcode: "41001"
 city: Alexandria
-street: "East Main Street"
-housenumber: 8321
-phone: "+1-859-635-7625"
-opening_hours: "Mo-Th 12:00-19:00; Fr-Su 11:00-20:00"
-website: "https://www.dimitridonstudios.net"
+street: East Main Street
+housenumber: "8321"
+phone: +1-859-635-7625
+opening_hours: Mo-Th 12:00-19:00; Fr-Su 11:00-20:00
+website: https://www.dimitridonstudios.net

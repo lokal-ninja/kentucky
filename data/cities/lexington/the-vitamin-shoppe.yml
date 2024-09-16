@@ -1,11 +1,11 @@
 id: 310612873
-type: way
+type: node
 latitude: 37.98123
 longitude: -84.52889
 postcode: ""
 city: Lexington
-street: "Nicholasville Road"
-housenumber: 4005
+street: Nicholasville Road
+housenumber: "4005"
 phone: ""
 opening_hours: ""
 website: ""

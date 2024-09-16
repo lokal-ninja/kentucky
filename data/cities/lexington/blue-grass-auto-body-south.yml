@@ -1,11 +1,11 @@
 id: 242209999
-type: way
+type: node
 latitude: 37.99737
 longitude: -84.5342
 postcode: "40503"
 city: Lexington
-street: "Ruccio Way"
-housenumber: 309
+street: Ruccio Way
+housenumber: "309"
 phone: ""
 opening_hours: ""
 website: ""

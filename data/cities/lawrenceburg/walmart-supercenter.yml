@@ -1,11 +1,11 @@
 id: 656549548
-type: way
+type: node
 latitude: 38.03466
 longitude: -84.90922
 postcode: "40342"
 city: Lawrenceburg
-street: "Bypass North"
-housenumber: 1000
-phone: "+1 502-839-5178"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/507/lawrenceburg-ky/whats-new"
+street: Bypass North
+housenumber: "1000"
+phone: +1 502-839-5178
+opening_hours: 24/7
+website: https://www.walmart.com/store/507/lawrenceburg-ky/whats-new

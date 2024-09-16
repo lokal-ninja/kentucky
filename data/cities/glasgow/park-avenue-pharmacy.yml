@@ -1,11 +1,11 @@
 id: 674163035
-type: way
+type: node
 latitude: 36.99969
 longitude: -85.89846
 postcode: "42141"
 city: Glasgow
-street: "Park Avenue"
-housenumber: 131
+street: Park Avenue
+housenumber: "131"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 894849143
-type: way
+type: node
 latitude: 37.68224
 longitude: -85.87899
 postcode: "42701"
 city: Elizabethtown
-street: "Magnet Drive"
-housenumber: 102
+street: Magnet Drive
+housenumber: "102"
 phone: ""
 opening_hours: ""
-website: "http://www.hardincountytruckandtrailer.com/"
+website: http://www.hardincountytruckandtrailer.com/

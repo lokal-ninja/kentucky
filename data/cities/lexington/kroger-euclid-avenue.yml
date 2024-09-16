@@ -1,11 +1,11 @@
 id: 443168920
-type: way
+type: node
 latitude: 38.03092
 longitude: -84.49366
 postcode: "40502"
 city: Lexington
-street: "Euclid Avenue"
-housenumber: 704
-phone: "+1 859-687-3260"
-opening_hours: "Mo-Th 06:00-22:00;Fr-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ky/lexington/lexington/024/00784"
+street: Euclid Avenue
+housenumber: "704"
+phone: +1 859-687-3260
+opening_hours: Mo-Th 06:00-22:00;Fr-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ky/lexington/lexington/024/00784

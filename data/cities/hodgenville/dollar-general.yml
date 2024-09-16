@@ -1,11 +1,11 @@
 id: 1067773047
-type: way
+type: node
 latitude: 37.55836
 longitude: -85.73537
 postcode: "42748"
 city: Hodgenville
-street: "South Lincoln Boulevard"
-housenumber: 702
+street: South Lincoln Boulevard
+housenumber: "702"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:45"
-website: "https://www.dollargeneral.com/store-directory/ky/hodgenville/550"
+opening_hours: Mo-Su 08:00-22:45
+website: https://www.dollargeneral.com/store-directory/ky/hodgenville/550

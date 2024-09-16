@@ -1,11 +1,11 @@
 id: 340133704
-type: way
+type: node
 latitude: 38.02899
 longitude: -84.53827
 postcode: "40504"
 city: Lexingtion
-street: "Lane Allen Road"
-housenumber: 801
+street: Lane Allen Road
+housenumber: "801"
 phone: ""
-opening_hours: "Mo-Fr 8:00-18:00; Sa 8:00-17:00; Su 11:00-16:00"
+opening_hours: Mo-Fr 8:00-18:00; Sa 8:00-17:00; Su 11:00-16:00
 website: ""

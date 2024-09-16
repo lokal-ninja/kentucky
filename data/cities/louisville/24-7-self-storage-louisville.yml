@@ -1,11 +1,11 @@
 id: 677182541
-type: way
+type: node
 latitude: 38.1993
 longitude: -85.75577
 postcode: "40209"
 city: Louisville
-street: "Farmington Avenue"
-housenumber: 354
+street: Farmington Avenue
+housenumber: "354"
 phone: ""
 opening_hours: ""
 website: ""

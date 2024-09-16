@@ -1,11 +1,11 @@
 id: 337493958
-type: way
+type: node
 latitude: 38.19998
 longitude: -85.78361
 postcode: "40215"
 city: Louisville
-street: "Clara Avenue"
-housenumber: 1307
+street: Clara Avenue
+housenumber: "1307"
 phone: ""
 opening_hours: ""
 website: ""

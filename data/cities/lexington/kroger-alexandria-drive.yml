@@ -1,11 +1,11 @@
 id: 258225445
-type: way
+type: node
 latitude: 38.03772
 longitude: -84.55116
 postcode: "40504"
 city: Lexington
-street: "Alexandria Drive"
-housenumber: 1080
-phone: "+1 859-276-3556"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.kroger.com/stores/grocery/ky/lexington/gardenside-power-alley/024/00361"
+street: Alexandria Drive
+housenumber: "1080"
+phone: +1 859-276-3556
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.kroger.com/stores/grocery/ky/lexington/gardenside-power-alley/024/00361

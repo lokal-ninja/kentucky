@@ -1,11 +1,11 @@
 id: 954765128
-type: way
+type: node
 latitude: 37.42426
 longitude: -87.47383
 postcode: "42413"
 city: Hanson
-street: "Factory Outlet Drive"
-housenumber: 420
-phone: "+1 270-821-6388"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/655-hanson-ky"
+street: Factory Outlet Drive
+housenumber: "420"
+phone: +1 270-821-6388
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/655-hanson-ky

@@ -1,11 +1,11 @@
 id: 1246808762
-type: way
+type: node
 latitude: 36.84569
 longitude: -88.37671
 postcode: "42025"
 city: Benton
-street: "Mayfield Highway"
-housenumber: 1738
-phone: "+1 270-252-2262"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Mayfield Highway
+housenumber: "1738"
+phone: +1 270-252-2262
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

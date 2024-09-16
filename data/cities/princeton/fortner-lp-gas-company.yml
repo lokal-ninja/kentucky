@@ -4,8 +4,8 @@ latitude: 37.10789
 longitude: -87.93118
 postcode: "42445"
 city: Princeton
-street: "US Hwy 62 West"
-housenumber: 2217
-phone: "1-270-365-5545"
+street: US Hwy 62 West
+housenumber: "2217"
+phone: 1-270-365-5545
 opening_hours: ""
-website: "https://fortnergas.com/"
+website: https://fortnergas.com/

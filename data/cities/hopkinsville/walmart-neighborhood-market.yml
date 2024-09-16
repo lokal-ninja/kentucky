@@ -1,11 +1,11 @@
 id: 657723474
-type: way
+type: node
 latitude: 36.85882
 longitude: -87.51516
 postcode: "42240"
 city: Hopkinsville
-street: "Canton Street"
-housenumber: 3106
-phone: "+1 270-962-4121"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5059/hopkinsville-ky/whats-new"
+street: Canton Street
+housenumber: "3106"
+phone: +1 270-962-4121
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5059/hopkinsville-ky/whats-new

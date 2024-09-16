@@ -1,11 +1,11 @@
 id: 42266220
-type: way
+type: node
 latitude: 38.99418
 longitude: -84.65373
 postcode: "41042"
 city: Florence
-street: "Mall Road"
-housenumber: 7753
-phone: "859-746-9200"
+street: Mall Road
+housenumber: "7753"
+phone: 859-746-9200
 opening_hours: ""
-website: "https://gigiscupcakesusa.com/"
+website: https://gigiscupcakesusa.com/

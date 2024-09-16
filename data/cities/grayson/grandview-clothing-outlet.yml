@@ -1,11 +1,11 @@
 id: 1137092003
-type: way
+type: node
 latitude: 38.34879
 longitude: -82.93511
 postcode: "41143"
 city: Grayson
-street: "C W Stevens Boulevard"
-housenumber: 600
+street: C W Stevens Boulevard
+housenumber: "600"
 phone: ""
-opening_hours: "Th-Sa 9:00-17:00"
+opening_hours: Th-Sa 9:00-17:00
 website: ""

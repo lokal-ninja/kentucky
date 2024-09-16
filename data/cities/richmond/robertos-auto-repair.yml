@@ -1,11 +1,11 @@
 id: 392696891
-type: way
+type: node
 latitude: 37.74636
 longitude: -84.28399
 postcode: "40475"
 city: Richmond
-street: "North Estill Avenue"
-housenumber: 221
-phone: "(859) 624 00 38"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://robertosautorepair.wordpress.com"
+street: North Estill Avenue
+housenumber: "221"
+phone: (859) 624 00 38
+opening_hours: Mo-Fr 08:00-17:00
+website: https://robertosautorepair.wordpress.com

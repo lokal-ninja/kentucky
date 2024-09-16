@@ -1,11 +1,11 @@
 id: 794593751
-type: way
+type: node
 latitude: 38.66699
 longitude: -84.33318
 postcode: "41040"
 city: Falmouth
-street: "Ridgeway Avenue"
-housenumber: 166
-phone: "+1-859-654-1075"
-opening_hours: "Mo-Sa 07:30-20:00; Th 07:30-19:00; Fr off; Su 08:00-19:00"
-website: "https://www.autozone.com/locations/ky/falmouth/166-ridgeway-ave.html"
+street: Ridgeway Avenue
+housenumber: "166"
+phone: +1-859-654-1075
+opening_hours: Mo-Sa 07:30-20:00; Th 07:30-19:00; Fr off; Su 08:00-19:00
+website: https://www.autozone.com/locations/ky/falmouth/166-ridgeway-ave.html

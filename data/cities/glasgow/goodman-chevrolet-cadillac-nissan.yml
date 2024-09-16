@@ -1,11 +1,11 @@
 id: 740782929
-type: way
+type: node
 latitude: 37.01466
 longitude: -85.928
 postcode: "42141"
 city: Glasgow
-street: "Happy Valley Road"
-housenumber: 1003
+street: Happy Valley Road
+housenumber: "1003"
 phone: ""
 opening_hours: ""
-website: "http://www.goodmanautomotive.com/"
+website: http://www.goodmanautomotive.com/

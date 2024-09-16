@@ -1,11 +1,11 @@
 id: 532507423
-type: way
+type: node
 latitude: 38.21086
 longitude: -85.26535
 postcode: "40065"
 city: Shelbyville
-street: "Taylorsville Road"
-housenumber: 500
-phone: "+1 502-633-0705"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/497/shelbyville-ky/whats-new"
+street: Taylorsville Road
+housenumber: "500"
+phone: +1 502-633-0705
+opening_hours: 24/7
+website: https://www.walmart.com/store/497/shelbyville-ky/whats-new

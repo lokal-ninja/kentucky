@@ -1,11 +1,11 @@
 id: 257332252
-type: way
+type: node
 latitude: 37.11159
 longitude: -84.09171
 postcode: "40741"
 city: London
-street: "Highway 192 West"
-housenumber: 1175
+street: Highway 192 West
+housenumber: "1175"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1775+highway+192+w-london-ky-40741/id=12152"
+website: https://www.walgreens.com/locator/walgreens-1775+highway+192+w-london-ky-40741/id=12152

@@ -1,11 +1,11 @@
 id: 163607966
-type: way
+type: node
 latitude: 39.11269
 longitude: -84.47453
 postcode: "41074"
 city: Dayton
-street: "McKinney Avenue"
-housenumber: 507
-phone: "+1-859-491-9663"
+street: McKinney Avenue
+housenumber: "507"
+phone: +1-859-491-9663
 opening_hours: ""
 website: ""

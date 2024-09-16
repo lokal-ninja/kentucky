@@ -1,11 +1,11 @@
 id: 359930372
-type: way
+type: node
 latitude: 37.10574
 longitude: -84.07934
 postcode: "40741"
 city: London
-street: "KY-192"
-housenumber: 395
-phone: "(606) 878-7220"
+street: KY-192
+housenumber: "395"
+phone: (606) 878-7220
 opening_hours: ""
-website: "https://www.legacynissan.com/"
+website: https://www.legacynissan.com/

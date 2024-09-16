@@ -1,11 +1,11 @@
 id: 848206193
-type: way
+type: node
 latitude: 37.52148
 longitude: -82.57001
 postcode: "41501"
 city: Pikeville
-street: "North Mayo Trail"
-housenumber: 3987
-phone: "606-437-9810"
-opening_hours: "Mo-Sa 09:00-18:00"
+street: North Mayo Trail
+housenumber: "3987"
+phone: 606-437-9810
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

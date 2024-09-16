@@ -1,11 +1,11 @@
 id: 42267363
-type: way
+type: node
 latitude: 39.01332
 longitude: -84.63599
 postcode: "41042"
 city: Florence
-street: "Meijer Drive"
-housenumber: 100
-phone: "+1 859-525-7118"
+street: Meijer Drive
+housenumber: "100"
+phone: +1 859-525-7118
 opening_hours: ""
-website: "https://stores.bestbuy.com/ky/florence/100-meijer-dr-161.html"
+website: https://stores.bestbuy.com/ky/florence/100-meijer-dr-161.html

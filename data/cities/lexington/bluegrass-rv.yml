@@ -1,11 +1,11 @@
 id: 402291164
-type: way
+type: node
 latitude: 38.0693
 longitude: -84.47152
 postcode: ""
 city: Lexington
-street: "North Broadway"
-housenumber: 1675
+street: North Broadway
+housenumber: "1675"
 phone: ""
 opening_hours: ""
 website: ""

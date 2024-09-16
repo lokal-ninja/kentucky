@@ -1,11 +1,11 @@
 id: 330566616
-type: way
+type: node
 latitude: 38.22536
 longitude: -85.7073
 postcode: "40205"
 city: Louisville
-street: "Norris Place"
-housenumber: 1632
-phone: "(502) 458-9104"
-opening_hours: "Mo-Fr 07:30-17:30"
-website: "https://reeceserviceinc.godaddysites.com"
+street: Norris Place
+housenumber: "1632"
+phone: (502) 458-9104
+opening_hours: Mo-Fr 07:30-17:30
+website: https://reeceserviceinc.godaddysites.com

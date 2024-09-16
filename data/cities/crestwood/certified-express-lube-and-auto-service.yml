@@ -1,11 +1,11 @@
 id: 1034839705
-type: way
+type: node
 latitude: 38.32233
 longitude: -85.4718
 postcode: "40014"
 city: Crestwood
-street: "KY-146"
-housenumber: 6540
+street: KY-146
+housenumber: "6540"
 phone: "+15022417166"
 opening_hours: ""
-website: "https://www.certifiedcarpros.com/"
+website: https://www.certifiedcarpros.com/

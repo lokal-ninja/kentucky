@@ -1,11 +1,11 @@
 id: 256208122
-type: way
+type: node
 latitude: 37.78311
 longitude: -83.6829
 postcode: ""
 city: Slade
-street: "Natural Bridge Road"
-housenumber: 1890
+street: Natural Bridge Road
+housenumber: "1890"
 phone: ""
 opening_hours: ""
-website: "https://www.miguelspizza.com/"
+website: https://www.miguelspizza.com/

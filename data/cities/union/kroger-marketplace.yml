@@ -1,11 +1,11 @@
 id: 609372961
-type: way
+type: node
 latitude: 38.96319
 longitude: -84.6763
 postcode: "41091"
 city: Union
-street: "US Highway 42"
-housenumber: 9001
-phone: "+1 859-334-9420"
-opening_hours: "06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ky/union/union-marketplace/014/00454"
+street: US Highway 42
+housenumber: "9001"
+phone: +1 859-334-9420
+opening_hours: 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ky/union/union-marketplace/014/00454

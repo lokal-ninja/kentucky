@@ -1,11 +1,11 @@
 id: 338406617
-type: way
+type: node
 latitude: 38.16929
 longitude: -85.60442
 postcode: "40291"
 city: Louisville
-street: "Bardstown Road"
-housenumber: 5301
+street: Bardstown Road
+housenumber: "5301"
 phone: ""
 opening_hours: ""
 website: ""

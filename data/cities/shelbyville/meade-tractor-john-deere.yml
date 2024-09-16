@@ -4,8 +4,8 @@ latitude: 38.18778
 longitude: -85.25964
 postcode: "40065"
 city: Shelbyville
-street: "Gordon Lane"
-housenumber: 600
-phone: "(502) 633-1515"
-opening_hours: "Mo-Fr 08:00-17:00, Sa 08:00-12:00"
-website: "https://www.meadetractor.com/about-us/locations/shelbyville/"
+street: Gordon Lane
+housenumber: "600"
+phone: (502) 633-1515
+opening_hours: Mo-Fr 08:00-17:00, Sa 08:00-12:00
+website: https://www.meadetractor.com/about-us/locations/shelbyville/

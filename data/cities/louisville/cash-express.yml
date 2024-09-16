@@ -1,11 +1,11 @@
 id: 683792752
-type: way
+type: node
 latitude: 38.25807
 longitude: -85.70141
 postcode: "40206"
 city: Louisville
-street: "Brownsboro Road"
-housenumber: 2402
+street: Brownsboro Road
+housenumber: "2402"
 phone: ""
 opening_hours: ""
 website: ""

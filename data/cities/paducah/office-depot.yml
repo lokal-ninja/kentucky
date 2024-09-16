@@ -1,11 +1,11 @@
 id: 1188606520
-type: way
+type: node
 latitude: 37.07513
 longitude: -88.68624
 postcode: "42001"
 city: Paducah
-street: "James Sanders Boulevard"
-housenumber: 2929
-phone: "+1 270-575-9477"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/ky/paducah/office-depot-481"
+street: James Sanders Boulevard
+housenumber: "2929"
+phone: +1 270-575-9477
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/ky/paducah/office-depot-481

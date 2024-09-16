@@ -1,11 +1,11 @@
 id: 338213201
-type: way
+type: node
 latitude: 38.14396
 longitude: -85.67227
 postcode: "40219"
 city: Louisville
-street: "Jefferson Boulevard"
-housenumber: 7389
+street: Jefferson Boulevard
+housenumber: "7389"
 phone: ""
 opening_hours: ""
 website: ""

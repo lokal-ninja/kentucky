@@ -1,11 +1,11 @@
 id: 754767486
-type: way
+type: node
 latitude: 37.13502
 longitude: -85.95585
 postcode: "42127"
 city: Cave City
-street: "South Dixie Highway"
-housenumber: 99
-phone: "(270) 773-4402"
-opening_hours: "05:00-24:00"
+street: South Dixie Highway
+housenumber: "99"
+phone: (270) 773-4402
+opening_hours: 05:00-24:00
 website: ""

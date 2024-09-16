@@ -1,11 +1,11 @@
 id: 243422816
-type: way
+type: node
 latitude: 38.63162
 longitude: -83.79806
 postcode: "41056"
 city: Maysville
-street: "U.S. Highway 68"
-housenumber: 1581
-phone: "+1-606-759-0466"
-opening_hours: "07:00-21:00"
-website: "https://www.ruralking.com/maysville-ky"
+street: U.S. Highway 68
+housenumber: "1581"
+phone: +1-606-759-0466
+opening_hours: 07:00-21:00
+website: https://www.ruralking.com/maysville-ky

@@ -1,11 +1,11 @@
 id: 68278529
-type: way
+type: node
 latitude: 38.98604
 longitude: -84.65234
 postcode: "41042"
 city: Florence
-street: "Mall Road"
-housenumber: 8145
-phone: "859-371-0600"
-opening_hours: "Mo-Su 11:00-20:00"
-website: "http://florenceantiquemall.com/"
+street: Mall Road
+housenumber: "8145"
+phone: 859-371-0600
+opening_hours: Mo-Su 11:00-20:00
+website: http://florenceantiquemall.com/

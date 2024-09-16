@@ -1,11 +1,11 @@
 id: 1055901123
-type: way
+type: node
 latitude: 38.21141
 longitude: -85.21782
 postcode: "40065"
 city: Shelbyville
-street: "Main Street"
-housenumber: 613
+street: Main Street
+housenumber: "613"
 phone: ""
 opening_hours: ""
-website: "http://www.eighttwenty8boutique.com/"
+website: http://www.eighttwenty8boutique.com/

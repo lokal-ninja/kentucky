@@ -1,11 +1,11 @@
 id: 257139000
-type: way
+type: node
 latitude: 38.02966
 longitude: -84.49031
 postcode: "40502"
 city: Lexington
-street: "Euclid Avenue"
-housenumber: 835
-phone: "+1 859 381 0990"
+street: Euclid Avenue
+housenumber: "835"
+phone: +1 859 381 0990
 opening_hours: ""
-website: "http://www.cornerwinelexington.com/"
+website: http://www.cornerwinelexington.com/

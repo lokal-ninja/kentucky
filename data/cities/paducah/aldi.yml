@@ -1,11 +1,11 @@
 id: 1188580352
-type: way
+type: node
 latitude: 37.07385
 longitude: -88.692
 postcode: "42001"
 city: Paducah
-street: "Hinkleville Road"
-housenumber: 5156
-phone: "+1 833-470-7063"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/ky/paducah/5156-hinkleville-rd"
+street: Hinkleville Road
+housenumber: "5156"
+phone: +1 833-470-7063
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/ky/paducah/5156-hinkleville-rd

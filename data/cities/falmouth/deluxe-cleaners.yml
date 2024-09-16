@@ -1,11 +1,11 @@
 id: 886793294
-type: way
+type: node
 latitude: 38.67804
 longitude: -84.33025
 postcode: "41040"
 city: Falmouth
-street: "2nd Street"
-housenumber: 113
-phone: "+1-859-654-3353"
+street: 2nd Street
+housenumber: "113"
+phone: +1-859-654-3353
 opening_hours: ""
 website: ""

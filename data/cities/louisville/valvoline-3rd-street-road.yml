@@ -1,11 +1,11 @@
 id: 339237388
-type: way
+type: node
 latitude: 38.14516
 longitude: -85.77547
 postcode: "40214"
 city: Louisville
-street: "3Rd Street Road"
-housenumber: 7401
+street: 3Rd Street Road
+housenumber: "7401"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/ky/louisville/oil-change-040008.html"
+website: https://store.vioc.com/ky/louisville/oil-change-040008.html

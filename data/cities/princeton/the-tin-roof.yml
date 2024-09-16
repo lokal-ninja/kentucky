@@ -1,11 +1,11 @@
 id: 1115267426
-type: way
+type: node
 latitude: 37.10652
 longitude: -87.877
 postcode: "42445"
 city: Princeton
-street: "East Main Street"
-housenumber: 500
-phone: "(270) 365-9777"
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-15:00"
-website: "https://tinroofgiftshop.com"
+street: East Main Street
+housenumber: "500"
+phone: (270) 365-9777
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-15:00
+website: https://tinroofgiftshop.com

@@ -1,11 +1,11 @@
 id: 642829779
-type: way
+type: node
 latitude: 36.85791
 longitude: -83.86849
 postcode: "40906"
 city: Barbourville
-street: "Parkway Plaza"
-housenumber: 301
-phone: "+1 606-546-5454"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1189/barbourville-ky/whats-new"
+street: Parkway Plaza
+housenumber: "301"
+phone: +1 606-546-5454
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1189/barbourville-ky/whats-new

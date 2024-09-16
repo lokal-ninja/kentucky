@@ -1,11 +1,11 @@
 id: 243532656
-type: way
+type: node
 latitude: 38.67724
 longitude: -84.34213
 postcode: "41040"
 city: Falmouth
-street: "Maple Street"
-housenumber: 599
-phone: "+1-513-826-3058"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.familydollar.com/locations/ky/falmouth/23193/"
+street: Maple Street
+housenumber: "599"
+phone: +1-513-826-3058
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.familydollar.com/locations/ky/falmouth/23193/

@@ -1,11 +1,11 @@
 id: 257711551
-type: way
+type: node
 latitude: 38.04194
 longitude: -84.5035
 postcode: "40508"
 city: Lexington
-street: "South Limestone"
-housenumber: 377
+street: South Limestone
+housenumber: "377"
 phone: ""
 opening_hours: ""
-website: "http://www.cdcentralmusic.com/"
+website: http://www.cdcentralmusic.com/

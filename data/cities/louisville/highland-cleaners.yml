@@ -1,11 +1,11 @@
 id: 336682093
-type: way
+type: node
 latitude: 38.30488
 longitude: -85.57626
 postcode: "40241"
 city: Louisville
-street: "Brownsboro Road"
-housenumber: 9410
-phone: "+1 502 3260900"
+street: Brownsboro Road
+housenumber: "9410"
+phone: +1 502 3260900
 opening_hours: ""
-website: "https://www.highlandcleaners.com/"
+website: https://www.highlandcleaners.com/

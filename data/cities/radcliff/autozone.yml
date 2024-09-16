@@ -1,11 +1,11 @@
 id: 730962602
-type: way
+type: node
 latitude: 37.85166
 longitude: -85.94825
 postcode: "40160"
 city: Radcliff
-street: "Dixie Highway North"
-housenumber: 1008
+street: Dixie Highway North
+housenumber: "1008"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ky/radcliff/1080-n-dixie-blvd.html"
+website: https://www.autozone.com/locations/ky/radcliff/1080-n-dixie-blvd.html

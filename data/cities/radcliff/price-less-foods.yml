@@ -1,11 +1,11 @@
 id: 1041878871
-type: way
+type: node
 latitude: 37.82005
 longitude: -85.92703
 postcode: "40160"
 city: Radcliff
-street: "Millcreek Road"
-housenumber: 262
+street: Millcreek Road
+housenumber: "262"
 phone: ""
 opening_hours: ""
-website: "https://www.mypricelessfoods.com/"
+website: https://www.mypricelessfoods.com/

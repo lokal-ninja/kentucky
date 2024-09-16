@@ -1,11 +1,11 @@
 id: 864162070
-type: way
+type: node
 latitude: 37.84583
 longitude: -83.85824
 postcode: "40380"
 city: Stanton
-street: "East College Avenue"
-housenumber: 6
-phone: "+1 606-663-2790"
+street: East College Avenue
+housenumber: "6"
+phone: +1 606-663-2790
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 275863540
-type: way
+type: node
 latitude: 38.92635
 longitude: -84.39189
 postcode: "41001"
 city: Alexandria
-street: "US Highway 27"
-housenumber: 9809
-phone: "+1-859-694-2170"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/ky/alexandria/13252"
+street: US Highway 27
+housenumber: "9809"
+phone: +1-859-694-2170
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/ky/alexandria/13252

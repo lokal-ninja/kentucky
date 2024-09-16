@@ -1,11 +1,11 @@
 id: 198420415
-type: way
+type: node
 latitude: 39.04223
 longitude: -84.507
 postcode: "41015"
 city: Covington
-street: "Winston Avenue"
-housenumber: 3299
+street: Winston Avenue
+housenumber: "3299"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-4299+winston+ave-covington-ky-41015/id=13055"
+website: https://www.walgreens.com/locator/walgreens-4299+winston+ave-covington-ky-41015/id=13055

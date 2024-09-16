@@ -1,11 +1,11 @@
 id: 337085362
-type: way
+type: node
 latitude: 38.20212
 longitude: -85.76111
 postcode: "40208"
 city: Louisville
-street: "South 2nd Street"
-housenumber: 3165
-phone: "+1 502-368-6075"
-opening_hours: "Mo-Su 7:00-24:00"
-website: "https://www.kroger.com/stores/grocery/ky/louisville/central-station/024/00752"
+street: South 2nd Street
+housenumber: "3165"
+phone: +1 502-368-6075
+opening_hours: Mo-Su 7:00-24:00
+website: https://www.kroger.com/stores/grocery/ky/louisville/central-station/024/00752

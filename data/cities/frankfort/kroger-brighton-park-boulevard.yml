@@ -1,11 +1,11 @@
 id: 619570087
-type: way
+type: node
 latitude: 38.19949
 longitude: -84.82735
 postcode: "40601"
 city: Frankfort
-street: "Brighton Park Boulevard"
-housenumber: 302
-phone: "+1 502-695-0918"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ky/frankfort/brighton-park/024/00397"
+street: Brighton Park Boulevard
+housenumber: "302"
+phone: +1 502-695-0918
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ky/frankfort/brighton-park/024/00397

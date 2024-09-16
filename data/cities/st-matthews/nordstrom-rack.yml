@@ -1,11 +1,11 @@
 id: 300587033
-type: way
+type: node
 latitude: 38.2498
 longitude: -85.62939
 postcode: "40207"
 city: St Matthews
-street: "Shelbyville Road"
-housenumber: 4600
-phone: "502.899.4940"
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-18:00"
-website: "https://www.nordstromrack.com/"
+street: Shelbyville Road
+housenumber: "4600"
+phone: 502.899.4940
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-18:00
+website: https://www.nordstromrack.com/

@@ -1,11 +1,11 @@
 id: 1234983975
-type: way
+type: node
 latitude: 39.011
 longitude: -84.63627
 postcode: "41042"
 city: Florence
-street: "Meijer Drive"
-housenumber: 390
-phone: "+1-859-818-0229"
-opening_hours: "Mo,Su 11:00-17:00; Tu-Sa 10:00-19:00"
+street: Meijer Drive
+housenumber: "390"
+phone: +1-859-818-0229
+opening_hours: Mo,Su 11:00-17:00; Tu-Sa 10:00-19:00
 website: ""

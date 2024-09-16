@@ -1,11 +1,11 @@
 id: 257150237
-type: way
+type: node
 latitude: 38.03133
 longitude: -84.49207
 postcode: "40502"
 city: Lexington
-street: "Clay Avenue"
-housenumber: 330
+street: Clay Avenue
+housenumber: "330"
 phone: ""
 opening_hours: ""
 website: ""

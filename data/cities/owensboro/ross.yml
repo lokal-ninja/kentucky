@@ -1,11 +1,11 @@
 id: 900980718
-type: way
+type: node
 latitude: 37.76246
 longitude: -87.0691
 postcode: "42303"
 city: Owensboro
-street: "Calumet Trace"
-housenumber: 2610
-phone: "+1 270-852-8999"
-opening_hours: "Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 10:30-19:30"
+street: Calumet Trace
+housenumber: "2610"
+phone: +1 270-852-8999
+opening_hours: Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 10:30-19:30
 website: ""

@@ -1,11 +1,11 @@
 id: 1014031112
-type: way
+type: node
 latitude: 37.88234
 longitude: -84.57159
 postcode: "40356"
 city: Nicholasville
-street: "North Main Street"
-housenumber: 300
+street: North Main Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/nicholasville-ky-pharmacies/300-north-main-street-nicholasville-ky-40356/storeid=3995"
+website: https://www.cvs.com/store-locator/nicholasville-ky-pharmacies/300-north-main-street-nicholasville-ky-40356/storeid=3995

@@ -1,11 +1,11 @@
 id: 336611955
-type: way
+type: node
 latitude: 38.28793
 longitude: -85.57493
 postcode: "40241"
 city: Meadow Vale
-street: "Westport Road"
-housenumber: 9501
-phone: "+1 502-425-5221"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/ky/louisville/westport-plaza/024/00764"
+street: Westport Road
+housenumber: "9501"
+phone: +1 502-425-5221
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/ky/louisville/westport-plaza/024/00764

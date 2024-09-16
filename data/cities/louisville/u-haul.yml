@@ -1,11 +1,11 @@
 id: 820790937
-type: way
+type: node
 latitude: 38.18186
 longitude: -85.72079
 postcode: "40213"
 city: Louisville
-street: "Preston Highway"
-housenumber: 4612
+street: Preston Highway
+housenumber: "4612"
 phone: ""
 opening_hours: ""
 website: ""

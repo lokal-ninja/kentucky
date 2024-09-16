@@ -1,11 +1,11 @@
 id: 403417413
-type: way
+type: node
 latitude: 38.00843
 longitude: -84.4543
 postcode: "40509"
 city: Lexington
-street: "Richmond Road"
-housenumber: 2700
+street: Richmond Road
+housenumber: "2700"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2700+richmond+rd-lexington-ky-40509/id=17311"
+website: https://www.walgreens.com/locator/walgreens-2700+richmond+rd-lexington-ky-40509/id=17311

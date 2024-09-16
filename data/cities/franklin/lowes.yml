@@ -1,11 +1,11 @@
 id: 375244700
-type: way
+type: node
 latitude: 36.69646
 longitude: -86.56923
 postcode: "42134"
 city: Franklin
-street: "Nashville Road"
-housenumber: 1555
-phone: "+1 270-598-7320"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ky-franklin/2776"
+street: Nashville Road
+housenumber: "1555"
+phone: +1 270-598-7320
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ky-franklin/2776

@@ -1,11 +1,11 @@
 id: 337728741
-type: way
+type: node
 latitude: 38.13414
 longitude: -85.6585
 postcode: "40219"
 city: Louisville
-street: "Shepherdsville Road"
-housenumber: 8003
+street: Shepherdsville Road
+housenumber: "8003"
 phone: ""
 opening_hours: ""
 website: ""

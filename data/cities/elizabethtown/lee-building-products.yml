@@ -1,11 +1,11 @@
 id: 894849138
-type: way
+type: node
 latitude: 37.68424
 longitude: -85.88268
 postcode: "42701"
 city: Elizabethtown
-street: "College Street Road"
-housenumber: 307
+street: College Street Road
+housenumber: "307"
 phone: ""
 opening_hours: ""
 website: ""

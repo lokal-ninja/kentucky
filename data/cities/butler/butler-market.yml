@@ -1,11 +1,11 @@
 id: 864005651
-type: way
+type: node
 latitude: 38.78687
 longitude: -84.36868
 postcode: "41006"
 city: Butler
-street: "Front Street"
-housenumber: 106
+street: Front Street
+housenumber: "106"
 phone: "+18594722588"
 opening_hours: ""
 website: ""

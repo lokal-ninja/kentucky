@@ -1,11 +1,11 @@
 id: 331282818
-type: way
+type: node
 latitude: 38.25277
 longitude: -85.75254
 postcode: "40202"
 city: Louisville
-street: "South 1st Street"
-housenumber: 300
+street: South 1st Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 257530531
-type: way
+type: node
 latitude: 38.0381
 longitude: -84.49508
 postcode: "40508"
 city: Lexington
-street: "East Maxwell Street"
-housenumber: 417
+street: East Maxwell Street
+housenumber: "417"
 phone: ""
 opening_hours: ""
 website: ""

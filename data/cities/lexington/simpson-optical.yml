@@ -1,11 +1,11 @@
 id: 243998307
-type: way
+type: node
 latitude: 37.99392
 longitude: -84.53082
 postcode: "40503"
 city: Lexington
-street: "Meijer Way"
-housenumber: 340
+street: Meijer Way
+housenumber: "340"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

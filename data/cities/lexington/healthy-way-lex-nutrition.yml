@@ -4,8 +4,8 @@ latitude: 38.01966
 longitude: -84.52845
 postcode: "40503"
 city: Lexington
-street: "Southland Drive"
-housenumber: 460
-phone: "+1 859 749 7706"
-opening_hours: "Mo-Th 7:00-19:00; Fr 7:00-18:00; Sa 10:00-16:00; Su 11:00-15:00"
+street: Southland Drive
+housenumber: "460"
+phone: +1 859 749 7706
+opening_hours: Mo-Th 7:00-19:00; Fr 7:00-18:00; Sa 10:00-16:00; Su 11:00-15:00
 website: ""

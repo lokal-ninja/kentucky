@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /columbia/dollar-general-russell-road/
+url: /princeton/dollar-general-hopkinsville-road/
 shop: variety store
 ---

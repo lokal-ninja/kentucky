@@ -1,11 +1,11 @@
 id: 331282585
-type: way
+type: node
 latitude: 38.25458
 longitude: -85.74968
 postcode: "40202"
 city: Louisville
-street: "East Market Street"
-housenumber: 201
+street: East Market Street
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

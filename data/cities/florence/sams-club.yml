@@ -1,11 +1,11 @@
 id: 42267410
-type: way
+type: node
 latitude: 39.01552
 longitude: -84.63866
 postcode: "41042"
 city: Florence
-street: "Houston Road"
-housenumber: 4949
-phone: "+1 859-283-5515"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/florence-ky-sams-club/8133"
+street: Houston Road
+housenumber: "4949"
+phone: +1 859-283-5515
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/florence-ky-sams-club/8133

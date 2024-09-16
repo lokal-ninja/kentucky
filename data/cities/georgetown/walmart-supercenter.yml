@@ -1,11 +1,11 @@
 id: 586678472
-type: way
+type: node
 latitude: 38.23127
 longitude: -84.53904
 postcode: "40324"
 city: Georgetown
-street: "Osbourne Way"
-housenumber: 112
-phone: "+1 502-867-0547"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/571/georgetown-ky/whats-new"
+street: Osbourne Way
+housenumber: "112"
+phone: +1 502-867-0547
+opening_hours: 24/7
+website: https://www.walmart.com/store/571/georgetown-ky/whats-new

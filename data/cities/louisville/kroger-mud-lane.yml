@@ -4,8 +4,8 @@ latitude: 38.08921
 longitude: -85.6704
 postcode: "40229"
 city: Louisville
-street: "Mud Lane"
-housenumber: 5001
-phone: "+1 502-962-8022"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/ky/louisville/southgate/024/00366"
+street: Mud Lane
+housenumber: "5001"
+phone: +1 502-962-8022
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/ky/louisville/southgate/024/00366

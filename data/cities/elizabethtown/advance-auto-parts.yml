@@ -1,11 +1,11 @@
 id: 1089916060
-type: way
+type: node
 latitude: 37.70761
 longitude: -85.84011
 postcode: "42701"
 city: Elizabethtown
-street: "North Main Street"
-housenumber: 1117
-phone: "1 (270) 737-7213"
+street: North Main Street
+housenumber: "1117"
+phone: 1 (270) 737-7213
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/ky/elizabethtown/1117-n-main-st"
+website: https://stores.advanceautoparts.com/ky/elizabethtown/1117-n-main-st

@@ -1,11 +1,11 @@
 id: 1089910251
-type: way
+type: node
 latitude: 37.70995
 longitude: -85.83848
 postcode: "42701"
 city: Elizabethtown
-street: "North Mulberry Street"
-housenumber: 1016
-phone: "1 (270) 763-0303"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: North Mulberry Street
+housenumber: "1016"
+phone: 1 (270) 763-0303
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

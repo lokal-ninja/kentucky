@@ -1,11 +1,11 @@
 id: 694773792
-type: way
+type: node
 latitude: 38.01693
 longitude: -84.45441
 postcode: "40509"
 city: Lexington
-street: "Woodhill Drive"
-housenumber: 2380
+street: Woodhill Drive
+housenumber: "2380"
 phone: ""
 opening_hours: ""
 website: ""

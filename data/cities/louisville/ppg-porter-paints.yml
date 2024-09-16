@@ -1,11 +1,11 @@
 id: 334590158
-type: way
+type: node
 latitude: 38.24359
 longitude: -85.75669
 postcode: "40203"
 city: Louisville
-street: "South 3rd Street"
-housenumber: 801
+street: South 3rd Street
+housenumber: "801"
 phone: ""
 opening_hours: ""
 website: ""

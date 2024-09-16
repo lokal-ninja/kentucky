@@ -1,11 +1,13 @@
 id: 1117432974
-type: way
+type: node
 latitude: 37.10757
 longitude: -87.88267
 postcode: "42445"
 city: Princeton
-street: "South Jefferson Street"
-housenumber: 205
-phone: "(270) 619-0899"
-opening_hours: "Hours Closed now Monday 8:00 AM - 4:00 PM Tuesday 8:00 AM - 4:00 PM Wednesday 8:00 AM - 4:00 PM Thursday 8:00 AM - 4:00 PM Friday 8:00 AM - 4:00 PM Saturday CLOSED Sunday CLOSED"
-website: "https://www.facebook.com/Drogers241"
+street: South Jefferson Street
+housenumber: "205"
+phone: (270) 619-0899
+opening_hours: Hours Closed now Monday 8:00 AM - 4:00 PM Tuesday 8:00 AM - 4:00 PM
+    Wednesday 8:00 AM - 4:00 PM Thursday 8:00 AM - 4:00 PM Friday 8:00 AM - 4:00 PM
+    Saturday CLOSED Sunday CLOSED
+website: https://www.facebook.com/Drogers241

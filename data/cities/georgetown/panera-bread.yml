@@ -1,11 +1,11 @@
 id: 610600723
-type: way
+type: node
 latitude: 38.22187
 longitude: -84.53944
 postcode: "40324"
 city: Georgetown
-street: "Cherry Blossom Way"
-housenumber: 1446
-phone: "+1 502-603-4496"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-21:00"
-website: "https://locations.panerabread.com/ky/georgetown/1446-cherry-blossom-way.html"
+street: Cherry Blossom Way
+housenumber: "1446"
+phone: +1 502-603-4496
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-21:00
+website: https://locations.panerabread.com/ky/georgetown/1446-cherry-blossom-way.html

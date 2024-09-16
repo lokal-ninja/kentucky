@@ -1,11 +1,11 @@
 id: 1029208203
-type: way
+type: node
 latitude: 38.2039
 longitude: -85.76263
 postcode: "40208"
 city: Louisville
-street: "S 2nd Street"
-housenumber: 3211
+street: S 2nd Street
+housenumber: "3211"
 phone: ""
 opening_hours: ""
-website: "https://www.gamestop.com/store/us/ky/louisville/5468/central-station-gamestop"
+website: https://www.gamestop.com/store/us/ky/louisville/5468/central-station-gamestop

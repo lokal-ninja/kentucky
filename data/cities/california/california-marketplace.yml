@@ -1,11 +1,11 @@
 id: 232306041
-type: way
+type: node
 latitude: 38.87142
 longitude: -84.26205
 postcode: "41007"
 city: California
-street: "Shortcut Road"
-housenumber: 3501
-phone: "+1-859-635-0885"
-opening_hours: "24/7"
-website: "https://california-marketplace.business.site"
+street: Shortcut Road
+housenumber: "3501"
+phone: +1-859-635-0885
+opening_hours: 24/7
+website: https://california-marketplace.business.site

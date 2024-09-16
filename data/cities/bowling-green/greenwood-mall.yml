@@ -1,11 +1,11 @@
 id: 426974547
-type: way
+type: node
 latitude: 36.95013
 longitude: -86.42888
 postcode: ""
 city: Bowling Green
-street: "Scottsville Road"
-housenumber: 2625
+street: Scottsville Road
+housenumber: "2625"
 phone: ""
 opening_hours: ""
-website: "https://www.greenwoodmall.com/en.html"
+website: https://www.greenwoodmall.com/en.html

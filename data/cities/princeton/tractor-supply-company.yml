@@ -4,8 +4,8 @@ latitude: 37.11213
 longitude: -87.90424
 postcode: "42445"
 city: Princeton
-street: "US HWY 62"
-housenumber: 500
-phone: "+1 270-365-1166"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: US HWY 62
+housenumber: "500"
+phone: +1 270-365-1166
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

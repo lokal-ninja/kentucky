@@ -1,11 +1,11 @@
 id: 668175785
-type: way
+type: node
 latitude: 38.19167
 longitude: -83.48321
 postcode: "40351"
 city: Morehead
-street: "Kroger Center"
-housenumber: 100
-phone: "+1 606-780-2200"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ky-morehead/1808"
+street: Kroger Center
+housenumber: "100"
+phone: +1 606-780-2200
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ky-morehead/1808

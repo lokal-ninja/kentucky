@@ -1,11 +1,11 @@
 id: 338213200
-type: way
+type: node
 latitude: 38.14377
 longitude: -85.66988
 postcode: "40219"
 city: Louisville
-street: "Jefferson Boulevard"
-housenumber: 7375
-phone: "+1 502-753-0431"
+street: Jefferson Boulevard
+housenumber: "7375"
+phone: +1 502-753-0431
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/kentucky/louisville/7710000184/"
+website: https://stores.ashleyfurniture.com/store/us/kentucky/louisville/7710000184/

@@ -1,11 +1,11 @@
 id: 1261816898
-type: way
+type: node
 latitude: 38.13887
 longitude: -85.68611
 postcode: "40219"
 city: Louisville
-street: "Outer Loop"
-housenumber: 4101
+street: Outer Loop
+housenumber: "4101"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/louisville-ky-pharmacies/4101-outer-loop-road-louisville-ky-40219/storeid=6209"
+website: https://www.cvs.com/store-locator/louisville-ky-pharmacies/4101-outer-loop-road-louisville-ky-40219/storeid=6209

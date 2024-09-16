@@ -1,11 +1,11 @@
 id: 612633850
-type: way
+type: node
 latitude: 38.22868
 longitude: -84.53233
 postcode: "40324"
 city: Georgetown
-street: "Magnolia Drive"
-housenumber: 109
-phone: "+1 502-570-2060"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ky-georgetown/1736"
+street: Magnolia Drive
+housenumber: "109"
+phone: +1 502-570-2060
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ky-georgetown/1736

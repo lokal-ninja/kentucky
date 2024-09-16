@@ -1,11 +1,11 @@
 id: 1061921854
-type: way
+type: node
 latitude: 37.8455
 longitude: -83.8551
 postcode: "40380"
 city: Stanton
-street: "East College Avenue"
-housenumber: 176
+street: East College Avenue
+housenumber: "176"
 phone: "+16066632598"
-opening_hours: "Mo-Fr 07:00-17:00, Sa 08:00-12:00"
-website: "https://rogershardware.com/"
+opening_hours: Mo-Fr 07:00-17:00, Sa 08:00-12:00
+website: https://rogershardware.com/

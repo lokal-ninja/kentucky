@@ -1,11 +1,11 @@
 id: 316623046
-type: way
+type: node
 latitude: 38.00482
 longitude: -84.51867
 postcode: "40503"
 city: Lexington
-street: "Nicholasville Road"
-housenumber: 2320
-phone: "+1 859-313-5030"
-opening_hours: "Mo-Sa 08:00-21:00; Su 13:00-21:00"
-website: "https://locations.traderjoes.com/ky/lexington/626/"
+street: Nicholasville Road
+housenumber: "2320"
+phone: +1 859-313-5030
+opening_hours: Mo-Sa 08:00-21:00; Su 13:00-21:00
+website: https://locations.traderjoes.com/ky/lexington/626/

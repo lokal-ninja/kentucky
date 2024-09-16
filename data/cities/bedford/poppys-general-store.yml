@@ -1,11 +1,11 @@
 id: 712313844
-type: way
+type: node
 latitude: 38.58267
 longitude: -85.31843
 postcode: "40006"
 city: Bedford
-street: "Equity Drive"
-housenumber: 24
+street: Equity Drive
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

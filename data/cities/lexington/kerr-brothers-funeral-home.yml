@@ -1,11 +1,11 @@
 id: 404344258
-type: way
+type: node
 latitude: 38.00785
 longitude: -84.56467
 postcode: ""
 city: Lexington
-street: "Harrodsburg Road"
-housenumber: 3455
+street: Harrodsburg Road
+housenumber: "3455"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1115595007
-type: way
+type: node
 latitude: 37.12403
 longitude: -87.89247
 postcode: "42445"
 city: Princeton
-street: "Northfield Drive"
-housenumber: 101
+street: Northfield Drive
+housenumber: "101"
 phone: "+12703652900"
 opening_hours: ""
 website: ""

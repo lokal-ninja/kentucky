@@ -1,11 +1,11 @@
 id: 1132989330
-type: way
+type: node
 latitude: 37.81836
 longitude: -85.96731
 postcode: "40175"
 city: Vine Grove
-street: "Highland Avenue"
-housenumber: 714
+street: Highland Avenue
+housenumber: "714"
 phone: ""
 opening_hours: ""
 website: ""

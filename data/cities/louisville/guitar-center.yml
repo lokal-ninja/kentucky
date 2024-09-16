@@ -4,8 +4,8 @@ latitude: 38.24892
 longitude: -85.62954
 postcode: "40207"
 city: Louisville
-street: "Shelbyville Road"
-housenumber: 4600
-phone: "(502) 894-6286"
-opening_hours: "Mo-Fr 10:00-21:00, Sa 10:00-20:00, Su 11:00-19:00"
-website: "https://www.guitarcenter.com/"
+street: Shelbyville Road
+housenumber: "4600"
+phone: (502) 894-6286
+opening_hours: Mo-Fr 10:00-21:00, Sa 10:00-20:00, Su 11:00-19:00
+website: https://www.guitarcenter.com/

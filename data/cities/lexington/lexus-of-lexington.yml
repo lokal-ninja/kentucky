@@ -1,11 +1,11 @@
 id: 403400305
-type: way
+type: node
 latitude: 38.0304
 longitude: -84.45326
 postcode: ""
 city: Lexington
-street: "East New Circle Road"
-housenumber: 1264
+street: East New Circle Road
+housenumber: "1264"
 phone: ""
 opening_hours: ""
 website: ""

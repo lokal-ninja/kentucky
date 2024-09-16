@@ -1,11 +1,11 @@
 id: 658127777
-type: way
+type: node
 latitude: 37.85794
 longitude: -87.56326
 postcode: "42420"
 city: Henderson
-street: "US Highway 60 East"
-housenumber: 2190
-phone: "+1 270-869-6500"
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-19:00"
-website: "https://www.lowes.com/store/KY-Henderson/2558"
+street: US Highway 60 East
+housenumber: "2190"
+phone: +1 270-869-6500
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-19:00
+website: https://www.lowes.com/store/KY-Henderson/2558

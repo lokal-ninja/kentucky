@@ -1,11 +1,11 @@
 id: 1163078804
-type: way
+type: node
 latitude: 39.05269
 longitude: -84.44729
 postcode: "41075"
 city: Fort Thomas
-street: "Alexandria Pike"
-housenumber: 1600
-phone: "+1-859-441-4800"
+street: Alexandria Pike
+housenumber: "1600"
+phone: +1-859-441-4800
 opening_hours: ""
-website: "https://www.salon602.com"
+website: https://www.salon602.com

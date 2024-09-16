@@ -1,11 +1,11 @@
 id: 622445687
-type: way
+type: node
 latitude: 37.97807
 longitude: -84.52887
-postcode: "40517-8365"
+postcode: 40517-8365
 city: Lexington
-street: "Finn Way"
-housenumber: 4059
-phone: "+1 859-971-8600"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/lexington"
+street: Finn Way
+housenumber: "4059"
+phone: +1 859-971-8600
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.wholefoodsmarket.com/stores/lexington

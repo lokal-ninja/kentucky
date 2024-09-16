@@ -1,11 +1,11 @@
 id: 656903346
-type: way
+type: node
 latitude: 36.8453
 longitude: -86.91596
 postcode: "42276"
 city: Russellville
-street: "Sam Walton Drive"
-housenumber: 120
-phone: "+1 270-726-2880"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/736/russellville-ky/whats-new"
+street: Sam Walton Drive
+housenumber: "120"
+phone: +1 270-726-2880
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/736/russellville-ky/whats-new

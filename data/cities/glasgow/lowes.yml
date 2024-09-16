@@ -1,11 +1,11 @@
 id: 676308232
-type: way
+type: node
 latitude: 36.99946
 longitude: -85.93157
 postcode: "42141"
 city: Glasgow
-street: "Sl Rogers Wells Boulevard"
-housenumber: 208
-phone: "+1 270-659-3700"
-opening_hours: "Mo-Sa 06:00-21:00; Su 09:00-20:00"
-website: "https://www.lowes.com/store/ky-glasgow/1796"
+street: Sl Rogers Wells Boulevard
+housenumber: "208"
+phone: +1 270-659-3700
+opening_hours: Mo-Sa 06:00-21:00; Su 09:00-20:00
+website: https://www.lowes.com/store/ky-glasgow/1796

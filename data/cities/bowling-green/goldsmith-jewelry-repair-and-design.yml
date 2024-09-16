@@ -1,11 +1,11 @@
 id: 430453302
-type: way
+type: node
 latitude: 36.94505
 longitude: -86.42419
 postcode: "42104"
 city: Bowling Green
-street: "Cave Mill Road"
-housenumber: 1971
+street: Cave Mill Road
+housenumber: "1971"
 phone: ""
 opening_hours: ""
 website: ""

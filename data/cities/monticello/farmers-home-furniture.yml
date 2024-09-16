@@ -1,11 +1,11 @@
 id: 698529401
-type: way
+type: node
 latitude: 36.85934
 longitude: -84.84471
 postcode: "42633"
 city: Monticello
-street: "Cumberland Crossing"
-housenumber: 255
+street: Cumberland Crossing
+housenumber: "255"
 phone: ""
 opening_hours: ""
 website: ""

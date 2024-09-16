@@ -1,11 +1,11 @@
 id: 721941060
-type: way
+type: node
 latitude: 37.052
 longitude: -84.62764
 postcode: "42501"
 city: Somerset
-street: "N Highway 27"
-housenumber: 2835
+street: N Highway 27
+housenumber: "2835"
 phone: ""
 opening_hours: ""
 website: ""

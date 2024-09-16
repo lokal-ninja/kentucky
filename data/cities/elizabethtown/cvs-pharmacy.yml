@@ -1,11 +1,11 @@
 id: 679505085
-type: way
+type: node
 latitude: 37.72834
 longitude: -85.88282
 postcode: "42701"
 city: Elizabethtown
-street: "N. Dixie Avenue"
-housenumber: 1571
-phone: "270-737-0352"
-opening_hours: "24/7"
-website: "https://www.cvs.com/store-locator/elizabethtown-ky-pharmacies/1571-n-dixie-avenue-elizabethtown-ky-42701/storeid=10048"
+street: N. Dixie Avenue
+housenumber: "1571"
+phone: 270-737-0352
+opening_hours: 24/7
+website: https://www.cvs.com/store-locator/elizabethtown-ky-pharmacies/1571-n-dixie-avenue-elizabethtown-ky-42701/storeid=10048

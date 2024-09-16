@@ -1,11 +1,11 @@
 id: 1107436877
-type: way
+type: node
 latitude: 37.0887
 longitude: -84.61582
 postcode: "42501"
 city: Somerset
-street: "South Highway 27"
-housenumber: 400
-phone: "+1 606 678 2784"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
+street: South Highway 27
+housenumber: "400"
+phone: +1 606 678 2784
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
 website: ""

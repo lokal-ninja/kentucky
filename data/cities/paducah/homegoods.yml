@@ -1,11 +1,11 @@
 id: 962111881
-type: way
+type: node
 latitude: 37.07923
 longitude: -88.68707
 postcode: "42001"
 city: Paducah
-street: "Hinkleville Road"
-housenumber: 5101
-phone: "+1 270-443-6641"
-opening_hours: "09:00-22:00"
+street: Hinkleville Road
+housenumber: "5101"
+phone: +1 270-443-6641
+opening_hours: 09:00-22:00
 website: ""

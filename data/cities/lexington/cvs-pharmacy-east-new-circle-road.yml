@@ -1,11 +1,11 @@
 id: 401880790
-type: way
+type: node
 latitude: 38.06448
 longitude: -84.47054
 postcode: ""
 city: Lexington
-street: "East New Circle Road"
-housenumber: 118
+street: East New Circle Road
+housenumber: "118"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/lexington-ky-pharmacies/118-east-new-circle-rd-lexington-ky-40505/storeid=6941"
+website: https://www.cvs.com/store-locator/lexington-ky-pharmacies/118-east-new-circle-rd-lexington-ky-40505/storeid=6941

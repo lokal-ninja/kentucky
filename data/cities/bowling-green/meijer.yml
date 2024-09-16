@@ -1,11 +1,11 @@
 id: 685109363
-type: way
+type: node
 latitude: 36.95719
 longitude: -86.43707
 postcode: "42104"
 city: Bowling Green
-street: "West Park Drive"
-housenumber: 1676
-phone: "+1-271-495-6700"
+street: West Park Drive
+housenumber: "1676"
+phone: +1-271-495-6700
 opening_hours: ""
 website: ""

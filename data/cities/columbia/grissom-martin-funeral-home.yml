@@ -1,11 +1,11 @@
 id: 534708134
-type: way
+type: node
 latitude: 37.10363
 longitude: -85.30451
 postcode: ""
 city: Columbia
-street: "Campbellsville Street"
-housenumber: 200
+street: Campbellsville Street
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

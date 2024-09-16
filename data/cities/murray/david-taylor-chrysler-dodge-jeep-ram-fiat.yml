@@ -1,11 +1,11 @@
 id: 740792085
-type: way
+type: node
 latitude: 36.6398
 longitude: -88.30826
 postcode: "42071"
 city: Murray
-street: "US-641"
-housenumber: 2052
+street: US-641
+housenumber: "2052"
 phone: ""
 opening_hours: ""
-website: "https://www.davidtaylorchrysler.com/"
+website: https://www.davidtaylorchrysler.com/

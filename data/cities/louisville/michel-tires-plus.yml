@@ -1,11 +1,11 @@
 id: 331282685
-type: way
+type: node
 latitude: 38.2536
 longitude: -85.74462
 postcode: "40202"
 city: Louisville
-street: "East Market Street"
-housenumber: 434
-phone: "+1 502 907 2921"
-opening_hours: "Mo-Sa 07:00-18:00"
-website: "https://local.tiresplus.com/kentucky/louisville/434-e-market-st/"
+street: East Market Street
+housenumber: "434"
+phone: +1 502 907 2921
+opening_hours: Mo-Sa 07:00-18:00
+website: https://local.tiresplus.com/kentucky/louisville/434-e-market-st/

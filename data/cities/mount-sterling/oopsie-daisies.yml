@@ -4,8 +4,8 @@ latitude: 38.05621
 longitude: -83.94213
 postcode: "40353"
 city: Mount Sterling
-street: "West Main Street"
-housenumber: 2
-phone: "+1-859-499-0098"
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-14:00"
-website: "https://oopsiedaisies-ky.com"
+street: West Main Street
+housenumber: "2"
+phone: +1-859-499-0098
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-14:00
+website: https://oopsiedaisies-ky.com

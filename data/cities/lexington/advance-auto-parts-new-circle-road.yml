@@ -1,11 +1,11 @@
 id: 408473928
-type: way
+type: node
 latitude: 38.0177
 longitude: -84.45739
 postcode: "40502"
 city: Lexington
-street: "New Circle Road"
-housenumber: 1600
+street: New Circle Road
+housenumber: "1600"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/ky/lexington/1600-e-new-circle-rd"
+website: https://stores.advanceautoparts.com/ky/lexington/1600-e-new-circle-rd

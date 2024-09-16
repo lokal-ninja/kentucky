@@ -1,11 +1,11 @@
 id: 300587046
-type: way
+type: node
 latitude: 38.24891
 longitude: -85.63049
 postcode: "40207"
 city: Louisville
-street: "Shelbyville Road"
-housenumber: 4600
+street: Shelbyville Road
+housenumber: "4600"
 phone: ""
 opening_hours: ""
 website: ""

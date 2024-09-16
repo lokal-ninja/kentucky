@@ -4,8 +4,8 @@ latitude: 37.11206
 longitude: -84.09024
 postcode: "40741"
 city: London
-street: "London Shopping Center"
-housenumber: 100
-phone: "+1 606-877-5500"
-opening_hours: "Mo-Fr 08:00-21:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com/tsc/store_London-KY-40741_628"
+street: London Shopping Center
+housenumber: "100"
+phone: +1 606-877-5500
+opening_hours: Mo-Fr 08:00-21:00; Su 09:00-19:00
+website: https://www.tractorsupply.com/tsc/store_London-KY-40741_628

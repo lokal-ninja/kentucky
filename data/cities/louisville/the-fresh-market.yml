@@ -1,11 +1,11 @@
 id: 332557630
-type: way
+type: node
 latitude: 38.27959
 longitude: -85.63824
 postcode: "40207"
 city: Louisville
-street: "Rudy Lane"
-housenumber: 1805
+street: Rudy Lane
+housenumber: "1805"
 phone: ""
 opening_hours: ""
 website: ""

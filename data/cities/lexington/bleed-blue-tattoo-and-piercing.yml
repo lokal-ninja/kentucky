@@ -1,11 +1,11 @@
 id: 296332975
-type: way
+type: node
 latitude: 38.0431
 longitude: -84.50436
 postcode: "40508"
 city: LEXINGTON
-street: "South Upper Street"
-housenumber: 527
+street: South Upper Street
+housenumber: "527"
 phone: ""
 opening_hours: ""
 website: ""

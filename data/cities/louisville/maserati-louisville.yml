@@ -4,8 +4,8 @@ latitude: 38.24287
 longitude: -85.62813
 postcode: "40207"
 city: Louisville
-street: "Bowling Boulevard"
-housenumber: 4710
-phone: "+1-502-894-3429"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.maseratilouisville.com/"
+street: Bowling Boulevard
+housenumber: "4710"
+phone: +1-502-894-3429
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.maseratilouisville.com/

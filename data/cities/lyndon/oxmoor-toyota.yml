@@ -1,11 +1,11 @@
 id: 337212053
-type: way
+type: node
 latitude: 38.25018
 longitude: -85.605
 postcode: "40222"
 city: Lyndon
-street: "Shelbyville Road"
-housenumber: 8013
+street: Shelbyville Road
+housenumber: "8013"
 phone: ""
 opening_hours: ""
 website: ""

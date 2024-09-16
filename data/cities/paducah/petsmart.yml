@@ -1,11 +1,11 @@
 id: 1188606519
-type: way
+type: node
 latitude: 37.07595
 longitude: -88.68581
 postcode: "42001"
 city: Paducah
-street: "James Sanders Boulevard"
-housenumber: 2929
-phone: "+1 270-575-9300"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ky/paducah-store0653.html"
+street: James Sanders Boulevard
+housenumber: "2929"
+phone: +1 270-575-9300
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ky/paducah-store0653.html

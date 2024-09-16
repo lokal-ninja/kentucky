@@ -1,11 +1,11 @@
 id: 602257268
-type: way
+type: node
 latitude: 38.25711
 longitude: -85.75446
 postcode: "40202"
 city: Louisville
-street: "Arena Plaza"
-housenumber: 1
+street: Arena Plaza
+housenumber: "1"
 phone: "5026909099"
-opening_hours: "Mo-Fr 11:00-16:00"
+opening_hours: Mo-Fr 11:00-16:00
 website: ""

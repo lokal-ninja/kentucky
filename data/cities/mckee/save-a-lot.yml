@@ -1,11 +1,11 @@
 id: 1064206024
-type: way
+type: node
 latitude: 37.43258
 longitude: -83.98133
 postcode: ""
 city: McKee
-street: "South Main Street"
-housenumber: 1019
+street: South Main Street
+housenumber: "1019"
 phone: ""
 opening_hours: ""
-website: "https://savealot.com/grocery-stores/mckee-40447-22754/"
+website: https://savealot.com/grocery-stores/mckee-40447-22754/

@@ -1,11 +1,11 @@
 id: 679505154
-type: way
+type: node
 latitude: 37.72861
 longitude: -85.88511
 postcode: "42701"
 city: Elizabethtown
-street: "North Dixie Highway"
-housenumber: 1602
-phone: "270-737-3713"
-opening_hours: "24/7"
-website: "https://www.walgreens.com/locator/walgreens-1602+n+dixie+ave-elizabethtown-ky-42701/id=4123"
+street: North Dixie Highway
+housenumber: "1602"
+phone: 270-737-3713
+opening_hours: 24/7
+website: https://www.walgreens.com/locator/walgreens-1602+n+dixie+ave-elizabethtown-ky-42701/id=4123

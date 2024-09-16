@@ -1,11 +1,11 @@
 id: 339232836
-type: way
+type: node
 latitude: 38.14449
 longitude: -85.77304
 postcode: "40214"
 city: Louisville
-street: "New Cut Road"
-housenumber: 5553
-phone: "+1 502-361-7238"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ky/louisville/auburndale/024/00350"
+street: New Cut Road
+housenumber: "5553"
+phone: +1 502-361-7238
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ky/louisville/auburndale/024/00350

@@ -1,11 +1,11 @@
 id: 819296909
-type: way
+type: node
 latitude: 38.26225
 longitude: -85.81386
 postcode: "40212"
 city: Louisville
-street: "West Market Street"
-housenumber: 3901
-phone: "+1 502 200 7775"
-opening_hours: "Mo-Sa 08:00-21:00; Su 08:00-20:00"
-website: "https://www.familydollar.com/locations/ky/louisville/31491/"
+street: West Market Street
+housenumber: "3901"
+phone: +1 502 200 7775
+opening_hours: Mo-Sa 08:00-21:00; Su 08:00-20:00
+website: https://www.familydollar.com/locations/ky/louisville/31491/

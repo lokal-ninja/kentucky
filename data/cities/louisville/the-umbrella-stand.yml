@@ -1,11 +1,11 @@
 id: 329943393
-type: way
+type: node
 latitude: 38.24514
 longitude: -85.72774
 postcode: "40204"
 city: Louisville
-street: "Baxter Avenue"
-housenumber: 637
+street: Baxter Avenue
+housenumber: "637"
 phone: ""
 opening_hours: ""
 website: ""

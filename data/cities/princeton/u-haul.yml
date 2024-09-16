@@ -1,11 +1,11 @@
 id: 1115595013
-type: way
+type: node
 latitude: 37.12344
 longitude: -87.89518
 postcode: "42445"
 city: Princeton
-street: "Northfield Drive"
-housenumber: 235
-phone: "(270) 365-8093"
-opening_hours: "Mo-Su 09:00-16:00"
-website: "https://www.uhaul.com/Locations/Princeton-KY-42445/Results/"
+street: Northfield Drive
+housenumber: "235"
+phone: (270) 365-8093
+opening_hours: Mo-Su 09:00-16:00
+website: https://www.uhaul.com/Locations/Princeton-KY-42445/Results/

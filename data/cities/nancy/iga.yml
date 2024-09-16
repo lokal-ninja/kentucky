@@ -1,11 +1,11 @@
 id: 902794818
-type: way
+type: node
 latitude: 37.07142
 longitude: -84.74726
 postcode: "42544"
 city: Nancy
-street: "West Highway 80"
-housenumber: 9620
-phone: "+1 606-636-5509"
+street: West Highway 80
+housenumber: "9620"
+phone: +1 606-636-5509
 opening_hours: ""
 website: ""

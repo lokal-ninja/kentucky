@@ -1,11 +1,11 @@
 id: 329550940
-type: way
+type: node
 latitude: 38.24897
 longitude: -85.53072
 postcode: "40243"
 city: Middletown
-street: "Shelbyville Road"
-housenumber: 12101
+street: Shelbyville Road
+housenumber: "12101"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-12101+shelbyville+rd-middletown-ky-40243/id=3677"
+website: https://www.walgreens.com/locator/walgreens-12101+shelbyville+rd-middletown-ky-40243/id=3677

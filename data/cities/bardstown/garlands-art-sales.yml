@@ -1,11 +1,11 @@
 id: 1181781994
-type: way
+type: node
 latitude: 37.81051
 longitude: -85.46673
 postcode: "40004"
 city: Bardstown
-street: "West Flaget Street"
-housenumber: 105
+street: West Flaget Street
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

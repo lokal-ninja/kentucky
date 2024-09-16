@@ -1,11 +1,11 @@
 id: 1076724006
-type: way
+type: node
 latitude: 38.15087
 longitude: -85.67835
 postcode: "40219"
 city: Louisville
-street: "Jefferson Boulevard"
-housenumber: 6500
+street: Jefferson Boulevard
+housenumber: "6500"
 phone: ""
 opening_hours: ""
-website: "https://www.publicstorage.com/self-storage-ky-louisville/5283?pid=pslocalsearch"
+website: https://www.publicstorage.com/self-storage-ky-louisville/5283?pid=pslocalsearch

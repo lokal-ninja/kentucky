@@ -4,8 +4,8 @@ latitude: 38.19266
 longitude: -85.64756
 postcode: "40218"
 city: Louisville
-street: "Bardstown Road"
-housenumber: 4029
-phone: "+1-502-491-2337"
-opening_hours: "Mo-Fr 11:00-19:00, Sa 10:00-18:00"
-website: "https://stringinstruments.com"
+street: Bardstown Road
+housenumber: "4029"
+phone: +1-502-491-2337
+opening_hours: Mo-Fr 11:00-19:00, Sa 10:00-18:00
+website: https://stringinstruments.com

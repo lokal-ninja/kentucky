@@ -1,11 +1,11 @@
 id: 401828755
-type: way
+type: node
 latitude: 38.07876
 longitude: -84.53664
 postcode: ""
 city: Lexington
-street: "Mercer Road"
-housenumber: 2000
+street: Mercer Road
+housenumber: "2000"
 phone: ""
 opening_hours: ""
 website: ""

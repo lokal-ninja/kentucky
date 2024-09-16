@@ -1,11 +1,11 @@
 id: 451482905
-type: way
+type: node
 latitude: 38.03634
 longitude: -84.89593
 postcode: "40342"
 city: Lawrenceburg
-street: "South Main Street"
-housenumber: 125
-phone: "+1 502 600 1564"
-opening_hours: "Th-Sa 10:00-16:00"
+street: South Main Street
+housenumber: "125"
+phone: +1 502 600 1564
+opening_hours: Th-Sa 10:00-16:00
 website: ""

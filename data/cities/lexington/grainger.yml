@@ -1,11 +1,11 @@
 id: 403413635
-type: way
+type: node
 latitude: 38.07891
 longitude: -84.50853
 postcode: ""
 city: Lexington
-street: "Georgetown Road"
-housenumber: 1351
+street: Georgetown Road
+housenumber: "1351"
 phone: ""
-opening_hours: "Mo-Fr 07:30-16:30"
-website: "https://www.grainger.com/branch/Lexington-Branch-429"
+opening_hours: Mo-Fr 07:30-16:30
+website: https://www.grainger.com/branch/Lexington-Branch-429

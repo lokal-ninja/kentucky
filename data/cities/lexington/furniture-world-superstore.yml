@@ -1,11 +1,11 @@
 id: 258229092
-type: way
+type: node
 latitude: 38.00741
 longitude: -84.44918
 postcode: "40509"
 city: Lexington
-street: "North Mt Tabor Road"
-housenumber: 151
+street: North Mt Tabor Road
+housenumber: "151"
 phone: ""
 opening_hours: ""
 website: ""

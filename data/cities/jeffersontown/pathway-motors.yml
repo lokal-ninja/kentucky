@@ -1,11 +1,11 @@
 id: 345091427
-type: way
+type: node
 latitude: 38.19499
 longitude: -85.56589
 postcode: "40299"
 city: Jeffersontown
-street: "Taylorsville Road"
-housenumber: 10309
+street: Taylorsville Road
+housenumber: "10309"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 654530313
-type: way
+type: node
 latitude: 37.55932
 longitude: -85.28485
 postcode: "40033"
 city: Lebanon
-street: "Scenic Hill Drive"
-housenumber: 105
+street: Scenic Hill Drive
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

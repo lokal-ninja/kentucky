@@ -1,11 +1,11 @@
 id: 41869999
-type: way
+type: node
 latitude: 38.9976
 longitude: -84.42272
 postcode: "41076"
 city: Cold Spring
-street: "Alexandria Pike"
-housenumber: 5400
-phone: "+1-859-448-4200"
+street: Alexandria Pike
+housenumber: "5400"
+phone: +1-859-448-4200
 opening_hours: ""
 website: ""

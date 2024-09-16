@@ -4,8 +4,8 @@ latitude: 37.10899
 longitude: -87.88298
 postcode: "42445"
 city: Princeton
-street: "West Main Street"
-housenumber: 117
-phone: "(270) 350-0308"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00; Su off"
-website: "https://www.facebook.com/bigboysbarber"
+street: West Main Street
+housenumber: "117"
+phone: (270) 350-0308
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00; Su off
+website: https://www.facebook.com/bigboysbarber

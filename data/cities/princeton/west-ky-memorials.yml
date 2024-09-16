@@ -1,11 +1,11 @@
 id: 1115040515
-type: way
+type: node
 latitude: 37.11777
 longitude: -87.89611
 postcode: "42445"
 city: Princeton
-street: "West Main Street"
-housenumber: 1034
-phone: "(270) 365-6284"
-opening_hours: "MON-FRI 8 - 4:30, SAT 9:00 - 12:00"
-website: "http://www.westkymemorials.com"
+street: West Main Street
+housenumber: "1034"
+phone: (270) 365-6284
+opening_hours: MON-FRI 8 - 4:30, SAT 9:00 - 12:00
+website: http://www.westkymemorials.com

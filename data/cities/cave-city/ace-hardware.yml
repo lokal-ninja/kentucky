@@ -1,11 +1,11 @@
 id: 843271962
-type: way
+type: node
 latitude: 37.12321
 longitude: -85.96104
-postcode: "42127-9410"
+postcode: 42127-9410
 city: Cave City
-street: "Happy Valley Road"
-housenumber: 9586
-phone: "+1 270-773-3480"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 10:00-18:00"
+street: Happy Valley Road
+housenumber: "9586"
+phone: +1 270-773-3480
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 10:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 285604854
-type: way
+type: node
 latitude: 38.07339
 longitude: -84.48211
 postcode: ""
 city: Lexington
-street: "West New Circle Road"
-housenumber: 547
+street: West New Circle Road
+housenumber: "547"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ky/lexington/547-w-new-circle-rd.html"
+website: https://www.autozone.com/locations/ky/lexington/547-w-new-circle-rd.html

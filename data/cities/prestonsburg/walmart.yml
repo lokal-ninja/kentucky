@@ -1,11 +1,11 @@
 id: 642760272
-type: way
+type: node
 latitude: 37.65552
 longitude: -82.78245
 postcode: "41653"
 city: Prestonsburg
-street: "Village Drive"
-housenumber: 477
-phone: "+1 606-886-6681"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/696/prestonsburg-ky/whats-new"
+street: Village Drive
+housenumber: "477"
+phone: +1 606-886-6681
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/696/prestonsburg-ky/whats-new

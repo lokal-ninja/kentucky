@@ -1,11 +1,11 @@
 id: 42506980
-type: way
+type: node
 latitude: 38.98205
 longitude: -84.65092
 postcode: "41042"
 city: Florence
-street: "Mall Road"
-housenumber: 8193
+street: Mall Road
+housenumber: "8193"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-8193+mall+rd-florence-ky-41042/id=5763"
+website: https://www.walgreens.com/locator/walgreens-8193+mall+rd-florence-ky-41042/id=5763

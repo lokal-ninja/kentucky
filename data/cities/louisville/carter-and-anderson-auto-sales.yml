@@ -1,11 +1,11 @@
 id: 330275121
-type: way
+type: node
 latitude: 38.2357
 longitude: -85.7282
 postcode: "40204"
 city: Louisville
-street: "Barret Avenue"
-housenumber: 1020
+street: Barret Avenue
+housenumber: "1020"
 phone: ""
 opening_hours: ""
 website: ""

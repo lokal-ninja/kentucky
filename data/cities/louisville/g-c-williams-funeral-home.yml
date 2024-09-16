@@ -1,11 +1,11 @@
 id: 334046624
-type: way
+type: node
 latitude: 38.24929
 longitude: -85.78459
 postcode: "40203"
 city: Louisville
-street: "West Broadway"
-housenumber: 1935
+street: West Broadway
+housenumber: "1935"
 phone: ""
 opening_hours: ""
 website: ""

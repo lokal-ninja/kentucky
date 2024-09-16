@@ -1,11 +1,11 @@
 id: 337191254
-type: way
+type: node
 latitude: 38.25193
 longitude: -85.63909
 postcode: "40207"
 city: St Matthews
-street: "Shelbyville Road"
-housenumber: 4207
-phone: "+1 502 897 9552"
-opening_hours: "Mo-Fr 09:30-17:30; Sa 10:00-16:00"
-website: "https://heimerdingercutlery.com/"
+street: Shelbyville Road
+housenumber: "4207"
+phone: +1 502 897 9552
+opening_hours: Mo-Fr 09:30-17:30; Sa 10:00-16:00
+website: https://heimerdingercutlery.com/

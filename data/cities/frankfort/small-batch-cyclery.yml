@@ -1,11 +1,11 @@
 id: 317288697
-type: way
+type: node
 latitude: 38.18475
 longitude: -84.88687
 postcode: "40601"
 city: Frankfort
-street: "Louisville Road"
-housenumber: 835
+street: Louisville Road
+housenumber: "835"
 phone: ""
-opening_hours: "Mo-Sa 11:00-17:00"
+opening_hours: Mo-Sa 11:00-17:00
 website: ""

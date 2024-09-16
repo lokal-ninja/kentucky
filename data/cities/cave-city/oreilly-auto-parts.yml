@@ -1,11 +1,11 @@
 id: 799755732
-type: way
+type: node
 latitude: 37.13031
 longitude: -85.96006
 postcode: "42127"
 city: Cave City
-street: "South Dixie Highway"
-housenumber: 605
+street: South Dixie Highway
+housenumber: "605"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ky/cavecity/autoparts-5420.html"
+website: https://locations.oreillyauto.com/ky/cavecity/autoparts-5420.html

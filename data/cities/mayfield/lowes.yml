@@ -1,11 +1,11 @@
 id: 657696209
-type: way
+type: node
 latitude: 36.72081
 longitude: -88.62437
 postcode: "42066"
 city: Mayfield
-street: "Paris Road"
-housenumber: 1208
-phone: "+1 270-251-6365"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ky-mayfield/2490"
+street: Paris Road
+housenumber: "1208"
+phone: +1 270-251-6365
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ky-mayfield/2490

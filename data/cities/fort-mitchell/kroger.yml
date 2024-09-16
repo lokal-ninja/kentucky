@@ -1,11 +1,11 @@
 id: 119285273
-type: way
+type: node
 latitude: 39.04852
 longitude: -84.55389
 postcode: "41017"
 city: Fort Mitchell
-street: "Dixie Highway"
-housenumber: 2150
-phone: "+1 859-292-1800"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ky/fort-mitchell/ft-mitchell/014/00477"
+street: Dixie Highway
+housenumber: "2150"
+phone: +1 859-292-1800
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ky/fort-mitchell/ft-mitchell/014/00477

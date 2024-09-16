@@ -1,11 +1,11 @@
 id: 166758640
-type: way
+type: node
 latitude: 38.04133
 longitude: -84.49444
 postcode: "40507"
 city: Lexington
-street: "East High Street"
-housenumber: 305
+street: East High Street
+housenumber: "305"
 phone: ""
 opening_hours: ""
 website: ""

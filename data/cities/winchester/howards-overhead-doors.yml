@@ -4,8 +4,8 @@ latitude: 37.99421
 longitude: -84.17601
 postcode: "40391"
 city: Winchester
-street: "N Main Street"
-housenumber: 27
-phone: "+1 859-745-2693"
-opening_hours: "Mo-Fr 07:30-16:30"
-website: "https://www.howardsoverheaddoorswinchester.com/"
+street: N Main Street
+housenumber: "27"
+phone: +1 859-745-2693
+opening_hours: Mo-Fr 07:30-16:30
+website: https://www.howardsoverheaddoorswinchester.com/

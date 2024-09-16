@@ -1,11 +1,11 @@
 id: 549231180
-type: way
+type: node
 latitude: 38.34973
 longitude: -82.93964
 postcode: "41143"
 city: Grayson
-street: "KY-7"
-housenumber: 1090
+street: KY-7
+housenumber: "1090"
 phone: "+16064748142"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-16:00
 website: ""

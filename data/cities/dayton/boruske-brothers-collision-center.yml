@@ -1,11 +1,11 @@
 id: 138362329
-type: way
+type: node
 latitude: 39.11206
 longitude: -84.47598
 postcode: "41074"
 city: Dayton
-street: "6th Avenue"
-housenumber: 407
+street: 6th Avenue
+housenumber: "407"
 phone: ""
 opening_hours: ""
 website: ""

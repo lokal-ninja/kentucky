@@ -1,11 +1,11 @@
 id: 339261624
-type: way
+type: node
 latitude: 38.15928
 longitude: -85.8323
 postcode: "40216"
 city: Louisville
-street: "Dixie Highway"
-housenumber: 5317
+street: Dixie Highway
+housenumber: "5317"
 phone: ""
 opening_hours: ""
 website: ""

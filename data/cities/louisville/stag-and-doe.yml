@@ -4,8 +4,8 @@ latitude: 38.25428
 longitude: -85.73306
 postcode: "40206"
 city: Louisville
-street: "East Main Street"
-housenumber: 1013
+street: East Main Street
+housenumber: "1013"
 phone: ""
-opening_hours: "10:00-18:00"
+opening_hours: 10:00-18:00
 website: ""

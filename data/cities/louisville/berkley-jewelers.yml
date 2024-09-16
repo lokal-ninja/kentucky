@@ -1,11 +1,11 @@
 id: 1068091561
-type: way
+type: node
 latitude: 38.18177
 longitude: -85.76722
 postcode: "40214"
 city: Louisville
-street: "West Woodlawn Avenue"
-housenumber: 311
+street: West Woodlawn Avenue
+housenumber: "311"
 phone: ""
 opening_hours: ""
 website: ""

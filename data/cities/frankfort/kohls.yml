@@ -1,11 +1,11 @@
 id: 1262370628
-type: way
+type: node
 latitude: 38.177
 longitude: -84.81767
 postcode: "40601"
 city: Frankfort
-street: "John Davis Drive"
-housenumber: 7700
-phone: "+1 502-848-0065"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/ky/frankfort-1223.shtml"
+street: John Davis Drive
+housenumber: "7700"
+phone: +1 502-848-0065
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/ky/frankfort-1223.shtml

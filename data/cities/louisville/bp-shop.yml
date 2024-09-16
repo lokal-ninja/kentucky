@@ -1,11 +1,11 @@
 id: 331585818
-type: way
+type: node
 latitude: 38.17073
 longitude: -85.79707
 postcode: "40216"
 city: Louisville
-street: "Manslick Road"
-housenumber: 4953
+street: Manslick Road
+housenumber: "4953"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

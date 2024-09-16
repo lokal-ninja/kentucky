@@ -1,11 +1,11 @@
 id: 339215804
-type: way
+type: node
 latitude: 38.19725
 longitude: -85.79849
 postcode: "40215"
 city: Louisville
-street: "Berry Boulevard"
-housenumber: 1871
+street: Berry Boulevard
+housenumber: "1871"
 phone: ""
 opening_hours: ""
 website: ""

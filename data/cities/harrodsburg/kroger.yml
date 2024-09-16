@@ -1,11 +1,11 @@
 id: 656898904
-type: way
+type: node
 latitude: 37.74587
 longitude: -84.84379
 postcode: "40330"
 city: Harrodsburg
-street: "South College Street"
-housenumber: 844
-phone: "+1 859-734-0078"
-opening_hours: "Mo-Fr 08:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.kroger.com/stores/grocery/ky/harrodsburg/harrodsburg-marketplace/024/00363"
+street: South College Street
+housenumber: "844"
+phone: +1 859-734-0078
+opening_hours: Mo-Fr 08:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.kroger.com/stores/grocery/ky/harrodsburg/harrodsburg-marketplace/024/00363

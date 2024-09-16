@@ -1,11 +1,11 @@
 id: 103242382
-type: way
+type: node
 latitude: 37.81963
 longitude: -85.46407
 postcode: "40004"
 city: Bardstown
-street: "North 3rd Street"
-housenumber: 632
+street: North 3rd Street
+housenumber: "632"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: Mo-Su 09:00-21:00
 website: ""

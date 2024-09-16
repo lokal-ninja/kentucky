@@ -1,11 +1,11 @@
 id: 233447447
-type: way
+type: node
 latitude: 38.65893
 longitude: -85.12742
 postcode: "41008"
 city: Carrollton
-street: "Floyd Drive"
-housenumber: 200
-phone: "+1 502-732-0645"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2968/carrollton-ky/whats-new"
+street: Floyd Drive
+housenumber: "200"
+phone: +1 502-732-0645
+opening_hours: 24/7
+website: https://www.walmart.com/store/2968/carrollton-ky/whats-new

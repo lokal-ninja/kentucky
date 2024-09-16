@@ -1,11 +1,11 @@
 id: 451482879
-type: way
+type: node
 latitude: 38.03655
 longitude: -84.896
 postcode: "40342"
 city: Lawrenceburg
-street: "South Main Street"
-housenumber: 113
+street: South Main Street
+housenumber: "113"
 phone: ""
 opening_hours: ""
 website: ""

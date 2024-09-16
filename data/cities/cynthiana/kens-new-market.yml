@@ -1,11 +1,11 @@
 id: 227092676
-type: way
+type: node
 latitude: 38.3871
 longitude: -84.29379
 postcode: "41031"
 city: Cynthiana
-street: "South Church Street"
-housenumber: 304
-phone: "+1-859-234-3405"
-opening_hours: "06:00-22:00"
-website: "https://www.kensfreshfoods.com/"
+street: South Church Street
+housenumber: "304"
+phone: +1-859-234-3405
+opening_hours: 06:00-22:00
+website: https://www.kensfreshfoods.com/

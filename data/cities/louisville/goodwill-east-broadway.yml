@@ -1,11 +1,11 @@
 id: 333475296
-type: way
+type: node
 latitude: 38.24481
 longitude: -85.73663
 postcode: "40204"
 city: Louisville
-street: "East Broadway"
-housenumber: 909
+street: East Broadway
+housenumber: "909"
 phone: ""
 opening_hours: ""
 website: ""

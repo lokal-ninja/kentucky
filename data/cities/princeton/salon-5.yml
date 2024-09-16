@@ -1,11 +1,12 @@
 id: 1115852155
-type: way
+type: node
 latitude: 37.12189
 longitude: -87.89103
 postcode: "42445"
 city: Princeton
-street: "Micbeth Drive"
-housenumber: 200
-phone: "Debbie Cash 270-365-2751 Bonnie Brandon 270-625-2273 Daphne Cooper 270-625-8293 Missi Riddle Phelps"
-opening_hours: "Mo,Su off; Tu-Th 08:00-18:00; Fr 08:00-16:00; Sa 09:00-13:00"
-website: "https://www.facebook.com/Salon5princeton"
+street: Micbeth Drive
+housenumber: "200"
+phone: Debbie Cash 270-365-2751 Bonnie Brandon 270-625-2273 Daphne Cooper 270-625-8293
+    Missi Riddle Phelps
+opening_hours: Mo,Su off; Tu-Th 08:00-18:00; Fr 08:00-16:00; Sa 09:00-13:00
+website: https://www.facebook.com/Salon5princeton

@@ -1,11 +1,11 @@
 id: 720665279
-type: way
+type: node
 latitude: 37.0693
 longitude: -84.62391
 postcode: "42501"
 city: Somerset
-street: "Washington Drive"
-housenumber: 177
-phone: "+1 606-679-9204"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/689/somerset-ky/whats-new"
+street: Washington Drive
+housenumber: "177"
+phone: +1 606-679-9204
+opening_hours: 24/7
+website: https://www.walmart.com/store/689/somerset-ky/whats-new

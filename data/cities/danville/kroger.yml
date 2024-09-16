@@ -1,11 +1,11 @@
 id: 1156498639
-type: way
+type: node
 latitude: 37.61855
 longitude: -84.78237
 postcode: "40422"
 city: Danville
-street: "Skywatch Drive"
-housenumber: 200
-phone: "+1 859-236-3987"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.kroger.com/stores/grocery/ky/danville/ridgefield-ky/024/00733"
+street: Skywatch Drive
+housenumber: "200"
+phone: +1 859-236-3987
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.kroger.com/stores/grocery/ky/danville/ridgefield-ky/024/00733

@@ -1,11 +1,11 @@
 id: 1021340050
-type: way
+type: node
 latitude: 37.48471
 longitude: -86.26662
 postcode: "42754"
 city: Leitchfield
-street: "Elizabethtown Road"
-housenumber: 1801
-phone: "+1 270-259-5622"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/445-leitchfield-ky"
+street: Elizabethtown Road
+housenumber: "1801"
+phone: +1 270-259-5622
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/445-leitchfield-ky

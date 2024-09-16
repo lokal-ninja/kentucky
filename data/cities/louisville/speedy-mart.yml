@@ -1,11 +1,11 @@
 id: 337274854
-type: way
+type: node
 latitude: 38.22696
 longitude: -85.76934
 postcode: "40208"
 city: Louisville
-street: "South 7th Street"
-housenumber: 1480
+street: South 7th Street
+housenumber: "1480"
 phone: ""
 opening_hours: ""
 website: ""

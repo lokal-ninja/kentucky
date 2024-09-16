@@ -1,11 +1,11 @@
 id: 1020320773
-type: way
+type: node
 latitude: 37.19079
 longitude: -86.2601
 postcode: "42210"
 city: Brownsville
-street: "South Main Street"
-housenumber: 597
+street: South Main Street
+housenumber: "597"
 phone: "+12705972420"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 07:00-14:00"
-website: "https://sunvalleyfeedmill.com/"
+opening_hours: Mo-Fr 07:00-17:00; Sa 07:00-14:00
+website: https://sunvalleyfeedmill.com/

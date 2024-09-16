@@ -4,8 +4,8 @@ latitude: 37.10586
 longitude: -84.08863
 postcode: "40741"
 city: London
-street: "West Highway 192"
-housenumber: 1710
-phone: "+1 606-862-1074"
-opening_hours: "Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/ky/london-1566.shtml"
+street: West Highway 192
+housenumber: "1710"
+phone: +1 606-862-1074
+opening_hours: Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/ky/london-1566.shtml

@@ -4,8 +4,8 @@ latitude: 37.10118
 longitude: -87.86426
 postcode: "42445"
 city: Princeton
-street: "Hopkinsville Street"
-housenumber: 1117
-phone: "270-365-2053"
-opening_hours: "Weekdays 7:00AM-5PM; Saturdays 8:00AM-12PM"
-website: "https://www.hutsoninc.com/locations/princeton/"
+street: Hopkinsville Street
+housenumber: "1117"
+phone: 270-365-2053
+opening_hours: Weekdays 7:00AM-5PM; Saturdays 8:00AM-12PM
+website: https://www.hutsoninc.com/locations/princeton/

@@ -1,11 +1,11 @@
 id: 865182522
-type: way
+type: node
 latitude: 38.78581
 longitude: -84.36927
 postcode: "41006"
 city: Butler
-street: "South Street"
-housenumber: 115
+street: South Street
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

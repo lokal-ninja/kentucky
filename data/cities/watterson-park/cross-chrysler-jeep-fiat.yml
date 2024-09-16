@@ -1,11 +1,11 @@
 id: 338219157
-type: way
+type: node
 latitude: 38.20036
 longitude: -85.69013
 postcode: "40218"
 city: Watterson Park
-street: "Gardiner Lane"
-housenumber: 1501
+street: Gardiner Lane
+housenumber: "1501"
 phone: ""
 opening_hours: ""
 website: ""

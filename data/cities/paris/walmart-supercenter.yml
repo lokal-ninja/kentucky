@@ -1,11 +1,11 @@
 id: 625795934
-type: way
+type: node
 latitude: 38.19628
 longitude: -84.27819
 postcode: "40361"
 city: Paris
-street: "Letton Drive"
-housenumber: 305
-phone: "+1 859-987-2817"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/493/paris-ky/whats-new"
+street: Letton Drive
+housenumber: "305"
+phone: +1 859-987-2817
+opening_hours: 24/7
+website: https://www.walmart.com/store/493/paris-ky/whats-new

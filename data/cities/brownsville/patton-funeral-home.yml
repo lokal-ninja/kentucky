@@ -1,11 +1,11 @@
 id: 1020347580
-type: way
+type: node
 latitude: 37.19536
 longitude: -86.272
 postcode: "42210"
 city: Brownsville
-street: "Main Street"
-housenumber: 537
-phone: "+1-270-597-2149"
+street: Main Street
+housenumber: "537"
+phone: +1-270-597-2149
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 959536234
-type: way
+type: node
 latitude: 38.21221
 longitude: -85.21675
 postcode: "40065"
 city: Shelbyville
-street: "Washington Street"
-housenumber: 525
+street: Washington Street
+housenumber: "525"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 337122181
-type: way
+type: node
 latitude: 38.28555
 longitude: -85.57793
 postcode: "40242"
 city: Rolling Hills
-street: "Westport Road"
-housenumber: 9260
+street: Westport Road
+housenumber: "9260"
 phone: ""
 opening_hours: ""
 website: ""

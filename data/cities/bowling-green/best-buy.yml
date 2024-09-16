@@ -1,11 +1,11 @@
 id: 430457558
-type: way
+type: node
 latitude: 36.95322
 longitude: -86.42793
 postcode: "42104"
 city: Bowling Green
-street: "Campbell Lane"
-housenumber: 1875
-phone: "+1 270-780-9855"
+street: Campbell Lane
+housenumber: "1875"
+phone: +1 270-780-9855
 opening_hours: ""
-website: "https://stores.bestbuy.com/ky/bowling-green/1875-campbell-ln-440.html"
+website: https://stores.bestbuy.com/ky/bowling-green/1875-campbell-ln-440.html

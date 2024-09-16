@@ -1,11 +1,11 @@
 id: 876414900
-type: way
+type: node
 latitude: 36.74217
 longitude: -86.20587
 postcode: "42164"
 city: Scottsville
-street: "Gallatin Road"
-housenumber: 1224
-phone: "270-237-9127"
+street: Gallatin Road
+housenumber: "1224"
+phone: 270-237-9127
 opening_hours: ""
-website: "https://www.foodlion.com"
+website: https://www.foodlion.com

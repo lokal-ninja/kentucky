@@ -1,11 +1,11 @@
 id: 334002966
-type: way
+type: node
 latitude: 38.2528
 longitude: -85.65816
 postcode: "40207"
 city: Louisville
-street: "Lexington Road"
-housenumber: 3795
-phone: "+1 502 896 9224"
+street: Lexington Road
+housenumber: "3795"
+phone: +1 502 896 9224
 opening_hours: ""
 website: ""

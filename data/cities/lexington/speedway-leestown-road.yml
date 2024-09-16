@@ -1,11 +1,11 @@
 id: 401885723
-type: way
+type: node
 latitude: 38.06441
 longitude: -84.52003
 postcode: "40511"
 city: Lexington
-street: "Leestown Road"
-housenumber: 1401
+street: Leestown Road
+housenumber: "1401"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/KY/Lexington/1401-Leestown-Road"
+website: https://www.speedway.com/locations/KY/Lexington/1401-Leestown-Road

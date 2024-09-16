@@ -1,11 +1,11 @@
 id: 1115092810
-type: way
+type: node
 latitude: 37.11102
 longitude: -87.91746
 postcode: "42445"
 city: Princeton
-street: "U. S. 62W"
-housenumber: 1500
-phone: "+1 270-365-7692"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/204/princeton-ky"
+street: U. S. 62W
+housenumber: "1500"
+phone: +1 270-365-7692
+opening_hours: 24/7
+website: https://www.walmart.com/store/204/princeton-ky

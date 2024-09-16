@@ -1,11 +1,11 @@
 id: 337698314
-type: way
+type: node
 latitude: 38.24878
 longitude: -85.6157
 postcode: "40222"
 city: Louisville
-street: "Oxmoor Court"
-housenumber: 100
+street: Oxmoor Court
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

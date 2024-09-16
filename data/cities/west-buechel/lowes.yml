@@ -1,11 +1,11 @@
 id: 336501648
-type: way
+type: node
 latitude: 38.20138
 longitude: -85.6648
 postcode: "40218"
 city: West Buechel
-street: "Bashford Manor Lane"
-housenumber: 2100
-phone: "+1 502-238-5245"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ky-louisville/1923"
+street: Bashford Manor Lane
+housenumber: "2100"
+phone: +1 502-238-5245
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ky-louisville/1923

@@ -1,11 +1,11 @@
 id: 645722173
-type: way
+type: node
 latitude: 38.31151
 longitude: -85.57328
 postcode: "40241"
 city: Louisville
-street: "Von Allmen Court"
-housenumber: 9710
+street: Von Allmen Court
+housenumber: "9710"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1136835698
-type: way
+type: node
 latitude: 38.34062
 longitude: -82.94341
 postcode: "41143"
 city: Grayson
-street: "N Carol Malone Boulevard"
-housenumber: 789
+street: N Carol Malone Boulevard
+housenumber: "789"
 phone: "+16064751413"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su closed"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su closed
 website: ""

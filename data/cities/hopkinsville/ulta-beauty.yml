@@ -1,11 +1,11 @@
 id: 1246870721
-type: way
+type: node
 latitude: 36.81422
 longitude: -87.47382
 postcode: "42240"
 city: Hopkinsville
-street: "Fort Campbell Boulevard"
-housenumber: 4859
-phone: "+1 270-886-9703"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/hopkinsville-ky-1327"
+street: Fort Campbell Boulevard
+housenumber: "4859"
+phone: +1 270-886-9703
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/hopkinsville-ky-1327

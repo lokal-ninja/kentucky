@@ -1,11 +1,11 @@
 id: 1065377745
-type: way
+type: node
 latitude: 37.17238
 longitude: -83.5841
 postcode: "40972"
 city: Oneida
-street: "Big Creek Road"
-housenumber: 660
+street: Big Creek Road
+housenumber: "660"
 phone: ""
 opening_hours: ""
 website: ""

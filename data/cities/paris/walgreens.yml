@@ -1,11 +1,11 @@
 id: 1013615314
-type: way
+type: node
 latitude: 38.19882
 longitude: -84.2748
 postcode: "40361"
 city: Paris
-street: "Ash Drive"
-housenumber: 103
+street: Ash Drive
+housenumber: "103"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-103+ash+dr-paris-ky-40361/id=18005"
+website: https://www.walgreens.com/locator/walgreens-103+ash+dr-paris-ky-40361/id=18005

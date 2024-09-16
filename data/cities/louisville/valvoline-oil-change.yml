@@ -1,11 +1,11 @@
 id: 329235338
-type: way
+type: node
 latitude: 38.23197
 longitude: -85.70985
 postcode: "40204"
 city: Louisville
-street: "Bardstown Road"
-housenumber: 1450
+street: Bardstown Road
+housenumber: "1450"
 phone: "+15024583315"
 opening_hours: ""
-website: "https://store.vioc.com/ky/louisville/oil-change-040014.html"
+website: https://store.vioc.com/ky/louisville/oil-change-040014.html

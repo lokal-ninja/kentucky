@@ -1,11 +1,11 @@
 id: 170779686
-type: way
+type: node
 latitude: 39.0906
 longitude: -84.4793
 postcode: "41071"
 city: Newport
-street: "Pavilion Parkway"
-housenumber: 130
-phone: "+1 859-292-5640"
-opening_hours: "Mo-Fr 08:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.kroger.com/stores/grocery/ky/newport/i-471-memorial-pkwy-carothers-rd/014/00423"
+street: Pavilion Parkway
+housenumber: "130"
+phone: +1 859-292-5640
+opening_hours: Mo-Fr 08:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.kroger.com/stores/grocery/ky/newport/i-471-memorial-pkwy-carothers-rd/014/00423

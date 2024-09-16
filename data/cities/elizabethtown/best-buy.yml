@@ -1,11 +1,11 @@
 id: 170250111
-type: way
+type: node
 latitude: 37.74053
 longitude: -85.89143
 postcode: "42701"
 city: Elizabethtown
-street: "North Dixie Highway"
-housenumber: 2050
-phone: "+1 270-735-9157"
+street: North Dixie Highway
+housenumber: "2050"
+phone: +1 270-735-9157
 opening_hours: ""
-website: "https://stores.bestbuy.com/ky/elizabethtown/2050-n-dixie-hwy-791.html"
+website: https://stores.bestbuy.com/ky/elizabethtown/2050-n-dixie-hwy-791.html

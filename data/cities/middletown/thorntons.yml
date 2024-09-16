@@ -1,11 +1,11 @@
 id: 215603657
-type: way
+type: node
 latitude: 38.24187
 longitude: -85.50882
 postcode: "40223"
 city: Middletown
-street: "Shelbyville Road"
-housenumber: 13314
+street: Shelbyville Road
+housenumber: "13314"
 phone: ""
 opening_hours: ""
 website: ""

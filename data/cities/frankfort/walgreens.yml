@@ -1,11 +1,11 @@
 id: 1014633347
-type: way
+type: node
 latitude: 38.19528
 longitude: -84.83011
 postcode: "40601"
 city: Frankfort
-street: "Versailles Road"
-housenumber: 385
+street: Versailles Road
+housenumber: "385"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-385+versailles+rd-frankfort-ky-40601/id=9856"
+website: https://www.walgreens.com/locator/walgreens-385+versailles+rd-frankfort-ky-40601/id=9856

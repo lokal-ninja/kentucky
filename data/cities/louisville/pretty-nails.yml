@@ -1,11 +1,11 @@
 id: 1029208207
-type: way
+type: node
 latitude: 38.20382
 longitude: -85.76234
 postcode: "40208"
 city: Louisville
-street: "S 2nd Street"
-housenumber: 3119
+street: S 2nd Street
+housenumber: "3119"
 phone: ""
 opening_hours: ""
 website: ""

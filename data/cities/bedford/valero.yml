@@ -1,11 +1,11 @@
 id: 590162193
-type: way
+type: node
 latitude: 38.59249
 longitude: -85.31747
 postcode: "40006"
 city: Bedford
-street: "Highway 42 W"
-housenumber: 13
+street: Highway 42 W
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

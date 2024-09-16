@@ -4,8 +4,8 @@ latitude: 36.64268
 longitude: -83.70243
 postcode: "40965"
 city: Middlesboro
-street: "US-25 E"
-housenumber: 2801
-phone: "+1 -606-248-3399"
-opening_hours: "Mon-Fri: 10:00AM to 6:00PM, Sat: 10:00AM to 4:00PM"
-website: "https://fortnershc.com"
+street: US-25 E
+housenumber: "2801"
+phone: +1 -606-248-3399
+opening_hours: 'Mon-Fri: 10:00AM to 6:00PM, Sat: 10:00AM to 4:00PM'
+website: https://fortnershc.com

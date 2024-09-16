@@ -1,11 +1,11 @@
 id: 161003182
-type: way
+type: node
 latitude: 37.9792
 longitude: -84.53218
 postcode: "40503"
 city: Lexington
-street: "Nicholasville Road"
-housenumber: 4051
-phone: "+1 859-971-0572"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2628/lexington-ky/whats-new"
+street: Nicholasville Road
+housenumber: "4051"
+phone: +1 859-971-0572
+opening_hours: 24/7
+website: https://www.walmart.com/store/2628/lexington-ky/whats-new

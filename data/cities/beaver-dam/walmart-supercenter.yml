@@ -1,11 +1,11 @@
 id: 657649182
-type: way
+type: node
 latitude: 37.42917
 longitude: -86.88061
 postcode: "42320"
 city: Beaver Dam
-street: "North Main Street"
-housenumber: 1701
-phone: "+1 270-274-9608"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/333/beaver-dam-ky/whats-new"
+street: North Main Street
+housenumber: "1701"
+phone: +1 270-274-9608
+opening_hours: 24/7
+website: https://www.walmart.com/store/333/beaver-dam-ky/whats-new

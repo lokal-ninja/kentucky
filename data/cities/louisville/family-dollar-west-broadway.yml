@@ -1,11 +1,11 @@
 id: 336483228
-type: way
+type: node
 latitude: 38.25017
 longitude: -85.80925
 postcode: "40211"
 city: Louisville
-street: "West Broadway"
-housenumber: 3421
-phone: "+1 502 772 9100"
-opening_hours: "Mo-Sa 08:00-21:00; Su 08:00-20:00"
-website: "https://www.familydollar.com/locations/ky/louisville/20912/"
+street: West Broadway
+housenumber: "3421"
+phone: +1 502 772 9100
+opening_hours: Mo-Sa 08:00-21:00; Su 08:00-20:00
+website: https://www.familydollar.com/locations/ky/louisville/20912/

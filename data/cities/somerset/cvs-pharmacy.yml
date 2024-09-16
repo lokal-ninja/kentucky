@@ -1,11 +1,11 @@
 id: 1011924828
-type: way
+type: node
 latitude: 37.09586
 longitude: -84.61971
 postcode: "42501"
 city: Somerset
-street: "North Highway 27"
-housenumber: 144
+street: North Highway 27
+housenumber: "144"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/somerset-ky-pharmacies/144-north-highway-27-somerset-ky-42503/storeid=6339"
+website: https://www.cvs.com/store-locator/somerset-ky-pharmacies/144-north-highway-27-somerset-ky-42503/storeid=6339

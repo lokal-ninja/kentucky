@@ -1,11 +1,11 @@
 id: 259755603
-type: way
+type: node
 latitude: 38.04407
 longitude: -84.50256
 postcode: "40508"
 city: Lexington
-street: "South Upper Street"
-housenumber: 401
+street: South Upper Street
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

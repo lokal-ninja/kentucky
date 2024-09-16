@@ -1,11 +1,11 @@
 id: 1231715576
-type: way
+type: node
 latitude: 38.1838
 longitude: -84.56216
 postcode: "40324"
 city: Georgetown
-street: "American Path"
-housenumber: 135
-phone: "+1 800-325-7894"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ky/georgetown/135-american-path"
+street: American Path
+housenumber: "135"
+phone: +1 800-325-7894
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ky/georgetown/135-american-path

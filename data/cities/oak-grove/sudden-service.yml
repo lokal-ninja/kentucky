@@ -1,11 +1,11 @@
 id: 997226365
-type: way
+type: node
 latitude: 36.67929
 longitude: -87.40703
 postcode: "42262"
 city: Oak Grove
-street: "Walter Garrett Lane"
-housenumber: 2905
+street: Walter Garrett Lane
+housenumber: "2905"
 phone: ""
 opening_hours: ""
-website: "https://suddenserviceonline.com"
+website: https://suddenserviceonline.com

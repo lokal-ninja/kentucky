@@ -1,11 +1,11 @@
 id: 404774545
-type: way
+type: node
 latitude: 38.01057
 longitude: -84.43728
 postcode: ""
 city: Lexington
-street: "Palumbo Drive"
-housenumber: 2670
+street: Palumbo Drive
+housenumber: "2670"
 phone: ""
 opening_hours: ""
 website: ""

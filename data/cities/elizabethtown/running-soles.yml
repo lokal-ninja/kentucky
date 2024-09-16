@@ -1,11 +1,11 @@
 id: 771094032
-type: way
+type: node
 latitude: 37.69332
 longitude: -85.85765
 postcode: "42701"
 city: Elizabethtown
-street: "Public Square"
-housenumber: 16
+street: Public Square
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

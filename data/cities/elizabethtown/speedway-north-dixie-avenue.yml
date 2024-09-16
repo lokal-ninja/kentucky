@@ -1,11 +1,11 @@
 id: 1015051338
-type: way
+type: node
 latitude: 37.72975
 longitude: -85.88583
 postcode: "42701"
 city: Elizabethtown
-street: "North Dixie Avenue"
-housenumber: 1608
+street: North Dixie Avenue
+housenumber: "1608"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/KY/Elizabethtown/1608-North-Dixie-Highway"
+website: https://www.speedway.com/locations/KY/Elizabethtown/1608-North-Dixie-Highway

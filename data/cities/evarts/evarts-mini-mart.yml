@@ -1,11 +1,11 @@
 id: 963325217
-type: way
+type: node
 latitude: 36.86421
 longitude: -83.19732
 postcode: "40828"
 city: Evarts
-street: "North Main Street"
-housenumber: 118
+street: North Main Street
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 337191213
-type: way
+type: node
 latitude: 38.25554
 longitude: -85.6496
 postcode: "40207"
 city: St Matthews
-street: "Westport Road"
-housenumber: 4050
+street: Westport Road
+housenumber: "4050"
 phone: ""
 opening_hours: ""
 website: ""

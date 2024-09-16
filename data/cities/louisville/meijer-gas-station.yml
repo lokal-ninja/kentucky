@@ -1,11 +1,11 @@
 id: 336682474
-type: way
+type: node
 latitude: 38.29707
 longitude: -85.55384
 postcode: "40241"
 city: Louisville
-street: "Fischer Park Drive"
-housenumber: 10701
+street: Fischer Park Drive
+housenumber: "10701"
 phone: ""
 opening_hours: ""
 website: ""

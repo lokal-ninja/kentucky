@@ -1,11 +1,11 @@
 id: 337287205
-type: way
+type: node
 latitude: 38.22637
 longitude: -85.7672
 postcode: "40208"
 city: Louisville
-street: "West Shipp Avenue"
-housenumber: 615
+street: West Shipp Avenue
+housenumber: "615"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1015946402
-type: way
+type: node
 latitude: 37.0881
 longitude: -84.6598
 postcode: "42503"
 city: Somerset
-street: "KY-80"
-housenumber: 2332
+street: KY-80
+housenumber: "2332"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 334732130
-type: way
+type: node
 latitude: 38.19163
 longitude: -85.75196
 postcode: "40209"
 city: Louisville
-street: "Crittenden Drive"
-housenumber: 4334
+street: Crittenden Drive
+housenumber: "4334"
 phone: ""
 opening_hours: ""
 website: ""

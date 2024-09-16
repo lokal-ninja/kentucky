@@ -1,11 +1,11 @@
 id: 1132598252
-type: way
+type: node
 latitude: 37.74769
 longitude: -83.06121
 postcode: "41465"
 city: Salyersville
-street: "Parkway Drive"
-housenumber: 524
-phone: "+1-502-661-1040"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/ky/salyersville/190"
+street: Parkway Drive
+housenumber: "524"
+phone: +1-502-661-1040
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/ky/salyersville/190

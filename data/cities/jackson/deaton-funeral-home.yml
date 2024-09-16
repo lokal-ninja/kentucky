@@ -1,11 +1,11 @@
 id: 1093186210
-type: way
+type: node
 latitude: 37.53055
 longitude: -83.36008
 postcode: ""
 city: Jackson
-street: "Deaton Lane"
-housenumber: 15
+street: Deaton Lane
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://deatonfuneraljackson.com/wp/obituaries/"
+website: https://deatonfuneraljackson.com/wp/obituaries/

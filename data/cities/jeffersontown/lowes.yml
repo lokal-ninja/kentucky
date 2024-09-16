@@ -1,11 +1,11 @@
 id: 337693920
-type: way
+type: node
 latitude: 38.23978
 longitude: -85.57342
 postcode: "40222"
 city: Jeffersontown
-street: "South Hurstbourne Parkway"
-housenumber: 501
-phone: "+1 502-394-9400"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ky-louisville/0474"
+street: South Hurstbourne Parkway
+housenumber: "501"
+phone: +1 502-394-9400
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ky-louisville/0474

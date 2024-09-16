@@ -1,11 +1,11 @@
 id: 970095415
-type: way
+type: node
 latitude: 37.54881
 longitude: -85.73566
 postcode: "42748"
 city: Hodgenville
-street: "Lincoln Farm Road"
-housenumber: 1018
+street: Lincoln Farm Road
+housenumber: "1018"
 phone: ""
 opening_hours: ""
 website: ""

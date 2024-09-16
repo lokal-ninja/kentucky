@@ -1,11 +1,11 @@
 id: 645717399
-type: way
+type: node
 latitude: 38.29538
 longitude: -85.55433
 postcode: "40241"
 city: Louisville
-street: "Westport Road"
-housenumber: 10620
-phone: "+1 833-744-4041"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ky/louisville/10620-westport-rd"
+street: Westport Road
+housenumber: "10620"
+phone: +1 833-744-4041
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ky/louisville/10620-westport-rd

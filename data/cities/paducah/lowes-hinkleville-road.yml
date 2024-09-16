@@ -1,11 +1,11 @@
 id: 1188580353
-type: way
+type: node
 latitude: 37.07294
 longitude: -88.69301
 postcode: "42001"
 city: Paducah
-street: "Hinkleville Road"
-housenumber: 5176
-phone: "+1 270-441-7000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ky-paducah/0465"
+street: Hinkleville Road
+housenumber: "5176"
+phone: +1 270-441-7000
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ky-paducah/0465

@@ -1,11 +1,11 @@
 id: 1085971340
-type: way
+type: node
 latitude: 37.47987
 longitude: -83.32471
 postcode: "41339"
 city: Jackson
-street: "KY 15"
-housenumber: 9630
+street: KY 15
+housenumber: "9630"
 phone: ""
 opening_hours: ""
-website: "https://gotimecstore.com/locations/go-time-3/"
+website: https://gotimecstore.com/locations/go-time-3/

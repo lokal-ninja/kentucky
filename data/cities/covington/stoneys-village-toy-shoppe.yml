@@ -1,11 +1,11 @@
 id: 142745287
-type: way
+type: node
 latitude: 39.08406
 longitude: -84.51696
 postcode: "41011"
 city: Covington
-street: "West 6th Street"
-housenumber: 323
+street: West 6th Street
+housenumber: "323"
 phone: ""
 opening_hours: ""
 website: ""

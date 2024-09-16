@@ -1,11 +1,11 @@
 id: 655211746
-type: way
+type: node
 latitude: 38.98743
 longitude: -84.40068
 postcode: "41001"
 city: Alexandria
-street: "Alexandria Pike"
-housenumber: 6711
-phone: "+1 859-635-8800"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1961/alexandria-ky/whats-new"
+street: Alexandria Pike
+housenumber: "6711"
+phone: +1 859-635-8800
+opening_hours: 24/7
+website: https://www.walmart.com/store/1961/alexandria-ky/whats-new

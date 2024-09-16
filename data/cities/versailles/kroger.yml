@@ -1,11 +1,11 @@
 id: 585517898
-type: way
+type: node
 latitude: 38.05251
 longitude: -84.7105
 postcode: "40383"
 city: Versailles
-street: "Kroger Way"
-housenumber: 212
-phone: "+1 859-873-7704"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ky/versailles/versailles-marketplace/024/00774"
+street: Kroger Way
+housenumber: "212"
+phone: +1 859-873-7704
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ky/versailles/versailles-marketplace/024/00774

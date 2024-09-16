@@ -1,11 +1,11 @@
 id: 824488625
-type: way
+type: node
 latitude: 36.87761
 longitude: -87.50645
 postcode: "42240"
 city: Hopkinsville
-street: "West 7th Street"
-housenumber: 1524
-phone: "+1 270 886 0994"
+street: West 7th Street
+housenumber: "1524"
+phone: +1 270 886 0994
 opening_hours: ""
-website: "https://www.facebook.com/littleriverradiator"
+website: https://www.facebook.com/littleriverradiator

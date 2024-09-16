@@ -1,11 +1,11 @@
 id: 418077377
-type: way
+type: node
 latitude: 37.5536
 longitude: -85.28314
 postcode: "40033"
 city: Lebanon
-street: "Campbellsville Road"
-housenumber: 2136
-phone: "+1 270-692-1880"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1675/lebanon-ky/whats-new"
+street: Campbellsville Road
+housenumber: "2136"
+phone: +1 270-692-1880
+opening_hours: 24/7
+website: https://www.walmart.com/store/1675/lebanon-ky/whats-new

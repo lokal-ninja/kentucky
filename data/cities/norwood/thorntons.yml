@@ -1,11 +1,11 @@
 id: 325467213
-type: way
+type: node
 latitude: 38.25
 longitude: -85.61415
 postcode: "40222"
 city: Norwood
-street: "Shelbyville Road"
-housenumber: 7515
+street: Shelbyville Road
+housenumber: "7515"
 phone: ""
 opening_hours: ""
 website: ""

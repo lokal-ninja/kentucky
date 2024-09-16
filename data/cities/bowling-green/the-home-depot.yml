@@ -1,11 +1,11 @@
 id: 703504067
-type: way
+type: node
 latitude: 36.95818
 longitude: -86.43476
 postcode: "42104"
 city: Bowling Green
-street: "Gary Farms Boulevard"
-housenumber: 2233
-phone: "+1 270-393-0464"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/bowling-green-ky/ky/bowling-green/42104/2318"
+street: Gary Farms Boulevard
+housenumber: "2233"
+phone: +1 270-393-0464
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/bowling-green-ky/ky/bowling-green/42104/2318

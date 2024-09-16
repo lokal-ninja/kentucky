@@ -1,11 +1,11 @@
 id: 1147999434
-type: way
+type: node
 latitude: 38.68123
 longitude: -85.16897
 postcode: "41008"
 city: Carrollton
-street: "Highland Avenue"
-housenumber: 1102
-phone: "+1-502-732-6352"
-opening_hours: "04:00-22:00"
-website: "https://www.caseys.com/general-store/ky-carrollton/1102-highland-ave/3824"
+street: Highland Avenue
+housenumber: "1102"
+phone: +1-502-732-6352
+opening_hours: 04:00-22:00
+website: https://www.caseys.com/general-store/ky-carrollton/1102-highland-ave/3824

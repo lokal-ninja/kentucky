@@ -1,11 +1,11 @@
 id: 743155500
-type: way
+type: node
 latitude: 37.42946
 longitude: -84.00495
 postcode: "40447"
 city: McKee
-street: "North Main Street"
-housenumber: 473
+street: North Main Street
+housenumber: "473"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00
 website: ""

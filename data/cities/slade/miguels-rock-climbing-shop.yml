@@ -1,11 +1,11 @@
 id: 896841868
-type: way
+type: node
 latitude: 37.7823
 longitude: -83.68149
 postcode: "40376"
 city: Slade
-street: "Natural Bridge Road"
-housenumber: 1960
+street: Natural Bridge Road
+housenumber: "1960"
 phone: "6066633650"
-opening_hours: "Fr-Su 09:00-19:00"
-website: "https://www.miguelsrockclimbingshop.com/"
+opening_hours: Fr-Su 09:00-19:00
+website: https://www.miguelsrockclimbingshop.com/

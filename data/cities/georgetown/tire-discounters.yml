@@ -1,11 +1,11 @@
 id: 413727625
-type: way
+type: node
 latitude: 38.23357
 longitude: -84.53661
 postcode: "40324"
 city: Georgetown
-street: "Lawson Drive"
-housenumber: 113
+street: Lawson Drive
+housenumber: "113"
 phone: ""
 opening_hours: ""
 website: ""

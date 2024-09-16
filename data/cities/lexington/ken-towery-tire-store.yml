@@ -1,11 +1,11 @@
 id: 402027148
-type: way
+type: node
 latitude: 37.98086
 longitude: -84.55006
 postcode: ""
 city: Lexington
-street: "Boston Road"
-housenumber: 3630
+street: Boston Road
+housenumber: "3630"
 phone: ""
 opening_hours: ""
 website: ""

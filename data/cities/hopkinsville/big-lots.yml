@@ -1,11 +1,11 @@
 id: 1246870709
-type: way
+type: node
 latitude: 36.84364
 longitude: -87.48629
 postcode: "42240"
 city: Hopkinsville
-street: "Fort Campbell Boulevard"
-housenumber: 2601
-phone: "+1 270-886-5451"
-opening_hours: "Mo 10:00-21:00; Tu-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/ky/hopkinsville/2601-fort-campbell-blvd"
+street: Fort Campbell Boulevard
+housenumber: "2601"
+phone: +1 270-886-5451
+opening_hours: Mo 10:00-21:00; Tu-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/ky/hopkinsville/2601-fort-campbell-blvd

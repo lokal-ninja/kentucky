@@ -1,11 +1,11 @@
 id: 337108091
-type: way
+type: node
 latitude: 38.20451
 longitude: -85.71362
 postcode: "40213"
 city: Louisville
-street: "Poplar Level Road"
-housenumber: 3800
+street: Poplar Level Road
+housenumber: "3800"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3800+poplar+level+rd-louisville-ky-40213/id=3601"
+website: https://www.walgreens.com/locator/walgreens-3800+poplar+level+rd-louisville-ky-40213/id=3601

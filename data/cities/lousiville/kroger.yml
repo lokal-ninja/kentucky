@@ -1,11 +1,11 @@
 id: 220367954
-type: way
+type: node
 latitude: 38.30531
 longitude: -85.57584
 postcode: "40241"
 city: Lousiville
-street: "Brownsboro Road"
-housenumber: 9440
-phone: "+1 502-425-8542"
-opening_hours: "24/7"
-website: "https://www.kroger.com/stores/grocery/ky/louisville/springhurst/024/00707"
+street: Brownsboro Road
+housenumber: "9440"
+phone: +1 502-425-8542
+opening_hours: 24/7
+website: https://www.kroger.com/stores/grocery/ky/louisville/springhurst/024/00707

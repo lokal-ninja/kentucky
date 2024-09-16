@@ -1,11 +1,11 @@
 id: 231131955
-type: way
+type: node
 latitude: 38.27589
 longitude: -84.55333
 postcode: "40324"
 city: Georgetown
-street: "Triport Road"
-housenumber: 110
+street: Triport Road
+housenumber: "110"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

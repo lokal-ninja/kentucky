@@ -1,11 +1,11 @@
 id: 515970124
-type: way
+type: node
 latitude: 37.03146
 longitude: -88.6695
 postcode: "42003"
 city: Paducah
-street: "Lone Oak Road"
-housenumber: 3440
+street: Lone Oak Road
+housenumber: "3440"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ky/paducah/3691"
+website: https://www.dollargeneral.com/store-directory/ky/paducah/3691

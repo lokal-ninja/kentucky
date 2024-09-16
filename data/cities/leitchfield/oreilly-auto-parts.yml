@@ -1,11 +1,11 @@
 id: 1021340098
-type: way
+type: node
 latitude: 37.48507
 longitude: -86.27133
 postcode: "42754"
 city: Leitchfield
-street: "Elizabethtown Road"
-housenumber: 1565
+street: Elizabethtown Road
+housenumber: "1565"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ky/leitchfield/autoparts-5002.html"
+website: https://locations.oreillyauto.com/ky/leitchfield/autoparts-5002.html

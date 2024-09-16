@@ -1,11 +1,11 @@
 id: 1114979569
-type: way
+type: node
 latitude: 37.10941
 longitude: -87.88392
 postcode: "42445"
 city: Princeton
-street: "West Main Street"
-housenumber: 211
-phone: "(270) 365-1781"
+street: West Main Street
+housenumber: "211"
+phone: (270) 365-1781
 opening_hours: ""
-website: "https://www.facebook.com/profile.php?id=100057554924011"
+website: https://www.facebook.com/profile.php?id=100057554924011

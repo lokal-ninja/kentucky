@@ -1,11 +1,11 @@
 id: 1061947061
-type: way
+type: node
 latitude: 37.0361
 longitude: -88.6675
 postcode: "42003"
 city: Paducah
-street: "Lone Oak Road"
-housenumber: 3101
+street: Lone Oak Road
+housenumber: "3101"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 329933499
-type: way
+type: node
 latitude: 38.23845
 longitude: -85.72006
 postcode: "40204"
 city: Louisville
-street: "Bardstown Road"
-housenumber: 1101
+street: Bardstown Road
+housenumber: "1101"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/KY/Louisville/1101-Bardstown-Road"
+website: https://www.speedway.com/locations/KY/Louisville/1101-Bardstown-Road

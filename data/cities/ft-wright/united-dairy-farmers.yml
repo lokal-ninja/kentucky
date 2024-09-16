@@ -1,11 +1,11 @@
 id: 118408038
-type: way
+type: node
 latitude: 39.03638
 longitude: -84.53226
 postcode: "41017"
 city: Ft Wright
-street: "Madison Pike"
-housenumber: 3410
+street: Madison Pike
+housenumber: "3410"
 phone: ""
 opening_hours: ""
 website: ""

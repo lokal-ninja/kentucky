@@ -1,11 +1,11 @@
 id: 116624371
-type: way
+type: node
 latitude: 39.00692
 longitude: -84.4179
 postcode: "41076"
 city: Cold Spring
-street: "Crossroads Boulevard"
-housenumber: 415
-phone: "+1 859-572-0018"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/cold-spring/ky/cold-spring/41076/2323"
+street: Crossroads Boulevard
+housenumber: "415"
+phone: +1 859-572-0018
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/cold-spring/ky/cold-spring/41076/2323

@@ -1,11 +1,11 @@
 id: 802034655
-type: way
+type: node
 latitude: 36.86295
 longitude: -83.3372
 postcode: "40806"
 city: Baxter
-street: "US 119"
-housenumber: 1007
+street: US 119
+housenumber: "1007"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ky/baxter/16497"
+website: https://www.dollargeneral.com/store-directory/ky/baxter/16497

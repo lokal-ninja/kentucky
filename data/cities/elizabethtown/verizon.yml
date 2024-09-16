@@ -1,11 +1,11 @@
 id: 679505151
-type: way
+type: node
 latitude: 37.72935
 longitude: -85.88268
 postcode: "42701"
 city: Elizabethtown
-street: "Ring Road"
-housenumber: 1608
+street: Ring Road
+housenumber: "1608"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su 11:00-17:00"
+opening_hours: Mo-Sa 09:00-19:00; Su 11:00-17:00
 website: ""

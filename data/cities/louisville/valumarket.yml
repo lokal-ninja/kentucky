@@ -1,11 +1,11 @@
 id: 339056148
-type: way
+type: node
 latitude: 38.17114
 longitude: -85.76982
 postcode: "40214"
 city: Louisville
-street: "Mitscher Avenue"
-housenumber: 5301
+street: Mitscher Avenue
+housenumber: "5301"
 phone: ""
 opening_hours: ""
 website: ""

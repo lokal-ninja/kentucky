@@ -1,11 +1,11 @@
 id: 155746676
-type: way
+type: node
 latitude: 39.08401
 longitude: -84.49187
 postcode: "41071"
 city: Newport
-street: "West 11th Street"
-housenumber: 125
+street: West 11th Street
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

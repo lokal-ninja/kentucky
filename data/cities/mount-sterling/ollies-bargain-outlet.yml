@@ -1,11 +1,11 @@
 id: 456426542
-type: way
+type: node
 latitude: 38.07445
 longitude: -83.95409
 postcode: "40353"
 city: Mount Sterling
-street: "Indian Mound Drive"
-housenumber: 217
+street: Indian Mound Drive
+housenumber: "217"
 phone: ""
 opening_hours: ""
 website: ""

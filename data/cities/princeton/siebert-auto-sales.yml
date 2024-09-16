@@ -1,11 +1,11 @@
 id: 1115586402
-type: way
+type: node
 latitude: 37.12082
 longitude: -87.89506
 postcode: "42445"
 city: Princeton
-street: "Marion Road"
-housenumber: 315
+street: Marion Road
+housenumber: "315"
 phone: "+12703653674"
 opening_hours: ""
 website: ""

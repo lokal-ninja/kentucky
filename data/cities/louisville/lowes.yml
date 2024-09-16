@@ -1,11 +1,11 @@
 id: 321766876
-type: way
+type: node
 latitude: 38.31276
 longitude: -85.57667
 postcode: "40241"
 city: Louisville
-street: "Norton Healthcare Boulevard"
-housenumber: 4930
-phone: "+1 502-420-1452"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ky-louisville/2245"
+street: Norton Healthcare Boulevard
+housenumber: "4930"
+phone: +1 502-420-1452
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ky-louisville/2245

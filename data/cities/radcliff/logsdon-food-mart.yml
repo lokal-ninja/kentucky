@@ -1,11 +1,11 @@
 id: 1120137132
-type: way
+type: node
 latitude: 37.85495
 longitude: -85.9689
 postcode: "40160"
 city: Radcliff
-street: "North Logsdon Parkway"
-housenumber: 1601
+street: North Logsdon Parkway
+housenumber: "1601"
 phone: ""
 opening_hours: ""
 website: ""

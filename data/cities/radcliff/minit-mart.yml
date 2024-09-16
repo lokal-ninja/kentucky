@@ -1,11 +1,11 @@
 id: 1012554778
-type: way
+type: node
 latitude: 37.80781
 longitude: -85.91935
 postcode: "40160"
 city: Radcliff
-street: "Dixie Highway South"
-housenumber: 2300
-phone: "270-351-8899"
-opening_hours: "24/7"
-website: "https://www.minitmart.com/"
+street: Dixie Highway South
+housenumber: "2300"
+phone: 270-351-8899
+opening_hours: 24/7
+website: https://www.minitmart.com/

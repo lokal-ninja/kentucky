@@ -1,11 +1,11 @@
 id: 567644022
-type: way
+type: node
 latitude: 37.27097
 longitude: -87.14488
 postcode: "42330"
 city: Central City
-street: "West Everely Branch"
-housenumber: 1725
-phone: "+1 270-754-1533"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/294/central-city-ky/whats-new"
+street: West Everely Branch
+housenumber: "1725"
+phone: +1 270-754-1533
+opening_hours: 24/7
+website: https://www.walmart.com/store/294/central-city-ky/whats-new

@@ -1,11 +1,11 @@
 id: 1301335469
-type: way
+type: node
 latitude: 37.59766
 longitude: -84.31767
 postcode: "40403"
 city: Berea
-street: "Peggy Flats Road"
-housenumber: 100
-phone: "+1 859-985-0083"
+street: Peggy Flats Road
+housenumber: "100"
+phone: +1 859-985-0083
 opening_hours: ""
 website: ""

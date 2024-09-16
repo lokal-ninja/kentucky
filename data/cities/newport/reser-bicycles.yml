@@ -1,11 +1,11 @@
 id: 155750742
-type: way
+type: node
 latitude: 39.09038
 longitude: -84.4926
 postcode: "41071"
 city: Newport
-street: "Monmouth Street"
-housenumber: 648
-phone: "+1-859-261-6187"
-opening_hours: "Mo-Th 10:00-18:00; Fr 10:00-20:00; Sa 09:00-17:00"
-website: "https://www.reserbicycle.com/"
+street: Monmouth Street
+housenumber: "648"
+phone: +1-859-261-6187
+opening_hours: Mo-Th 10:00-18:00; Fr 10:00-20:00; Sa 09:00-17:00
+website: https://www.reserbicycle.com/

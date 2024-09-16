@@ -1,11 +1,11 @@
 id: 1016532381
-type: way
+type: node
 latitude: 36.98305
 longitude: -85.62817
-postcode: "42129-8130"
+postcode: 42129-8130
 city: Edmonton
-street: "West Stockton Street"
-housenumber: 805
-phone: "+1 270-432-7000"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 10:00-18:00"
+street: West Stockton Street
+housenumber: "805"
+phone: +1 270-432-7000
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 10:00-18:00
 website: ""

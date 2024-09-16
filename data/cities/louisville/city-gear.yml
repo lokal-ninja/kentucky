@@ -4,8 +4,8 @@ latitude: 38.19177
 longitude: -85.80666
 postcode: "40216"
 city: Louisville
-street: "7th Street Road"
-housenumber: 3985
-phone: "502-447-2025"
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-17:00"
+street: 7th Street Road
+housenumber: "3985"
+phone: 502-447-2025
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-17:00
 website: ""

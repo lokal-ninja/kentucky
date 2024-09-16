@@ -1,11 +1,11 @@
 id: 337085153
-type: way
+type: node
 latitude: 38.20456
 longitude: -85.76523
 postcode: "40214"
 city: Louisville
-street: "South 4th Street"
-housenumber: 3111
+street: South 4th Street
+housenumber: "3111"
 phone: ""
 opening_hours: ""
 website: ""

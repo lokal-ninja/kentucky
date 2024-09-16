@@ -1,11 +1,11 @@
 id: 1020320795
-type: way
+type: node
 latitude: 37.19064
 longitude: -86.2578
 postcode: "42210"
 city: Brownsville
-street: "South Main Street"
-housenumber: 803
+street: South Main Street
+housenumber: "803"
 phone: ""
 opening_hours: ""
 website: ""

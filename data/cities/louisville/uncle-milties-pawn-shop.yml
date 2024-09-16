@@ -1,11 +1,11 @@
 id: 337085219
-type: way
+type: node
 latitude: 38.20037
 longitude: -85.76471
 postcode: "40214"
 city: Louisville
-street: "Southern Parkway"
-housenumber: 3775
-phone: "502-364-8844"
+street: Southern Parkway
+housenumber: "3775"
+phone: 502-364-8844
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 663861712
-type: way
+type: node
 latitude: 36.83344
 longitude: -86.90591
 postcode: "42276"
 city: Russellville
-street: "West 9th Street"
-housenumber: 1150
-phone: "+1 270-726-8988"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: West 9th Street
+housenumber: "1150"
+phone: +1 270-726-8988
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

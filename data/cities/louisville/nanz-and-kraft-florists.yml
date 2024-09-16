@@ -1,11 +1,11 @@
 id: 329522772
-type: way
+type: node
 latitude: 38.25127
 longitude: -85.65384
 postcode: "40207"
 city: Louisville
-street: "Breckenridge Lane"
-housenumber: 141
+street: Breckenridge Lane
+housenumber: "141"
 phone: ""
 opening_hours: ""
 website: ""

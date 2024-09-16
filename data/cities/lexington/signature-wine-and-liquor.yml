@@ -1,11 +1,11 @@
 id: 257711556
-type: way
+type: node
 latitude: 38.04293
 longitude: -84.50212
 postcode: "40508"
 city: Lexington
-street: "South Limestone"
-housenumber: 325
+street: South Limestone
+housenumber: "325"
 phone: ""
 opening_hours: ""
 website: ""

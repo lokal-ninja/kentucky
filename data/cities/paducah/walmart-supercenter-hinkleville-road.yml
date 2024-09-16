@@ -1,11 +1,11 @@
 id: 1188580354
-type: way
+type: node
 latitude: 37.07289
 longitude: -88.68718
 postcode: "42001"
 city: Paducah
-street: "Hinkleville Road"
-housenumber: 5130
-phone: "+1 270-444-0066"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/491-paducah-ky"
+street: Hinkleville Road
+housenumber: "5130"
+phone: +1 270-444-0066
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/491-paducah-ky

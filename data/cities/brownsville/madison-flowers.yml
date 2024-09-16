@@ -1,11 +1,11 @@
 id: 1020320748
-type: way
+type: node
 latitude: 37.19075
 longitude: -86.26301
 postcode: "42210"
 city: Brownsville
-street: "South Main Street"
-housenumber: 424
-phone: "+1-270-597-2046"
-opening_hours: "Mo-Fr 08:00-16:00; Sa 08:00-12:00"
-website: "https://www.madisonsflowersinc.com/"
+street: South Main Street
+housenumber: "424"
+phone: +1-270-597-2046
+opening_hours: Mo-Fr 08:00-16:00; Sa 08:00-12:00
+website: https://www.madisonsflowersinc.com/

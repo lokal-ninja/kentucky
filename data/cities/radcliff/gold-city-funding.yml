@@ -1,11 +1,11 @@
 id: 1025396014
-type: way
+type: node
 latitude: 37.8505
 longitude: -85.94426
 postcode: "40160"
 city: Radcliff
-street: "North Wilson Road"
-housenumber: 913
-phone: "270-300-8777"
+street: North Wilson Road
+housenumber: "913"
+phone: 270-300-8777
 opening_hours: ""
 website: ""

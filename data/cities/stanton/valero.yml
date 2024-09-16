@@ -1,11 +1,11 @@
 id: 1062141519
-type: way
+type: node
 latitude: 37.84382
 longitude: -83.85899
 postcode: "40380"
 city: Stanton
-street: "North Main Street"
-housenumber: 109
+street: North Main Street
+housenumber: "109"
 phone: "+16066633550"
-opening_hours: "Mo-Sa 04:00-24:00; Su 07:00-24:00"
+opening_hours: Mo-Sa 04:00-24:00; Su 07:00-24:00
 website: ""

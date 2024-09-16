@@ -1,11 +1,11 @@
 id: 321766870
-type: way
+type: node
 latitude: 38.31369
 longitude: -85.57115
 postcode: "40241"
 city: Louisville
-street: "Norton Healthcare Boulevard"
-housenumber: 5100
+street: Norton Healthcare Boulevard
+housenumber: "5100"
 phone: ""
 opening_hours: ""
 website: ""

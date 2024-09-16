@@ -1,11 +1,11 @@
 id: 1092492397
-type: way
+type: node
 latitude: 37.55876
 longitude: -83.39473
 postcode: ""
 city: Jackson
-street: "KY-15"
-housenumber: 695
+street: KY-15
+housenumber: "695"
 phone: ""
 opening_hours: ""
-website: "https://rosebros.com/"
+website: https://rosebros.com/

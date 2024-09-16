@@ -4,8 +4,10 @@ latitude: 37.1091
 longitude: -87.88266
 postcode: "42445"
 city: Princeton
-street: "West Main Street"
-housenumber: 112
-phone: "270.365.0944"
-opening_hours: "MON Nov 21  9:00AM 4:00PM TUE Nov 22  9:00AM 4:00PM WED Nov 23  9:00AMTHU Nov 17  9:00AM 4:00PM Today FRI Nov 18  9:00AM 4:00PM SAT Nov 19  Closed SUN Nov 20  Closed 4:00PM"
-website: "https://www.serviceplusprinceton.com/products-services/copying-services"
+street: West Main Street
+housenumber: "112"
+phone: 270.365.0944
+opening_hours: MON Nov 21  9:00AM 4:00PM TUE Nov 22  9:00AM 4:00PM WED Nov 23  9:00AMTHU
+    Nov 17  9:00AM 4:00PM Today FRI Nov 18  9:00AM 4:00PM SAT Nov 19  Closed SUN Nov
+    20  Closed 4:00PM
+website: https://www.serviceplusprinceton.com/products-services/copying-services

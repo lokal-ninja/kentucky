@@ -1,11 +1,11 @@
 id: 1000357334
-type: way
+type: node
 latitude: 38.13612
 longitude: -85.67268
 postcode: "40219"
 city: Louisville
-street: "Outer Loop"
-housenumber: 4840
-phone: "+1 502-313-6351"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/6931-louisville-ky"
+street: Outer Loop
+housenumber: "4840"
+phone: +1 502-313-6351
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/6931-louisville-ky

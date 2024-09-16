@@ -4,8 +4,8 @@ latitude: 38.01929
 longitude: -84.52825
 postcode: "40503"
 city: Lexington
-street: "Southland Drive"
-housenumber: 450
-phone: "+1 859 278 4444"
-opening_hours: "Mo-Fr 9:00-18:00; Sa 9:00-17:30; Su 12:00-17:00"
-website: "https://oldkycandy.com/"
+street: Southland Drive
+housenumber: "450"
+phone: +1 859 278 4444
+opening_hours: Mo-Fr 9:00-18:00; Sa 9:00-17:30; Su 12:00-17:00
+website: https://oldkycandy.com/

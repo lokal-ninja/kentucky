@@ -1,11 +1,11 @@
 id: 401887947
-type: way
+type: node
 latitude: 38.04645
 longitude: -84.55148
 postcode: "40504"
 city: Lexington
-street: "Versailles Road"
-housenumber: 2284
+street: Versailles Road
+housenumber: "2284"
 phone: ""
 opening_hours: ""
 website: ""

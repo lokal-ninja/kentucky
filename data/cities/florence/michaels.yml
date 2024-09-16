@@ -2,10 +2,10 @@ id: 3105952600
 type: node
 latitude: 39.01489
 longitude: -84.64132
-postcode: "41042-1365"
+postcode: 41042-1365
 city: Florence
-street: "Houston Road"
-housenumber: 4999
-phone: "+1 859-282-9658"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/ky/florence/7811"
+street: Houston Road
+housenumber: "4999"
+phone: +1 859-282-9658
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/ky/florence/7811

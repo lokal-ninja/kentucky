@@ -1,11 +1,11 @@
 id: 657628663
-type: way
+type: node
 latitude: 37.34568
 longitude: -85.37444
 postcode: "42718"
 city: Campbellsville
-street: "Campbellsville Bypass"
-housenumber: 725
-phone: "+1 270-789-0707"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/665/campbellsville-ky/whats-new"
+street: Campbellsville Bypass
+housenumber: "725"
+phone: +1 270-789-0707
+opening_hours: 24/7
+website: https://www.walmart.com/store/665/campbellsville-ky/whats-new

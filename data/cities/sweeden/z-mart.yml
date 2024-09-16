@@ -1,11 +1,11 @@
 id: 1205965761
-type: way
+type: node
 latitude: 37.26882
 longitude: -86.28163
 postcode: "42285"
 city: Sweeden
-street: "KY-259"
-housenumber: 6353
+street: KY-259
+housenumber: "6353"
 phone: ""
 opening_hours: ""
 website: ""

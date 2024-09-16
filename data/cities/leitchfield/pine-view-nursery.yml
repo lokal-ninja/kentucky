@@ -1,11 +1,11 @@
 id: 346673782
-type: way
+type: node
 latitude: 37.48844
 longitude: -86.29885
-postcode: "42754-2121"
+postcode: 42754-2121
 city: Leitchfield
-street: "Tilden Street"
-housenumber: 303
-phone: "270.259.4189"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "http://www.pineviewnursery.com"
+street: Tilden Street
+housenumber: "303"
+phone: 270.259.4189
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: http://www.pineviewnursery.com

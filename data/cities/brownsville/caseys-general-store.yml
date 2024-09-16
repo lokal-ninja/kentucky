@@ -1,11 +1,11 @@
 id: 1020320813
-type: way
+type: node
 latitude: 37.19098
 longitude: -86.25514
 postcode: "42210"
 city: Brownsville
-street: "Houchins Ferry Road"
-housenumber: 101
+street: Houchins Ferry Road
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Su 04:00-23:00"
+opening_hours: Mo-Su 04:00-23:00
 website: ""

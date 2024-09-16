@@ -1,11 +1,11 @@
 id: 962315647
-type: way
+type: node
 latitude: 36.85985
 longitude: -84.84178
 postcode: "42633"
 city: Monticello
-street: "E Hwy 90"
-housenumber: 1777
-phone: "(866) 950-4007"
+street: E Hwy 90
+housenumber: "1777"
+phone: (866) 950-4007
 opening_hours: ""
 website: ""

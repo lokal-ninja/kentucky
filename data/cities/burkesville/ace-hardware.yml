@@ -1,11 +1,11 @@
 id: 1017116006
-type: way
+type: node
 latitude: 36.78393
 longitude: -85.37195
-postcode: "42717-7681"
+postcode: 42717-7681
 city: Burkesville
-street: "Keen Street"
-housenumber: 228
-phone: "+1 270-864-4322"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-17:00"
+street: Keen Street
+housenumber: "228"
+phone: +1 270-864-4322
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-17:00
 website: ""

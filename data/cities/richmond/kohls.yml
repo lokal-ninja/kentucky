@@ -1,11 +1,11 @@
 id: 727532566
-type: way
+type: node
 latitude: 37.75565
 longitude: -84.27341
 postcode: "40475"
 city: Richmond
-street: "Merchant Drive"
-housenumber: 2047
-phone: "+1 859-623-2526"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/ky/richmond-1225.shtml"
+street: Merchant Drive
+housenumber: "2047"
+phone: +1 859-623-2526
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/ky/richmond-1225.shtml

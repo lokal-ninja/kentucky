@@ -1,11 +1,11 @@
 id: 1115582290
-type: way
+type: node
 latitude: 37.11914
 longitude: -87.89864
 postcode: "42445"
 city: Princeon
-street: "West Main Street"
-housenumber: 1340
+street: West Main Street
+housenumber: "1340"
 phone: "+12703659030"
-opening_hours: "Mon-Fri 9am-pm"
-website: "https://www.rivercitypawnshops.com"
+opening_hours: Mon-Fri 9am-pm
+website: https://www.rivercitypawnshops.com

@@ -1,11 +1,11 @@
 id: 337088320
-type: way
+type: node
 latitude: 38.19572
 longitude: -85.76529
 postcode: "40214"
 city: Louisville
-street: "South 3rd Street"
-housenumber: 4124
-phone: "502-361-0131"
+street: South 3rd Street
+housenumber: "4124"
+phone: 502-361-0131
 opening_hours: ""
-website: "http://www.mymetromotors.com/"
+website: http://www.mymetromotors.com/

@@ -1,11 +1,11 @@
 id: 1093977624
-type: way
+type: node
 latitude: 37.26052
 longitude: -85.50142
 postcode: "42743"
 city: Greensburg
-street: "East Court Street"
-housenumber: 101
+street: East Court Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

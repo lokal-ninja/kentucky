@@ -1,11 +1,11 @@
 id: 546746202
-type: way
+type: node
 latitude: 37.72047
 longitude: -87.12315
 postcode: "42301"
 city: Owensboro
-street: "Frederica Street"
-housenumber: 5031
-phone: "+1 270-685-2060"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/701/owensboro-ky/whats-new"
+street: Frederica Street
+housenumber: "5031"
+phone: +1 270-685-2060
+opening_hours: 24/7
+website: https://www.walmart.com/store/701/owensboro-ky/whats-new

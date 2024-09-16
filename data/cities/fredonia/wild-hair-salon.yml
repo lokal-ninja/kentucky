@@ -1,11 +1,11 @@
 id: 1084301621
-type: way
+type: node
 latitude: 37.20923
 longitude: -88.05679
 postcode: "42411"
 city: Fredonia
-street: "Cassidy Avenue"
-housenumber: 101
+street: Cassidy Avenue
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

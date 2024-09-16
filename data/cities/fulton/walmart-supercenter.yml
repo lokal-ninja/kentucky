@@ -1,11 +1,11 @@
 id: 657688720
-type: way
+type: node
 latitude: 36.51703
 longitude: -88.9
 postcode: "42041"
 city: Fulton
-street: "Middle Road"
-housenumber: 1405
-phone: "+1 270-472-1426"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/106/fulton-ky/whats-new"
+street: Middle Road
+housenumber: "1405"
+phone: +1 270-472-1426
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/106/fulton-ky/whats-new

@@ -1,11 +1,11 @@
 id: 674163030
-type: way
+type: node
 latitude: 37.00081
 longitude: -85.90008
 postcode: "42141"
 city: Glasgow
-street: "Columbia Avenue"
-housenumber: 618
-phone: "(270) 629-6866"
-opening_hours: "We-Sa 07:30-22:30"
+street: Columbia Avenue
+housenumber: "618"
+phone: (270) 629-6866
+opening_hours: We-Sa 07:30-22:30
 website: ""

@@ -1,11 +1,11 @@
 id: 42267827
-type: way
+type: node
 latitude: 39.01913
 longitude: -84.62485
 postcode: "41042"
 city: Florence
-street: "Houston Road"
-housenumber: 4800
-phone: "+1 859-371-4770"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=0554"
+street: Houston Road
+housenumber: "4800"
+phone: +1 859-371-4770
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: http://stores.lowes.com/lowes/cgi/site?site=0554

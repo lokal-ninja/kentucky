@@ -1,11 +1,11 @@
 id: 334048006
-type: way
+type: node
 latitude: 38.21079
 longitude: -85.59858
 postcode: "40220"
 city: Jeffersontown
-street: "Stony Brook Drive"
-housenumber: 2360
+street: Stony Brook Drive
+housenumber: "2360"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2360+stony+brook+dr-louisville-ky-40220/id=3618"
+website: https://www.walgreens.com/locator/walgreens-2360+stony+brook+dr-louisville-ky-40220/id=3618

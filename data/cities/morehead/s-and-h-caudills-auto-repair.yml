@@ -1,11 +1,11 @@
 id: 892098375
-type: way
+type: node
 latitude: 38.23821
 longitude: -83.50739
 postcode: "40351"
 city: Morehead
-street: "Flemingsburg Road"
-housenumber: 5835
-phone: "606-548-9070"
-opening_hours: "Mo-Fr 07:00-17:00, Sa 08:00-14:00"
-website: "https://shcaudillsauto.com"
+street: Flemingsburg Road
+housenumber: "5835"
+phone: 606-548-9070
+opening_hours: Mo-Fr 07:00-17:00, Sa 08:00-14:00
+website: https://shcaudillsauto.com

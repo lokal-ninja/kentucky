@@ -1,11 +1,11 @@
 id: 329551402
-type: way
+type: node
 latitude: 38.24729
 longitude: -85.51186
 postcode: "40243"
 city: Middletown
-street: "Shelbyville Road"
-housenumber: 12981
-phone: "+1 502-244-2551"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4450/middletown-ky/whats-new"
+street: Shelbyville Road
+housenumber: "12981"
+phone: +1 502-244-2551
+opening_hours: 24/7
+website: https://www.walmart.com/store/4450/middletown-ky/whats-new

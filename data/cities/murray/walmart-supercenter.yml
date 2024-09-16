@@ -1,11 +1,11 @@
 id: 310537735
-type: way
+type: node
 latitude: 36.62777
 longitude: -88.31848
 postcode: "42071"
 city: Murray
-street: "North 12th Street"
-housenumber: 809
-phone: "+1 270-753-2195"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/410/murray-ky/whats-new"
+street: North 12th Street
+housenumber: "809"
+phone: +1 270-753-2195
+opening_hours: 24/7
+website: https://www.walmart.com/store/410/murray-ky/whats-new

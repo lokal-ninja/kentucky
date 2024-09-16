@@ -1,11 +1,11 @@
 id: 403996817
-type: way
+type: node
 latitude: 37.99928
 longitude: -84.44712
 postcode: ""
 city: Lexington
-street: "Sand Lake Drive"
-housenumber: 105
+street: Sand Lake Drive
+housenumber: "105"
 phone: ""
 opening_hours: ""
-website: "https://www.carmax.com/stores/7204"
+website: https://www.carmax.com/stores/7204

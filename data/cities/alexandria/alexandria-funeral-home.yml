@@ -4,8 +4,8 @@ latitude: 38.96354
 longitude: -84.39164
 postcode: "41001"
 city: Alexandria
-street: "Washington Street"
-housenumber: 325
-phone: "+1-859-635-9590"
+street: Washington Street
+housenumber: "325"
+phone: +1-859-635-9590
 opening_hours: ""
-website: "https://www.alexandriafh.com"
+website: https://www.alexandriafh.com

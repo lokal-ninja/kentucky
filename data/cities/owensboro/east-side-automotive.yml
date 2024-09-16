@@ -1,11 +1,11 @@
 id: 1075004464
-type: way
+type: node
 latitude: 37.78237
 longitude: -87.07758
 postcode: "42303"
 city: Owensboro
-street: "East 4th Street"
-housenumber: 2920
+street: East 4th Street
+housenumber: "2920"
 phone: "+12704781084"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.bandlautosalesky.com/"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.bandlautosalesky.com/

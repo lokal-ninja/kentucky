@@ -1,11 +1,11 @@
 id: 1270767576
-type: way
+type: node
 latitude: 38.21679
 longitude: -85.20322
 postcode: "40065"
 city: Shelbyville
-street: "Mount Tabor Court"
-housenumber: 20
+street: Mount Tabor Court
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

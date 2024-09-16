@@ -1,11 +1,11 @@
 id: 790963664
-type: way
+type: node
 latitude: 38.42244
 longitude: -83.75486
-postcode: "41041-9663"
+postcode: 41041-9663
 city: Flemingsburg
-street: "Windsor Road"
-housenumber: 135
-phone: "+1 606-849-2110"
-opening_hours: "Mo-Sa 08:00-18:00"
+street: Windsor Road
+housenumber: "135"
+phone: +1 606-849-2110
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

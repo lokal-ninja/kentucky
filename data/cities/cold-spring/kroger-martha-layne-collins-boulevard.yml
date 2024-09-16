@@ -1,11 +1,11 @@
 id: 42434948
-type: way
+type: node
 latitude: 39.02522
 longitude: -84.45344
 postcode: "41076"
 city: Cold Spring
-street: "Martha Layne Collins Boulevard"
-housenumber: 70
-phone: "+1 859-781-6372"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.kroger.com/stores/grocery/ky/cold-spring/highland-hts-cold-sp/014/00946"
+street: Martha Layne Collins Boulevard
+housenumber: "70"
+phone: +1 859-781-6372
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.kroger.com/stores/grocery/ky/cold-spring/highland-hts-cold-sp/014/00946

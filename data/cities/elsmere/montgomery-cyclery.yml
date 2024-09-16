@@ -1,11 +1,11 @@
 id: 161394978
-type: way
+type: node
 latitude: 39.01558
 longitude: -84.60365
 postcode: "41018"
 city: Elsmere
-street: "Dixie Highway"
-housenumber: 3708
-phone: "+1-859-342-7300"
+street: Dixie Highway
+housenumber: "3708"
+phone: +1-859-342-7300
 opening_hours: ""
-website: "https://www.montgomerycyclery.com/"
+website: https://www.montgomerycyclery.com/

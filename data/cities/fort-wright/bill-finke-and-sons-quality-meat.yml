@@ -1,11 +1,11 @@
 id: 141726341
-type: way
+type: node
 latitude: 39.0688
 longitude: -84.54057
 postcode: "41011"
 city: Fort Wright
-street: "Amsterdam Road"
-housenumber: 1502
+street: Amsterdam Road
+housenumber: "1502"
 phone: "+18592618899"
 opening_hours: ""
-website: "https://www.facebook.com/FinkesMarket/"
+website: https://www.facebook.com/FinkesMarket/

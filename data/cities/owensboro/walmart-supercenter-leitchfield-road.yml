@@ -1,11 +1,11 @@
 id: 547859099
-type: way
+type: node
 latitude: 37.75787
 longitude: -87.06148
 postcode: "42303"
 city: Owensboro
-street: "Leitchfield Road"
-housenumber: 3151
-phone: "+1 270-683-5553"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3363/owensboro-ky/whats-new"
+street: Leitchfield Road
+housenumber: "3151"
+phone: +1 270-683-5553
+opening_hours: 24/7
+website: https://www.walmart.com/store/3363/owensboro-ky/whats-new

@@ -1,11 +1,11 @@
 id: 1114757106
-type: way
+type: node
 latitude: 37.10953
 longitude: -87.88418
 postcode: "42445"
 city: Princeton
-street: "West Main Street"
-housenumber: 219
-phone: "270-365-0145"
-opening_hours: "Mo,Tu,Th 12:00-19:00; We, Fr 12:00-18:00; Sa 10:00-17:00"
-website: "https://www.ziobrosformals.com"
+street: West Main Street
+housenumber: "219"
+phone: 270-365-0145
+opening_hours: Mo,Tu,Th 12:00-19:00; We, Fr 12:00-18:00; Sa 10:00-17:00
+website: https://www.ziobrosformals.com

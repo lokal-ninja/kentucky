@@ -1,11 +1,11 @@
 id: 585518769
-type: way
+type: node
 latitude: 38.05271
 longitude: -84.71248
 postcode: "40383"
 city: Versailles
-street: "Kroger Way"
-housenumber: 366
-phone: "+1 859-214-5005"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ky/versailles/pet-supplies-versailles-ky-2522.html"
+street: Kroger Way
+housenumber: "366"
+phone: +1 859-214-5005
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/ky/versailles/pet-supplies-versailles-ky-2522.html

@@ -1,11 +1,11 @@
 id: 1117428018
-type: way
+type: node
 latitude: 37.10717
 longitude: -87.9138
 postcode: "42445"
 city: Princeton
-street: "US HWY 62 W"
-housenumber: 1240
-phone: "270-963-9084"
+street: US HWY 62 W
+housenumber: "1240"
+phone: 270-963-9084
 opening_hours: ""
-website: "https://westmarket.commentsold.com/store"
+website: https://westmarket.commentsold.com/store

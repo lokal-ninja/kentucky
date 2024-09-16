@@ -1,11 +1,11 @@
 id: 750614104
-type: way
+type: node
 latitude: 37.03641
 longitude: -84.62802
 postcode: "42501"
 city: Somerset
-street: "South Highway 27"
-housenumber: 4105
-phone: "+1 833-470-7044"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ky/somerset/4105-hwy-27-s"
+street: South Highway 27
+housenumber: "4105"
+phone: +1 833-470-7044
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ky/somerset/4105-hwy-27-s

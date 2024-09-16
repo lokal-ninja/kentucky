@@ -1,11 +1,11 @@
 id: 1205965762
-type: way
+type: node
 latitude: 37.27409
 longitude: -86.27483
 postcode: "42285"
 city: Sweeden
-street: "Nolin Dam Road"
-housenumber: 60
+street: Nolin Dam Road
+housenumber: "60"
 phone: "+15026947286"
-opening_hours: "Mo-Su 10:00-20:00"
+opening_hours: Mo-Su 10:00-20:00
 website: ""

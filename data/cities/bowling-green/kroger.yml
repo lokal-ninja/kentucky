@@ -4,8 +4,8 @@ latitude: 36.99666
 longitude: -86.42498
 postcode: "42101"
 city: Bowling Green
-street: "US 31W Bypass"
-housenumber: 350
-phone: "+1 270-796-5987"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/ky/bowling-green/bypass-riverside/026/00535"
+street: US 31W Bypass
+housenumber: "350"
+phone: +1 270-796-5987
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/ky/bowling-green/bypass-riverside/026/00535

@@ -1,11 +1,11 @@
 id: 257142113
-type: way
+type: node
 latitude: 38.02802
 longitude: -84.49056
 postcode: "40502"
 city: Lexington
-street: "East High Street"
-housenumber: 882
-phone: "+1 859 276 0494"
+street: East High Street
+housenumber: "882"
+phone: +1 859 276 0494
 opening_hours: ""
-website: "http://www.morrisbookshop.com/"
+website: http://www.morrisbookshop.com/

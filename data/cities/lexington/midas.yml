@@ -1,11 +1,11 @@
 id: 403976386
-type: way
+type: node
 latitude: 38.02013
 longitude: -84.52757
 postcode: ""
 city: Lexington
-street: "Southland Drive"
-housenumber: 457
+street: Southland Drive
+housenumber: "457"
 phone: ""
 opening_hours: ""
 website: ""

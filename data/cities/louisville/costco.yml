@@ -1,11 +1,11 @@
 id: 66754241
-type: way
+type: node
 latitude: 38.31711
 longitude: -85.57385
 postcode: "40241"
 city: Louisville
-street: "Norton Healthcare Boulevard"
-housenumber: 5020
-phone: "+1 502-420-0160"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/ne-louisville-louisville-ky-634.html"
+street: Norton Healthcare Boulevard
+housenumber: "5020"
+phone: +1 502-420-0160
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/ne-louisville-louisville-ky-634.html

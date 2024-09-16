@@ -1,11 +1,11 @@
 id: 970095405
-type: way
+type: node
 latitude: 37.54905
 longitude: -85.73417
 postcode: "42748"
 city: Hodgenville
-street: "Lincoln Drive"
-housenumber: 102
+street: Lincoln Drive
+housenumber: "102"
 phone: ""
 opening_hours: ""
-website: "https://savealot.com/grocery-stores/hodgenville-42748-23114/"
+website: https://savealot.com/grocery-stores/hodgenville-42748-23114/

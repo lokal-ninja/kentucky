@@ -1,11 +1,11 @@
 id: 591353418
-type: way
+type: node
 latitude: 38.34058
 longitude: -85.61911
 postcode: "40059"
 city: Prospect
-street: "US-42"
-housenumber: 9211
-phone: "(502) 228-0700"
-opening_hours: "Mo-Fr 07:00-19:00, Sa 08:00-16:00"
-website: "https://highlandcleaners.com/"
+street: US-42
+housenumber: "9211"
+phone: (502) 228-0700
+opening_hours: Mo-Fr 07:00-19:00, Sa 08:00-16:00
+website: https://highlandcleaners.com/

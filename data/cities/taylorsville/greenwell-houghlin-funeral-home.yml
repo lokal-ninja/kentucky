@@ -1,11 +1,11 @@
 id: 1117072052
-type: way
+type: node
 latitude: 38.03458
 longitude: -85.34538
 postcode: "40071"
 city: Taylorsville
-street: "Reasor Avenue"
-housenumber: 101
+street: Reasor Avenue
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

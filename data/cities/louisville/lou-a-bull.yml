@@ -1,11 +1,11 @@
 id: 330578496
-type: way
+type: node
 latitude: 38.25428
 longitude: -85.73294
 postcode: "40206"
 city: Louisville
-street: "East Main Street"
-housenumber: 1015
+street: East Main Street
+housenumber: "1015"
 phone: ""
-opening_hours: "Tu-Th 11:00-19:00"
+opening_hours: Tu-Th 11:00-19:00
 website: ""

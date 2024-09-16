@@ -1,11 +1,11 @@
 id: 588979219
-type: way
+type: node
 latitude: 37.11718
 longitude: -82.79429
 postcode: "41858"
 city: Whitesburg
-street: "Whitesburg Plaza"
-housenumber: 350
-phone: "+1 606-633-0152"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/552/whitesburg-ky/whats-new"
+street: Whitesburg Plaza
+housenumber: "350"
+phone: +1 606-633-0152
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/552/whitesburg-ky/whats-new

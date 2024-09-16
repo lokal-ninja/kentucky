@@ -1,11 +1,11 @@
 id: 557147598
-type: way
+type: node
 latitude: 38.00232
 longitude: -84.21498
 postcode: "40391"
 city: Winchester
-street: "Bypass Road"
-housenumber: 951
-phone: "+1 859 744 0858"
-opening_hours: "07:00-21:00"
-website: "https://www.ruralking.com/winchester-ky"
+street: Bypass Road
+housenumber: "951"
+phone: +1 859 744 0858
+opening_hours: 07:00-21:00
+website: https://www.ruralking.com/winchester-ky

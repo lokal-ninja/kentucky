@@ -1,11 +1,11 @@
 id: 1012599109
-type: way
+type: node
 latitude: 37.74726
 longitude: -83.06185
 postcode: "41465"
 city: Salyersville
-street: "Parkway Drive"
-housenumber: 308
+street: Parkway Drive
+housenumber: "308"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-308+parkway+dr-salyersville-ky-41465/id=19545"
+website: https://www.walgreens.com/locator/walgreens-308+parkway+dr-salyersville-ky-41465/id=19545

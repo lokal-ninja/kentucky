@@ -1,11 +1,11 @@
 id: 864005777
-type: way
+type: node
 latitude: 38.78709
 longitude: -84.36985
 postcode: "41006"
 city: Butler
-street: "Matilda Street"
-housenumber: 220
+street: Matilda Street
+housenumber: "220"
 phone: ""
 opening_hours: ""
 website: ""

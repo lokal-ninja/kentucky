@@ -1,11 +1,11 @@
 id: 337707585
-type: way
+type: node
 latitude: 38.21866
 longitude: -85.62832
 postcode: "40220"
 city: Louisville
-street: "Breckenridge Lane"
-housenumber: 2965
+street: Breckenridge Lane
+housenumber: "2965"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/KY/Louisville/2965-Breckenridge-Lane"
+website: https://www.speedway.com/locations/KY/Louisville/2965-Breckenridge-Lane

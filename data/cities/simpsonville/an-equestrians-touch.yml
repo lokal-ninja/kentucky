@@ -1,11 +1,11 @@
 id: 1055884873
-type: way
+type: node
 latitude: 38.22228
 longitude: -85.34887
 postcode: "40067"
 city: Simpsonville
-street: "Shelbyville Road"
-housenumber: 6915
+street: Shelbyville Road
+housenumber: "6915"
 phone: ""
 opening_hours: ""
-website: "http://www.equestrianstouch.com/"
+website: http://www.equestrianstouch.com/

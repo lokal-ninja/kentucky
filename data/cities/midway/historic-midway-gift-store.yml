@@ -1,11 +1,11 @@
 id: 1192736928
-type: way
+type: node
 latitude: 38.15074
 longitude: -84.68308
 postcode: "40347"
 city: Midway
-street: "East Main Street"
-housenumber: 124
+street: East Main Street
+housenumber: "124"
 phone: ""
 opening_hours: ""
 website: ""

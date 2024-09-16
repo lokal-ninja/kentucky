@@ -1,11 +1,11 @@
 id: 658195142
-type: way
+type: node
 latitude: 37.99942
 longitude: -85.70867
 postcode: "40165"
 city: Shepherdsville
-street: "Conestoga Parkway"
-housenumber: 545
-phone: "+1 502-281-5005"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4118/shepherdsville-ky/whats-new"
+street: Conestoga Parkway
+housenumber: "545"
+phone: +1 502-281-5005
+opening_hours: 24/7
+website: https://www.walmart.com/store/4118/shepherdsville-ky/whats-new

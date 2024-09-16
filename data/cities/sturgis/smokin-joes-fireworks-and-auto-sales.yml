@@ -1,11 +1,11 @@
 id: 874118226
-type: way
+type: node
 latitude: 37.67545
 longitude: -88.0968
 postcode: "42459"
 city: Sturgis
-street: "KY-56"
-housenumber: 10477
+street: KY-56
+housenumber: "10477"
 phone: "12703890407"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.smokinjoesfireworks.com/"
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.smokinjoesfireworks.com/

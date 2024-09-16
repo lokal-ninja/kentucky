@@ -1,11 +1,11 @@
 id: 1021340128
-type: way
+type: node
 latitude: 37.48586
 longitude: -86.27619
 postcode: "42754"
 city: Leitchfield
-street: "Elizabethtown Road"
-housenumber: 1278
+street: Elizabethtown Road
+housenumber: "1278"
 phone: ""
 opening_hours: ""
 website: ""
