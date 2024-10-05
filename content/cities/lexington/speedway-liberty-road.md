@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /lexington/speedway-richmond-road/
+url: /lexington/speedway-liberty-road/
 shop: convenience
 ---
