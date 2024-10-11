@@ -1,6 +1,6 @@
 ---
 title: Wilder
 url: /wilder/
-latitude: 39.019
-longitude: -84.48
+latitude: 39.016
+longitude: -84.482
 ---
