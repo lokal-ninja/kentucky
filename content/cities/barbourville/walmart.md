@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /barbourville/walmart/
-shop: supermarket
+shop: department store
 ---

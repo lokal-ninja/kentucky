@@ -1,6 +1,6 @@
 ---
 title: Martin
 url: /martin/
-latitude: 37.556
-longitude: -82.772
+latitude: 37.562
+longitude: -82.761
 ---

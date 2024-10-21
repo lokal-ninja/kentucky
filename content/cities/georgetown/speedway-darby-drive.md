@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /florence/speedway-us-highway-42-2/
+url: /georgetown/speedway-darby-drive/
 shop: convenience
 ---
