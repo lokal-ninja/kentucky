@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /frankfort/speedway-louisville-road/
+url: /florence/speedway-mount-zion-road/
 shop: convenience
 ---

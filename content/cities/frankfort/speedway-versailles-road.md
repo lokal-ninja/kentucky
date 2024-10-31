@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /georgetown/speedway-darby-drive/
+url: /frankfort/speedway-versailles-road/
 shop: convenience
 ---
