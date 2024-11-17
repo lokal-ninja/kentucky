@@ -1,6 +1,6 @@
 ---
 title: Fort Wright
 url: /fort-wright/
-latitude: 39.035
-longitude: -84.536
+latitude: 39.069
+longitude: -84.541
 ---
