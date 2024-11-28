@@ -1,6 +1,6 @@
 ---
 title: Corbin
 url: /corbin/
-latitude: 36.928
-longitude: -84.105
+latitude: 36.841
+longitude: -84.26
 ---
