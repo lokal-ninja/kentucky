@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /covington/speedway-west-5th-street/
+url: /florence/speedway-burlington-pike-2/
 shop: convenience
 ---
