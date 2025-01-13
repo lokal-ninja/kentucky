@@ -1,5 +1,5 @@
 ---
 title: "Barnes & Noble"
-url: /newport-kentucky/barnes-and-noble/
+url: /newport/barnes-and-noble/
 shop: books
 ---
