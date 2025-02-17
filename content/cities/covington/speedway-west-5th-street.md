@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /salyersville/speedway/
+url: /covington/speedway-west-5th-street/
 shop: convenience
 ---

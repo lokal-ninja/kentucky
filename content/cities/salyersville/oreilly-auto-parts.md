@@ -1,5 +1,5 @@
 ---
 title: "O'Reilly Auto Parts"
-url: /louisville/oreilly-auto-parts-west-broadway/
+url: /salyersville/oreilly-auto-parts/
 shop: car parts
 ---
