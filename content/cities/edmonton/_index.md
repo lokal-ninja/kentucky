@@ -1,6 +1,6 @@
 ---
 title: Edmonton
 url: /edmonton/
-latitude: 36.983
-longitude: -85.628
+latitude: 36.987
+longitude: -85.639
 ---
