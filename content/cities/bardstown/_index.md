@@ -1,6 +1,6 @@
 ---
 title: Bardstown
 url: /bardstown/
-latitude: 37.81
-longitude: -85.46
+latitude: 37.824
+longitude: -85.463
 ---
