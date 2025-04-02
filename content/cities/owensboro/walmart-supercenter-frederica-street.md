@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /owensboro/walmart-supercenter-leitchfield-road/
+url: /owensboro/walmart-supercenter-frederica-street/
 shop: supermarket
 ---
