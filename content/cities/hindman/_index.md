@@ -1,6 +1,6 @@
 ---
 title: Hindman
 url: /hindman/
-latitude: 37.322
-longitude: -82.965
+latitude: 37.315
+longitude: -82.942
 ---

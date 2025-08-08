@@ -1,6 +1,6 @@
 ---
 title: Hardinsburg
 url: /hardinsburg/
-latitude: 37.768
-longitude: -86.444
+latitude: 37.774
+longitude: -86.446
 ---

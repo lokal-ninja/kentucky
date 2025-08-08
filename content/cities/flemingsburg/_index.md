@@ -1,6 +1,6 @@
 ---
 title: Flemingsburg
 url: /flemingsburg/
-latitude: 38.422
-longitude: -83.755
+latitude: 38.419
+longitude: -83.736
 ---
