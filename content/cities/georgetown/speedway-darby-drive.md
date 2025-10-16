@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /hebron/speedway-litton-lane/
+url: /georgetown/speedway-darby-drive/
 shop: convenience
 ---
