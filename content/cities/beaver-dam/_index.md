@@ -1,6 +1,6 @@
 ---
 title: Beaver Dam
 url: /beaver-dam/
-latitude: 37.429
-longitude: -86.881
+latitude: 37.418
+longitude: -86.879
 ---
