@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /frankfort/speedway-versailles-road/
+url: /hebron/speedway-litton-lane/
 shop: convenience
 ---
