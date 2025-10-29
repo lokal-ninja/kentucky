@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /florence/speedway-burlington-pike-2/
+url: /frankfort/speedway-versailles-road/
 shop: convenience
 ---
