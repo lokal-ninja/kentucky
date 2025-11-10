@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /shelbyville/speedway-midland-trail/
+url: /florence/speedway-mount-zion-road/
 shop: convenience
 ---
