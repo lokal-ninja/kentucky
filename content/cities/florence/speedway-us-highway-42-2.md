@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /lexington/speedway-southland-drive/
+url: /florence/speedway-us-highway-42-2/
 shop: convenience
 ---
