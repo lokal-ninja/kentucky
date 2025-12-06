@@ -1,6 +1,6 @@
 ---
 title: Mount Washington
 url: /mount-washington/
-latitude: 38.057
-longitude: -85.538
+latitude: 38.053
+longitude: -85.542
 ---
