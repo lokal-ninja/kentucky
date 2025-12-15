@@ -1,11 +1,12 @@
 id: 1041621573
 type: node
-latitude: 37.84348
-longitude: -85.9411
+latitude: 37.84347
+longitude: -85.94107
 postcode: "40160"
 city: Radcliff
 street: Dixie Highway North
 housenumber: "374"
 phone: +1-270-352-1500
-opening_hours: ""
-website: https://www.shopamericanrental.com/
+opening_hours: Mo-Tu 09:00-06:00; We 09:00-05:00; Th 09:00-06:00; Fr 09:00-07:00;
+    Sa 09:00-05:00; Su
+website: https://www.shopamericanrental.com/stores/radcliff

@@ -1,6 +1,6 @@
 ---
 title: Henderson
 url: /henderson/
-latitude: 37.835
-longitude: -87.593
+latitude: 37.839
+longitude: -87.59
 ---
