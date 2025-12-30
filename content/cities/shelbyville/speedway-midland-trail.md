@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /lexington/speedway-liberty-road/
+url: /shelbyville/speedway-midland-trail/
 shop: convenience
 ---
