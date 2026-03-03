@@ -1,6 +1,6 @@
 ---
 title: McKee
 url: /mckee/
-latitude: 37.429
-longitude: -84.005
+latitude: 37.432
+longitude: -83.985
 ---
