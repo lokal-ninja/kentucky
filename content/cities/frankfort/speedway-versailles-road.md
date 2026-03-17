@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /florence/speedway-us-highway-42/
+url: /frankfort/speedway-versailles-road/
 shop: convenience
 ---

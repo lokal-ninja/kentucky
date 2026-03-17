@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /shelbyville/speedway-midland-trail/
+url: /maysville/speedway-us-highway-68/
 shop: convenience
 ---

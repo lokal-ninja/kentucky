@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /maysville/speedway-forest-avenue/
+url: /florence/speedway-burlington-pike-2/
 shop: convenience
 ---
