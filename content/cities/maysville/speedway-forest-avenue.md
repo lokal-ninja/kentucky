@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /maysville/speedway-us-highway-68/
+url: /maysville/speedway-forest-avenue/
 shop: convenience
 ---
