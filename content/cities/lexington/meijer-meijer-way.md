@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /lexington/meijer-paul-jones-way/
+url: /lexington/meijer-meijer-way/
 shop: supermarket
 ---

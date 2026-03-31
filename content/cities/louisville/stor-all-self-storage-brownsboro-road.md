@@ -1,5 +1,5 @@
 ---
 title: "Stor All Self Storage"
-url: /louisville/stor-all-self-storage-new-cut-road/
+url: /louisville/stor-all-self-storage-brownsboro-road/
 shop: storage rental
 ---
