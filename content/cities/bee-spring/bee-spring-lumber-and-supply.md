@@ -1,5 +1,5 @@
 ---
-title: "Bee Spring Lumber And Supply"
+title: "Bee Spring Lumber and Supply"
 url: /bee-spring/bee-spring-lumber-and-supply/
 shop: hardware
 ---
