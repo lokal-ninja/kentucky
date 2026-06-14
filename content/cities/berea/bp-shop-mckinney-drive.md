@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
-url: /berea/bp-shop-peggy-flats-road/
+url: /berea/bp-shop-mckinney-drive/
 shop: convenience
 ---

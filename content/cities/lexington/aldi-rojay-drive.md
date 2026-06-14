@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /lexington/aldi-colesbury-circle/
+url: /lexington/aldi-rojay-drive/
 shop: supermarket
 ---
