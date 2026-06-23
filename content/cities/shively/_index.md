@@ -1,6 +1,6 @@
 ---
 title: Shively
 url: /shively/
-latitude: 38.195
-longitude: -85.812
+latitude: 38.176
+longitude: -85.827
 ---
