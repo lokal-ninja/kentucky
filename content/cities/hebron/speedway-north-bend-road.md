@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /georgetown/speedway-southgate-drive/
+url: /hebron/speedway-north-bend-road/
 shop: convenience
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lawrenceburg
 url: /lawrenceburg/
-latitude: 38.035
-longitude: -84.895
+latitude: 38.023
+longitude: -84.911
 ---
