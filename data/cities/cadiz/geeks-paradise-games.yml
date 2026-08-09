@@ -7,5 +7,5 @@ city: Cadiz
 street: Main Street
 housenumber: "59"
 phone: +1-270-350-4522
-opening_hours: Mo-Th 10:00-20:00 fr-sat 10:00-23:00 su 11:00-20:00
+opening_hours: Mo-Th 10:00-20:00; Fr-Sa 10:00-23:00; Su 11:00-20:00
 website: ""

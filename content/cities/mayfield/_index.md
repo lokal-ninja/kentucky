@@ -1,6 +1,6 @@
 ---
 title: Mayfield
 url: /mayfield/
-latitude: 36.721
-longitude: -88.624
+latitude: 36.723
+longitude: -88.631
 ---
