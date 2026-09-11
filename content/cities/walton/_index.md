@@ -1,6 +1,6 @@
 ---
 title: Walton
 url: /walton/
-latitude: 38.857
-longitude: -84.618
+latitude: 38.923
+longitude: -84.627
 ---

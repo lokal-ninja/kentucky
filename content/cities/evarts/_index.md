@@ -1,6 +1,6 @@
 ---
 title: Evarts
 url: /evarts/
-latitude: 36.864
-longitude: -83.197
+latitude: 36.866
+longitude: -83.194
 ---
