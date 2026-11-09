@@ -1,6 +1,6 @@
 ---
 title: Nicholasville
 url: /nicholasville/
-latitude: 37.866
-longitude: -84.581
+latitude: 37.898
+longitude: -84.566
 ---
